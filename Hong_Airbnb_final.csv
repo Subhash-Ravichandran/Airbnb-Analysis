@@ -1,0 +1,584 @@
+city,property_type,price,accommodates,room_type,host_neighbourhood,Latitudes,Longitudes,number_of_reviews,number_of_reviews
+Hong Kong,Apartment,361.0,2,Private room,Jordan,114.17158,22.30469,0,0
+Hong Kong,Apartment,699.0,3,Entire home/apt,Soho,114.15027,22.28158,3,3
+Hong Kong,Apartment,400.0,3,Private room,Mong Kok,114.17073,22.31723,22,22
+Hong Kong,Guesthouse,181.0,1,Private room,Shek Kip Mei,114.1669,22.3314,81,81
+Hong Kong,Apartment,966.0,2,Entire home/apt,Sheung Wan,114.15007,22.28422,1,1
+Hong Kong,Apartment,330.0,2,Private room,Mong Kok,114.17034,22.31655,9,9
+Hong Kong,Guesthouse,487.0,2,Private room,0,113.92823,22.27671,162,162
+Hong Kong,Apartment,997.0,4,Entire home/apt,Tsim Sha Tsui,114.17088,22.29663,145,145
+Hong Kong,Condominium,479.0,2,Private room,Mong Kok,114.17094,22.32074,179,179
+Hong Kong,Apartment,353.0,4,Private room,Tai Kok Sui,114.16262,22.32733,18,18
+Hong Kong,Apartment,997.0,2,Entire home/apt,Sheung Wan,114.15241,22.28351,10,10
+Hong Kong,Apartment,597.0,4,Private room,Mong Kok,114.18651,22.28186,15,15
+Hong Kong,Apartment,1703.0,5,Entire home/apt,Soho,114.15315,22.28028,86,86
+Hong Kong,Condominium,447.0,2,Private room,0,114.20854,22.29099,72,72
+Hong Kong,Apartment,1146.0,5,Entire home/apt,Downtown Vancouver,114.15202,22.28582,125,125
+Hong Kong,Apartment,801.0,5,Entire home/apt,0,114.12074,22.40547,0,0
+Hong Kong,Apartment,1484.0,2,Entire home/apt,0,114.14881,22.28354,18,18
+Hong Kong,Apartment,2748.0,2,Private room,Tai Kok Sui,114.16558,22.308,0,0
+Hong Kong,Hostel,447.0,1,Private room,Jordan,114.17127,22.30549,203,203
+Hong Kong,Condominium,463.0,2,Entire home/apt,Tsim Sha Tsui,114.17545,22.29643,206,206
+Hong Kong,Apartment,400.0,2,Private room,Jordan,114.17237,22.30612,105,105
+Hong Kong,Apartment,424.0,1,Private room,Jordan,114.17106,22.30692,211,211
+Hong Kong,Apartment,298.0,2,Private room,Jordan,114.17242,22.30515,139,139
+Hong Kong,Apartment,353.0,2,Private room,Happy Valley,114.18233,22.27681,0,0
+Hong Kong,Bed and breakfast,283.0,2,Private room,Mong Kok,114.17082,22.31871,38,38
+Hong Kong,Apartment,793.0,2,Entire home/apt,Sheung Wan,114.15076,22.28352,1,1
+Hong Kong,Apartment,188.0,1,Private room,0,114.25746,22.31752,27,27
+Hong Kong,Apartment,298.0,1,Entire home/apt,Causeway Bay,114.16984,22.31915,1,1
+Hong Kong,Apartment,903.0,5,Entire home/apt,Sai Ying Pun,114.14238,22.28737,3,3
+Hong Kong,Apartment,761.0,3,Entire home/apt,Causeway Bay,114.19243,22.27928,11,11
+Hong Kong,Apartment,267.0,2,Private room,Tsim Sha Tsui,114.17366,22.2982,36,36
+Hong Kong,Apartment,691.0,2,Entire home/apt,Tsim Sha Tsui,114.17546,22.29937,3,3
+Hong Kong,Apartment,903.0,2,Entire home/apt,Sheung Wan,114.15037,22.28515,1,1
+Hong Kong,Apartment,1492.0,8,Entire home/apt,Causeway Bay,114.18445,22.27878,36,36
+Hong Kong,Apartment,306.0,2,Private room,Mong Kok,114.16885,22.31463,71,71
+Hong Kong,Apartment,502.0,2,Entire home/apt,0,114.17308,22.30039,269,269
+Hong Kong,Apartment,550.0,2,Entire home/apt,Shek Tong Tsui,114.13508,22.28491,0,0
+Hong Kong,Apartment,314.0,1,Private room,0,113.99074,22.38087,0,0
+Hong Kong,Apartment,502.0,1,Shared room,0,113.9801,22.40435,0,0
+Hong Kong,Apartment,589.0,3,Private room,Happy Valley,114.18542,22.26824,33,33
+Hong Kong,Apartment,1303.0,4,Entire home/apt,Stanley,114.21303,22.21846,60,60
+Hong Kong,Apartment,220.0,2,Private room,Shek Tong Tsui,114.13005,22.28392,14,14
+Hong Kong,Apartment,322.0,1,Private room,0,114.1631,22.4483,0,0
+Hong Kong,Apartment,2802.0,5,Entire home/apt,North Point,114.1918,22.282,0,0
+Hong Kong,Apartment,597.0,2,Private room,Jordan,114.1714,22.30635,20,20
+Hong Kong,Apartment,597.0,2,Private room,Jordan,114.17296,22.30547,14,14
+Hong Kong,Apartment,1099.0,6,Entire home/apt,Causeway Bay,114.18976,22.27983,4,4
+Hong Kong,Apartment,502.0,2,Entire home/apt,Sheung Wan,114.15234,22.28572,0,0
+Hong Kong,Apartment,502.0,1,Private room,Tai Kok Sui,114.15992,22.32324,5,5
+Hong Kong,Apartment,2496.0,2,Private room,Mid-Levels,114.14919,22.28174,0,0
+Hong Kong,Apartment,416.0,2,Entire home/apt,Sheung Wan,114.15096,22.284,13,13
+Hong Kong,Apartment,243.0,1,Private room,Sheung Wan,114.18065,22.27804,1,1
+Hong Kong,Apartment,597.0,2,Entire home/apt,Soho,114.1509,22.28117,0,0
+Hong Kong,Apartment,267.0,1,Private room,Sheung Wan,114.15097,22.28614,0,0
+Hong Kong,Apartment,848.0,2,Entire home/apt,Sheung Wan,114.14934,22.28346,0,0
+Hong Kong,Condominium,785.0,2,Entire home/apt,Kennedy Town,114.12979,22.27934,0,0
+Hong Kong,Apartment,1751.0,2,Entire home/apt,Sai Ying Pun,114.14292,22.28634,31,31
+Hong Kong,Apartment,1350.0,9,Entire home/apt,Causeway Bay,114.18207,22.28096,163,163
+Hong Kong,Apartment,338.0,1,Private room,0,114.15103,22.28109,7,7
+Hong Kong,Apartment,447.0,2,Entire home/apt,0,114.16775,22.32589,0,0
+Hong Kong,Apartment,196.0,1,Private room,0,114.00079,22.45054,0,0
+Hong Kong,Apartment,550.0,2,Entire home/apt,0,114.14243,22.28493,0,0
+Hong Kong,Apartment,400.0,2,Entire home/apt,Sheung Wan,114.14756,22.28559,2,2
+Hong Kong,Guest suite,290.0,1,Private room,Mong Kok,114.17131,22.31832,5,5
+Hong Kong,Hostel,259.0,2,Private room,Mong Kok,114.17146,22.31933,5,5
+Hong Kong,Apartment,557.0,1,Entire home/apt,0,114.23519,22.27809,0,0
+Hong Kong,Apartment,447.0,2,Private room,0,114.25503,22.30296,6,6
+Hong Kong,Apartment,518.0,2,Entire home/apt,0,114.13627,22.28544,1,1
+Hong Kong,Apartment,330.0,2,Private room,Tsim Sha Tsui,114.17212,22.29663,49,49
+Hong Kong,Apartment,400.0,2,Private room,Mong Kok,114.17106,22.31898,35,35
+Hong Kong,Apartment,369.0,1,Shared room,Quarry Bay,114.20927,22.28857,2,2
+Hong Kong,Condominium,11681.0,5,Shared room,0,114.10809,22.39939,1,1
+Hong Kong,Apartment,322.0,1,Private room,Wan Chai,114.17694,22.27757,32,32
+Hong Kong,Apartment,950.0,2,Entire home/apt,Sheung Wan,114.14609,22.2853,2,2
+Hong Kong,Apartment,573.0,2,Entire home/apt,Sai Ying Pun,114.14315,22.28855,9,9
+Hong Kong,Apartment,1201.0,3,Entire home/apt,Sheung Wan,114.14311,22.28586,38,38
+Hong Kong,Apartment,801.0,2,Entire home/apt,Sheung Wan,114.15013,22.28458,9,9
+Hong Kong,Apartment,1374.0,2,Private room,0,114.2265,22.23514,0,0
+Hong Kong,Apartment,997.0,6,Entire home/apt,Fortress Hill,114.19362,22.28933,6,6
+Hong Kong,Apartment,1562.0,9,Entire home/apt,Tai Kok Sui,114.17509,22.29879,43,43
+Hong Kong,Apartment,1499.0,3,Entire home/apt,Wan Chai,114.16853,22.2751,9,9
+Hong Kong,Apartment,440.0,2,Entire home/apt,Sheung Wan,114.14587,22.28754,5,5
+Hong Kong,Guesthouse,298.0,2,Private room,Mong Kok,114.17062,22.30908,2,2
+Hong Kong,Apartment,181.0,1,Private room,Shek Kip Mei,114.16676,22.33107,72,72
+Hong Kong,Apartment,361.0,2,Private room,0,114.17511,22.27735,83,83
+Hong Kong,Apartment,1303.0,8,Entire home/apt,Wan Chai,114.17739,22.2779,73,73
+Hong Kong,Apartment,793.0,2,Entire home/apt,Wan Chai,114.16813,22.27564,138,138
+Hong Kong,Hostel,652.0,3,Private room,Causeway Bay,114.18591,22.28275,8,8
+Hong Kong,Serviced apartment,573.0,1,Entire home/apt,Causeway Bay,114.15042,22.28746,1,1
+Hong Kong,Apartment,675.0,1,Private room,0,114.19518,22.2893,0,0
+Hong Kong,Apartment,1397.0,4,Entire home/apt,Sai Ying Pun,114.14013,22.28699,10,10
+Hong Kong,Apartment,722.0,2,Entire home/apt,0,114.15171,22.28138,6,6
+Hong Kong,Apartment,330.0,2,Private room,0,114.03646,22.4435,9,9
+Hong Kong,Apartment,801.0,3,Entire home/apt,Wan Chai,114.17171,22.279,100,100
+Hong Kong,Apartment,353.0,2,Private room,0,114.27299,22.29456,7,7
+Hong Kong,Apartment,361.0,2,Private room,0,114.16634,22.30716,348,348
+Hong Kong,Apartment,440.0,2,Private room,Sheung Wan,114.14881,22.28815,16,16
+Hong Kong,Apartment,495.0,2,Entire home/apt,0,114.17391,22.27557,0,0
+Hong Kong,Apartment,714.0,3,Entire home/apt,Sai Ying Pun,114.14149,22.28652,14,14
+Hong Kong,Apartment,251.0,1,Private room,North Point,114.20205,22.29117,1,1
+Hong Kong,Apartment,314.0,1,Private room,0,114.14695,22.28824,2,2
+Hong Kong,Apartment,2496.0,3,Entire home/apt,Sheung Wan,114.1486,22.28435,12,12
+Hong Kong,Apartment,589.0,2,Entire home/apt,Kennedy Town,114.12801,22.28243,2,2
+Hong Kong,Apartment,801.0,4,Entire home/apt,0,114.15288,22.28166,25,25
+Hong Kong,Apartment,314.0,1,Private room,0,114.27374,22.29665,11,11
+Hong Kong,Apartment,236.0,1,Entire home/apt,Tai Kok Sui,114.16681,22.30852,9,9
+Hong Kong,Apartment,659.0,2,Entire home/apt,Causeway Bay,114.15234,22.28427,0,0
+Hong Kong,Apartment,699.0,6,Entire home/apt,Wan Chai,114.17789,22.27669,126,126
+Hong Kong,Boutique hotel,298.0,2,Private room,Mong Kok,114.1696,22.3062,19,19
+Hong Kong,Apartment,652.0,2,Entire home/apt,Sai Ying Pun,114.14154,22.28531,27,27
+Hong Kong,Apartment,502.0,2,Private room,Causeway Bay,114.1827,22.27967,82,82
+Hong Kong,Apartment,981.0,5,Entire home/apt,Tsim Sha Tsui,114.17455,22.2993,97,97
+Hong Kong,Townhouse,377.0,1,Private room,0,114.24231,22.35633,12,12
+Hong Kong,Apartment,699.0,2,Shared room,0,114.14722,22.28654,0,0
+Hong Kong,Apartment,620.0,2,Entire home/apt,0,114.11165,22.22789,7,7
+Hong Kong,Guest suite,251.0,1,Private room,Mong Kok,114.17222,22.31859,13,13
+Hong Kong,Loft,754.0,3,Entire home/apt,Kennedy Town,114.12663,22.28314,14,14
+Hong Kong,Apartment,699.0,2,Entire home/apt,0,114.14856,22.28627,25,25
+Hong Kong,Apartment,997.0,3,Entire home/apt,0,114.15399,22.28259,24,24
+Hong Kong,Serviced apartment,353.0,2,Private room,Mong Kok,114.16735,22.32234,64,64
+Hong Kong,Apartment,314.0,2,Entire home/apt,Wan Chai,114.17872,22.2795,0,0
+Hong Kong,Apartment,1484.0,9,Entire home/apt,Mong Kok,114.16989,22.31377,27,27
+Hong Kong,Serviced apartment,338.0,2,Private room,Mong Kok,114.16922,22.32124,65,65
+Hong Kong,Apartment,196.0,1,Private room,Shek Tong Tsui,114.13011,22.28175,4,4
+Hong Kong,Apartment,447.0,2,Entire home/apt,Causeway Bay,114.18182,22.28134,88,88
+Hong Kong,Apartment,699.0,4,Entire home/apt,0,114.27492,22.29569,2,2
+Hong Kong,Apartment,761.0,5,Entire home/apt,Sham Shui Po,114.15214,22.28256,11,11
+Hong Kong,Apartment,314.0,2,Shared room,Mid-Levels,114.15007,22.28215,41,41
+Hong Kong,Apartment,801.0,2,Entire home/apt,Kennedy Town,114.12722,22.28271,6,6
+Hong Kong,Apartment,400.0,2,Private room,Tsim Sha Tsui,114.17143,22.29891,71,71
+Hong Kong,Apartment,589.0,4,Entire home/apt,Tai Kok Sui,114.17048,22.31162,10,10
+Hong Kong,Apartment,1397.0,12,Entire home/apt,Mong Kok,114.17134,22.31326,9,9
+Hong Kong,Apartment,181.0,1,Private room,Mong Kok,114.17016,22.32113,0,0
+Hong Kong,Apartment,353.0,1,Private room,0,114.28777,22.39392,6,6
+Hong Kong,Guest suite,447.0,1,Private room,0,114.1705,22.31998,0,0
+Hong Kong,Apartment,903.0,4,Entire home/apt,Soho,114.15086,22.28056,1,1
+Hong Kong,Apartment,683.0,4,Entire home/apt,Hung Hom,114.18214,22.30627,44,44
+Hong Kong,Apartment,589.0,2,Entire home/apt,Shek Tong Tsui,114.13245,22.28357,3,3
+Hong Kong,Guesthouse,196.0,1,Private room,Tsim Sha Tsui,114.17237,22.29738,34,34
+Hong Kong,Hotel,2002.0,4,Private room,Tsim Sha Tsui,114.17269,22.2987,13,13
+Hong Kong,Apartment,1499.0,8,Entire home/apt,Causeway Bay,114.18369,22.27966,47,47
+Hong Kong,Apartment,353.0,2,Private room,Mong Kok,114.17198,22.31578,23,23
+Hong Kong,Apartment,848.0,2,Entire home/apt,Sheung Wan,114.15313,22.28091,147,147
+Hong Kong,Apartment,848.0,4,Entire home/apt,0,113.9522,22.29421,0,0
+Hong Kong,Apartment,597.0,4,Entire home/apt,Sheung Wan,114.14805,22.2852,3,3
+Hong Kong,Apartment,801.0,4,Entire home/apt,0,114.01098,22.30356,5,5
+Hong Kong,Apartment,1499.0,3,Entire home/apt,The Peak,114.14943,22.27814,1,1
+Hong Kong,Hotel,447.0,4,Private room,Mong Kok,114.16977,22.32245,28,28
+Hong Kong,Apartment,400.0,2,Entire home/apt,0,114.13009,22.28313,39,39
+Hong Kong,Apartment,581.0,4,Entire home/apt,Mong Kok,114.16752,22.32103,30,30
+Hong Kong,Apartment,997.0,2,Entire home/apt,Sheung Wan,114.14886,22.28437,0,0
+Hong Kong,Apartment,1248.0,2,Entire home/apt,Sheung Wan,114.1482,22.28505,51,51
+Hong Kong,Apartment,173.0,1,Private room,Sheung Wan,114.16986,22.31892,0,0
+Hong Kong,Apartment,754.0,1,Private room,Soho,114.15339,22.28095,0,0
+Hong Kong,Apartment,754.0,4,Entire home/apt,Kowloon Tong,114.17491,22.33879,0,0
+Hong Kong,Apartment,502.0,2,Entire home/apt,Happy Valley,114.18424,22.26711,3,3
+Hong Kong,Serviced apartment,761.0,3,Entire home/apt,Tai Kok Sui,114.16569,22.30788,96,96
+Hong Kong,Apartment,447.0,2,Entire home/apt,Mong Kok,114.16816,22.31922,10,10
+Hong Kong,Apartment,165.0,1,Private room,Mong Kok,114.16959,22.32108,2,2
+Hong Kong,Other,502.0,2,Private room,Quarry Bay,114.21778,22.28665,25,25
+Hong Kong,Apartment,550.0,2,Entire home/apt,Shek Tong Tsui,114.13076,22.28427,10,10
+Hong Kong,Apartment,597.0,2,Entire home/apt,Sheung Wan,114.15197,22.28403,20,20
+Hong Kong,Apartment,604.0,5,Private room,Tsim Sha Tsui,114.17175,22.29778,31,31
+Hong Kong,Apartment,871.0,5,Entire home/apt,Jordan,114.16702,22.30654,12,12
+Hong Kong,Apartment,251.0,1,Private room,Tai Kok Sui,114.18378,22.27905,0,0
+Hong Kong,Apartment,754.0,5,Entire home/apt,Wan Chai,114.1722,22.278,2,2
+Hong Kong,Apartment,188.0,1,Private room,Mong Kok,114.17907,22.27862,0,0
+Hong Kong,Apartment,1492.0,8,Entire home/apt,0,114.17605,22.2784,20,20
+Hong Kong,Apartment,1389.0,6,Entire home/apt,Soho,114.15115,22.28161,9,9
+Hong Kong,Heritage hotel (India),2999.0,2,Private room,0,114.13867,22.28854,0,0
+Hong Kong,Condominium,699.0,2,Entire home/apt,Causeway Bay,114.18207,22.28112,121,121
+Hong Kong,Apartment,848.0,3,Entire home/apt,Hung Hom,114.18809,22.30294,3,3
+Hong Kong,Hotel,400.0,3,Private room,Mong Kok,114.16798,22.32099,50,50
+Hong Kong,Hostel,196.0,1,Shared room,North Point,114.19845,22.28974,0,0
+Hong Kong,Apartment,879.0,7,Entire home/apt,Mong Kok,114.16948,22.31694,38,38
+Hong Kong,Serviced apartment,1107.0,2,Private room,Fortress Hill,114.17887,22.27867,0,0
+Hong Kong,Bed and breakfast,353.0,1,Private room,Jordan,114.17127,22.30467,1,1
+Hong Kong,Hotel,298.0,2,Private room,Mong Kok,114.16714,22.32054,14,14
+Hong Kong,Apartment,283.0,8,Shared room,Wan Chai,114.17856,22.27949,22,22
+Hong Kong,Apartment,298.0,1,Private room,Tai Kok Sui,114.16653,22.30683,36,36
+Hong Kong,Serviced apartment,510.0,1,Private room,0,114.18623,22.30185,3,3
+Hong Kong,Guest suite,322.0,3,Entire home/apt,Mong Kok,114.19067,22.32932,4,4
+Hong Kong,Guesthouse,306.0,2,Private room,Tsim Sha Tsui,114.17191,22.29725,23,23
+Hong Kong,Guesthouse,298.0,2,Private room,Tsim Sha Tsui,114.17018,22.31085,9,9
+Hong Kong,Apartment,471.0,2,Entire home/apt,Wan Chai,114.17889,22.28109,1,1
+Hong Kong,Apartment,133.0,1,Private room,Wan Chai,114.17359,22.27579,4,4
+Hong Kong,Serviced apartment,2661.0,2,Private room,Fortress Hill,114.14098,22.28072,0,0
+Hong Kong,Apartment,1303.0,4,Entire home/apt,Causeway Bay,114.18152,22.28052,0,0
+Hong Kong,Apartment,400.0,2,Private room,Mong Kok,114.17289,22.31743,0,0
+Hong Kong,Apartment,251.0,1,Private room,To Kwa Wan,114.19318,22.32031,3,3
+Hong Kong,Apartment,801.0,8,Entire home/apt,Mong Kok,114.16908,22.30658,5,5
+Hong Kong,Apartment,212.0,1,Shared room,Tsim Sha Tsui,114.17503,22.2968,17,17
+Hong Kong,Apartment,652.0,4,Entire home/apt,Wan Chai,114.17473,22.27798,0,0
+Hong Kong,Apartment,864.0,3,Entire home/apt,0,114.14373,22.28628,0,0
+Hong Kong,Apartment,1099.0,2,Entire home/apt,Sheung Wan,114.15104,22.28583,70,70
+Hong Kong,Apartment,345.0,2,Private room,Ho Man Tin,114.17977,22.32187,12,12
+Hong Kong,Apartment,1295.0,8,Entire home/apt,Causeway Bay,114.18183,22.28021,70,70
+Hong Kong,Apartment,1178.0,2,Entire home/apt,0,113.95479,22.23542,24,24
+Hong Kong,Apartment,699.0,3,Private room,Mong Kok,114.17082,22.3043,2,2
+Hong Kong,Apartment,801.0,2,Entire home/apt,Sheung Wan,114.14937,22.28814,5,5
+Hong Kong,House,997.0,6,Entire home/apt,0,113.93124,22.22772,20,20
+Hong Kong,Apartment,777.0,2,Entire home/apt,0,114.16947,22.27717,3,3
+Hong Kong,Serviced apartment,2292.0,2,Private room,Chinatown,114.22241,22.24811,0,0
+Hong Kong,Guest suite,479.0,2,Private room,Mong Kok,114.1657,22.3237,17,17
+Hong Kong,Apartment,424.0,2,Entire home/apt,0,114.18319,22.28099,17,17
+Hong Kong,Apartment,79.0,2,Shared room,0,114.16981,22.30765,1,1
+Hong Kong,Apartment,1248.0,3,Entire home/apt,Soho,114.1522,22.28236,1,1
+Hong Kong,Apartment,526.0,2,Private room,0,114.18302,22.27821,0,0
+Hong Kong,Apartment,612.0,5,Private room,Ho Man Tin,114.17658,22.31579,1,1
+Hong Kong,Apartment,589.0,2,Private room,Mong Kok,114.16976,22.32301,41,41
+Hong Kong,Apartment,597.0,2,Entire home/apt,0,114.18395,22.27666,2,2
+Hong Kong,Apartment,597.0,2,Entire home/apt,Kennedy Town,114.12818,22.28038,5,5
+Hong Kong,House,1201.0,2,Private room,Jordan,114.28646,22.30479,0,0
+Hong Kong,Apartment,322.0,1,Private room,Soho,114.15208,22.27943,3,3
+Hong Kong,Apartment,243.0,2,Private room,0,114.13928,22.4926,0,0
+Hong Kong,Apartment,369.0,3,Private room,Mong Kok,114.17082,22.31445,53,53
+Hong Kong,Boutique hotel,903.0,1,Private room,0,114.20811,22.29039,0,0
+Hong Kong,Apartment,754.0,2,Entire home/apt,Sheung Wan,114.1496,22.28451,6,6
+Hong Kong,House,597.0,5,Entire home/apt,Hung Hom,114.18577,22.30863,6,6
+Hong Kong,Apartment,903.0,2,Entire home/apt,0,114.15154,22.27993,2,2
+Hong Kong,Apartment,597.0,2,Entire home/apt,Sheung Wan,114.14861,22.28552,14,14
+Hong Kong,Apartment,393.0,2,Entire home/apt,Causeway Bay,114.18605,22.27827,7,7
+Hong Kong,Boutique hotel,400.0,2,Private room,Mong Kok,114.17077,22.31849,59,59
+Hong Kong,Condominium,848.0,4,Entire home/apt,0,113.94326,22.29258,1,1
+Hong Kong,Other,251.0,3,Shared room,Mong Kok,114.17397,22.32249,5,5
+Hong Kong,Apartment,243.0,4,Private room,Mong Kok,114.18205,22.27684,0,0
+Hong Kong,Apartment,903.0,4,Entire home/apt,Soho,114.15137,22.28196,55,55
+Hong Kong,Apartment,903.0,7,Entire home/apt,Mong Kok,114.16841,22.32441,63,63
+Hong Kong,Condominium,10001.0,5,Entire home/apt,0,114.17045,22.3139,4,4
+Hong Kong,Apartment,801.0,4,Entire home/apt,0,114.14993,22.28422,12,12
+Hong Kong,Pension (South Korea),502.0,3,Entire home/apt,Mong Kok,114.1702,22.31705,32,32
+Hong Kong,Apartment,597.0,4,Entire home/apt,0,113.99049,22.21251,1,1
+Hong Kong,Apartment,196.0,2,Private room,Sham Shui Po,114.16515,22.32895,2,2
+Hong Kong,Apartment,754.0,2,Entire home/apt,Sheung Wan,114.14896,22.2838,3,3
+Hong Kong,Apartment,691.0,1,Private room,0,114.17048,22.45252,0,0
+Hong Kong,Condominium,353.0,3,Private room,Mong Kok,114.16902,22.31555,5,5
+Hong Kong,Apartment,997.0,3,Entire home/apt,0,114.13941,22.28661,6,6
+Hong Kong,Apartment,400.0,2,Entire home/apt,0,114.19668,22.29154,0,0
+Hong Kong,Guesthouse,298.0,2,Private room,Mong Kok,114.17232,22.31731,3,3
+Hong Kong,Apartment,848.0,5,Entire home/apt,Wan Chai,114.17232,22.27899,51,51
+Hong Kong,Apartment,573.0,2,Entire home/apt,Jordan,114.17119,22.29736,25,25
+Hong Kong,Apartment,997.0,5,Entire home/apt,Hung Hom,114.18662,22.30185,7,7
+Hong Kong,Apartment,699.0,3,Entire home/apt,0,114.15152,22.28582,0,0
+Hong Kong,House,400.0,2,Private room,0,114.15016,22.28281,0,0
+Hong Kong,Apartment,534.0,2,Private room,Sham Shui Po,114.16203,22.32547,1,1
+Hong Kong,Apartment,597.0,2,Entire home/apt,Sheung Wan,114.15201,22.28553,31,31
+Hong Kong,Apartment,385.0,5,Entire home/apt,0,114.18791,22.51962,1,1
+Hong Kong,Apartment,440.0,2,Private room,Wan Chai,114.17773,22.27722,1,1
+Hong Kong,Apartment,966.0,4,Private room,Sham Shui Po,114.16,22.32849,1,1
+Hong Kong,Apartment,385.0,5,Entire home/apt,0,114.20649,22.5294,0,0
+Hong Kong,Apartment,1201.0,6,Entire home/apt,Tsim Sha Tsui,114.17289,22.29665,62,62
+Hong Kong,Apartment,283.0,2,Private room,Mong Kok,114.17204,22.31752,23,23
+Hong Kong,Apartment,188.0,1,Private room,Mong Kok,114.14681,22.28614,0,0
+Hong Kong,House,393.0,2,Private room,0,114.12535,22.20542,21,21
+Hong Kong,Apartment,801.0,1,Entire home/apt,0,114.16151,22.32178,17,17
+Hong Kong,Apartment,777.0,1,Shared room,Sheung Wan,114.14932,22.28623,2,2
+Hong Kong,Apartment,1680.0,4,Entire home/apt,0,114.1692,22.32758,1,1
+Hong Kong,Apartment,1146.0,3,Entire home/apt,Sheung Wan,114.14965,22.28482,46,46
+Hong Kong,Apartment,903.0,5,Entire home/apt,Mong Kok,114.17526,22.31888,10,10
+Hong Kong,Apartment,1201.0,4,Entire home/apt,Causeway Bay,114.18136,22.28117,3,3
+Hong Kong,Apartment,377.0,2,Entire home/apt,Mong Kok,114.16954,22.3191,12,12
+Hong Kong,Apartment,950.0,7,Entire home/apt,Jordan,114.17093,22.27793,17,17
+Hong Kong,Apartment,848.0,2,Entire home/apt,Sai Ying Pun,114.14024,22.28631,4,4
+Hong Kong,Condominium,1515.0,7,Entire home/apt,Tsim Sha Tsui,114.17139,22.31474,6,6
+Hong Kong,Serviced apartment,1994.0,2,Entire home/apt,0,114.15346,22.2811,4,4
+Hong Kong,Apartment,550.0,2,Entire home/apt,Tsim Sha Tsui,114.17507,22.29897,84,84
+Hong Kong,Loft,518.0,2,Entire home/apt,Mong Kok,114.17191,22.32129,12,12
+Hong Kong,Apartment,699.0,2,Entire home/apt,Soho,114.1515,22.28203,9,9
+Hong Kong,House,400.0,2,Private room,0,113.93341,22.22874,2,2
+Hong Kong,Apartment,856.0,6,Entire home/apt,Central,114.13993,22.28482,63,63
+Hong Kong,Apartment,259.0,2,Private room,Tsim Sha Tsui,114.17388,22.30196,40,40
+Hong Kong,Condominium,424.0,2,Private room,Little Italy,114.16911,22.32093,11,11
+Hong Kong,Apartment,1978.0,12,Entire home/apt,Tsim Sha Tsui,114.17384,22.29765,11,11
+Hong Kong,Apartment,628.0,2,Private room,Causeway Bay,114.18378,22.2765,6,6
+Hong Kong,Apartment,502.0,5,Entire home/apt,Tsim Sha Tsui,114.16694,22.31738,45,45
+Hong Kong,Apartment,542.0,2,Entire home/apt,Central,114.15569,22.27999,46,46
+Hong Kong,Serviced apartment,754.0,4,Entire home/apt,0,113.95126,22.29375,0,0
+Hong Kong,Condominium,1287.0,4,Entire home/apt,Ho Man Tin,114.17685,22.31537,5,5
+Hong Kong,Apartment,950.0,2,Entire home/apt,Wan Chai,114.16933,22.27582,16,16
+Hong Kong,Condominium,353.0,2,Entire home/apt,Mong Kok,114.16965,22.31769,72,72
+Hong Kong,Apartment,903.0,2,Entire home/apt,Sheung Wan,114.15004,22.2838,8,8
+Hong Kong,Apartment,1083.0,4,Entire home/apt,Ho Man Tin,114.17397,22.31843,3,3
+Hong Kong,Apartment,848.0,4,Entire home/apt,Sheung Wan,114.14937,22.28425,4,4
+Hong Kong,Apartment,424.0,2,Entire home/apt,0,114.18573,22.27081,1,1
+Hong Kong,Condominium,1303.0,6,Entire home/apt,0,114.02,22.29475,0,0
+Hong Kong,Apartment,989.0,3,Entire home/apt,Sai Ying Pun,114.14263,22.28769,26,26
+Hong Kong,Condominium,1900.0,4,Entire home/apt,0,113.94273,22.29162,26,26
+Hong Kong,Serviced apartment,761.0,4,Entire home/apt,Hung Hom,114.18605,22.30004,2,2
+Hong Kong,Apartment,283.0,2,Private room,Kennedy Town,114.18425,22.27852,0,0
+Hong Kong,Apartment,338.0,2,Private room,Jordan,114.17219,22.30672,58,58
+Hong Kong,Apartment,793.0,4,Private room,Jordan,114.17145,22.30012,52,52
+Hong Kong,Apartment,683.0,2,Private room,0,114.14901,22.28446,0,0
+Hong Kong,Condominium,353.0,1,Private room,0,114.14156,22.33658,0,0
+Hong Kong,Hostel,377.0,1,Private room,Tsim Sha Tsui,114.17189,22.29879,49,49
+Hong Kong,Hotel,228.0,1,Private room,Jordan,114.17065,22.3044,1,1
+Hong Kong,Apartment,699.0,2,Entire home/apt,Sheung Wan,114.14509,22.28684,8,8
+Hong Kong,Apartment,683.0,2,Entire home/apt,Sheung Wan,114.15185,22.28483,22,22
+Hong Kong,Hotel,353.0,2,Private room,Mong Kok,114.16968,22.32252,11,11
+Hong Kong,Apartment,597.0,3,Entire home/apt,0,114.14157,22.28498,5,5
+Hong Kong,Apartment,290.0,2,Private room,Kennedy Town,114.18239,22.27802,0,0
+Hong Kong,Hostel,322.0,1,Private room,Tsim Sha Tsui,114.17214,22.29826,59,59
+Hong Kong,House,4828.0,2,Private room,0,114.12116,22.36362,0,0
+Hong Kong,Apartment,3399.0,8,Entire home/apt,0,114.1259,22.27511,1,1
+Hong Kong,Apartment,228.0,1,Private room,Mong Kok,114.17963,22.27639,0,0
+Hong Kong,Apartment,1178.0,9,Entire home/apt,Mong Kok,114.17024,22.31666,11,11
+Hong Kong,Apartment,298.0,2,Entire home/apt,Causeway Bay,114.1842,22.27839,2,2
+Hong Kong,Hostel,597.0,3,Private room,Kennedy Town,114.17131,22.30545,8,8
+Hong Kong,Guest suite,447.0,1,Private room,Jordan,114.17315,22.30337,0,0
+Hong Kong,House,628.0,2,Private room,0,113.97528,22.40478,0,0
+Hong Kong,Apartment,196.0,2,Private room,0,114.15282,22.52856,15,15
+Hong Kong,Apartment,447.0,2,Entire home/apt,Sai Ying Pun,114.1356,22.2876,65,65
+Hong Kong,Apartment,149.0,1,Private room,0,114.17678,22.37172,1,1
+Hong Kong,Condominium,283.0,2,Entire home/apt,0,113.97378,22.39716,0,0
+Hong Kong,Apartment,298.0,2,Private room,Yau Tong,114.23605,22.29427,2,2
+Hong Kong,Guest suite,1601.0,6,Private room,Jordan,114.17283,22.30445,0,0
+Hong Kong,Serviced apartment,1021.0,6,Entire home/apt,0,113.95176,22.29495,0,0
+Hong Kong,Apartment,502.0,2,Private room,Wan Chai,114.17551,22.27705,0,0
+Hong Kong,Apartment,283.0,2,Entire home/apt,Kennedy Town,114.16893,22.31462,0,0
+Hong Kong,Apartment,204.0,1,Private room,Kennedy Town,114.16846,22.3276,0,0
+Hong Kong,Condominium,220.0,1,Private room,To Kwa Wan,114.19081,22.31811,9,9
+Hong Kong,Apartment,691.0,4,Entire home/apt,Sai Ying Pun,114.14333,22.28759,4,4
+Hong Kong,Boutique hotel,455.0,3,Private room,Jordan,114.16683,22.30618,10,10
+Hong Kong,Apartment,754.0,6,Entire home/apt,Mong Kok,114.16932,22.31863,196,196
+Hong Kong,Apartment,997.0,2,Entire home/apt,Sheung Wan,114.15335,22.28533,11,11
+Hong Kong,Apartment,283.0,1,Shared room,Hung Hom,114.18672,22.30099,47,47
+Hong Kong,Apartment,228.0,2,Private room,Kennedy Town,114.19977,22.29032,0,0
+Hong Kong,Apartment,267.0,2,Entire home/apt,Kennedy Town,114.13231,22.28754,0,0
+Hong Kong,Guest suite,675.0,2,Private room,0,114.26052,22.39018,24,24
+Hong Kong,Serviced apartment,338.0,2,Private room,Mong Kok,114.16829,22.32116,6,6
+Hong Kong,Apartment,903.0,5,Entire home/apt,Mong Kok,114.16791,22.31996,44,44
+Hong Kong,Apartment,479.0,2,Private room,0,114.16967,22.3219,62,62
+Hong Kong,Apartment,188.0,1,Private room,0,114.22315,22.35991,0,0
+Hong Kong,Apartment,251.0,2,Private room,Kennedy Town,114.17045,22.31935,0,0
+Hong Kong,Apartment,447.0,2,Private room,Tsim Sha Tsui,114.17149,22.29535,0,0
+Hong Kong,Apartment,424.0,2,Private room,Tsim Sha Tsui,114.17468,22.30004,26,26
+Hong Kong,Apartment,283.0,2,Entire home/apt,Kennedy Town,114.13306,22.28773,0,0
+Hong Kong,Apartment,251.0,1,Private room,Sheung Wan,114.14385,22.28788,15,15
+Hong Kong,Apartment,769.0,2,Entire home/apt,Causeway Bay,114.19337,22.28558,2,2
+Hong Kong,Apartment,1287.0,8,Entire home/apt,Sheung Wan,114.14832,22.2865,21,21
+Hong Kong,Apartment,1586.0,9,Entire home/apt,0,114.16916,22.31899,6,6
+Hong Kong,Apartment,1719.0,2,Entire home/apt,0,114.15507,22.28028,5,5
+Hong Kong,House,228.0,2,Private room,Mong Kok,114.16802,22.3204,14,14
+Hong Kong,Cottage,667.0,2,Entire home/apt,0,114.1389,22.45728,0,0
+Hong Kong,Apartment,997.0,2,Entire home/apt,0,114.14206,22.28194,5,5
+Hong Kong,Apartment,550.0,2,Private room,Tsim Sha Tsui,114.17293,22.29638,25,25
+Hong Kong,Apartment,848.0,3,Entire home/apt,0,114.14081,22.28604,8,8
+Hong Kong,Serviced apartment,283.0,1,Entire home/apt,Causeway Bay,114.18811,22.32748,0,0
+Hong Kong,Apartment,322.0,1,Private room,0,114.27304,22.2946,1,1
+Hong Kong,Serviced apartment,11681.0,2,Private room,Ho Man Tin,114.17032,22.31728,5,5
+Hong Kong,Tiny house,1201.0,9,Private room,Jordan,114.17331,22.29682,1,1
+Hong Kong,Apartment,447.0,1,Private room,0,114.1535,22.28521,2,2
+Hong Kong,Apartment,879.0,12,Entire home/apt,Wan Chai,114.17924,22.27901,19,19
+Hong Kong,Serviced apartment,597.0,2,Entire home/apt,Chinatown,114.15064,22.28528,0,0
+Hong Kong,Apartment,526.0,2,Entire home/apt,Wan Chai,114.16971,22.27845,3,3
+Hong Kong,Serviced apartment,557.0,3,Private room,Jordan,114.17266,22.30456,1,1
+Hong Kong,Apartment,801.0,2,Entire home/apt,Happy Valley,114.18437,22.26815,1,1
+Hong Kong,Hotel,2999.0,2,Private room,0,114.1689,22.30595,0,0
+Hong Kong,Apartment,220.0,2,Private room,Kennedy Town,114.21025,22.29025,0,0
+Hong Kong,Condominium,918.0,4,Entire home/apt,Tai Kok Sui,114.16878,22.3168,6,6
+Hong Kong,Hostel,141.0,1,Shared room,Mong Kok,114.16743,22.3249,21,21
+Hong Kong,House,879.0,4,Private room,Tsim Sha Tsui,114.17571,22.30201,11,11
+Hong Kong,Apartment,699.0,2,Entire home/apt,Sheung Wan,114.15212,22.28483,1,1
+Hong Kong,Apartment,290.0,1,Private room,Tsim Sha Tsui,114.17367,22.29616,1,1
+Hong Kong,Hostel,353.0,2,Private room,Mong Kok,114.17119,22.31668,11,11
+Hong Kong,Apartment,79.0,1,Shared room,0,114.18739,22.37839,0,0
+Hong Kong,Boutique hotel,801.0,2,Private room,Tsim Sha Tsui,114.17326,22.29754,4,4
+Hong Kong,Apartment,118.0,3,Private room,0,114.1698,22.32245,44,44
+Hong Kong,Condominium,761.0,3,Entire home/apt,Mong Kok,114.16982,22.32172,35,35
+Hong Kong,Apartment,652.0,4,Private room,Tsim Sha Tsui,114.17089,22.29807,21,21
+Hong Kong,Apartment,298.0,2,Private room,Kennedy Town,114.15325,22.28207,0,0
+Hong Kong,Condominium,2002.0,1,Shared room,0,114.26092,22.30618,4,4
+Hong Kong,Apartment,597.0,3,Entire home/apt,Wanhua,114.1757,22.30197,31,31
+Hong Kong,Apartment,502.0,2,Private room,Central,114.17191,22.29695,0,0
+Hong Kong,Serviced apartment,306.0,2,Private room,Ho Man Tin,114.17297,22.29658,2,2
+Hong Kong,Apartment,542.0,3,Private room,Jordan,114.17219,22.30451,14,14
+Hong Kong,Apartment,173.0,1,Private room,Mong Kok,114.14082,22.28629,0,0
+Hong Kong,Condominium,369.0,2,Private room,Mong Kok,114.17621,22.29334,14,14
+Hong Kong,Serviced apartment,400.0,1,Private room,0,114.1846,22.30182,0,0
+Hong Kong,Guesthouse,502.0,2,Entire home/apt,0,114.17166,22.30389,2,2
+Hong Kong,Apartment,1201.0,2,Entire home/apt,Central,114.15364,22.28294,6,6
+Hong Kong,Serviced apartment,1170.0,2,Private room,Ho Man Tin,114.17098,22.29718,0,0
+Hong Kong,Apartment,369.0,2,Private room,Tai Kok Sui,114.16651,22.30739,4,4
+Hong Kong,Serviced apartment,557.0,2,Entire home/apt,Fortress Hill,114.17657,22.27935,0,0
+Hong Kong,Apartment,298.0,2,Private room,Quarry Bay,114.21121,22.28696,3,3
+Hong Kong,Hotel,400.0,3,Private room,Jordan,114.17132,22.30535,1,1
+Hong Kong,Houseboat,2999.0,6,Entire home/apt,0,114.21768,22.30791,2,2
+Hong Kong,Apartment,1201.0,2,Entire home/apt,Wan Chai,114.17075,22.27578,2,2
+Hong Kong,Condominium,604.0,2,Entire home/apt,0,114.23549,22.42452,4,4
+Hong Kong,Apartment,1947.0,4,Entire home/apt,Central Business District,114.13684,22.36597,0,0
+Hong Kong,Apartment,502.0,1,Private room,0,114.16118,22.32153,1,1
+Hong Kong,Apartment,832.0,2,Entire home/apt,Kennedy Town,114.1259,22.28282,3,3
+Hong Kong,Apartment,338.0,1,Private room,0,114.1741,22.27714,22,22
+Hong Kong,Condominium,369.0,2,Private room,Causeway Bay,114.18847,22.27775,7,7
+Hong Kong,Apartment,879.0,3,Entire home/apt,Wan Chai,114.17459,22.27742,3,3
+Hong Kong,Apartment,997.0,4,Entire home/apt,Sheung Wan,114.14911,22.28742,2,2
+Hong Kong,Apartment,1963.0,8,Entire home/apt,Sham Shui Po,114.17219,22.32093,3,3
+Hong Kong,Bed and breakfast,400.0,12,Shared room,0,114.17314,22.29939,29,29
+Hong Kong,Serviced apartment,518.0,2,Entire home/apt,Causeway Bay,114.16738,22.32707,0,0
+Hong Kong,Apartment,400.0,1,Private room,Tsim Sha Tsui,114.17557,22.29897,14,14
+Hong Kong,Apartment,997.0,2,Entire home/apt,0,114.18493,22.26849,2,2
+Hong Kong,Boutique hotel,345.0,2,Private room,Mong Kok,114.16892,22.32131,7,7
+Hong Kong,Condominium,754.0,4,Entire home/apt,0,114.21745,22.28722,0,0
+Hong Kong,Condominium,1201.0,9,Entire home/apt,0,114.17613,22.30319,16,16
+Hong Kong,Apartment,644.0,3,Entire home/apt,Central,114.14836,22.28815,103,103
+Hong Kong,Apartment,447.0,2,Private room,Causeway Bay,114.18371,22.27881,2,2
+Hong Kong,Apartment,581.0,3,Entire home/apt,Soho,114.15371,22.27894,6,6
+Hong Kong,Apartment,683.0,6,Entire home/apt,Tai Kok Sui,114.18489,22.37029,11,11
+Hong Kong,Apartment,1382.0,6,Entire home/apt,Tsim Sha Tsui,114.17217,22.30599,11,11
+Hong Kong,Apartment,597.0,4,Entire home/apt,Jordan,114.17243,22.30637,21,21
+Hong Kong,Condominium,597.0,3,Entire home/apt,Tai Kok Sui,114.16579,22.30871,16,16
+Hong Kong,Apartment,149.0,2,Shared room,North Point,114.20056,22.29201,4,4
+Hong Kong,Apartment,1499.0,4,Entire home/apt,Sheung Wan,114.14926,22.2864,0,0
+Hong Kong,Apartment,243.0,2,Private room,Kennedy Town,114.17997,22.27785,0,0
+Hong Kong,Apartment,110.0,1,Private room,Kennedy Town,114.17963,22.27907,1,1
+Hong Kong,Serviced apartment,738.0,4,Private room,Ho Man Tin,114.18112,22.3204,0,0
+Hong Kong,Apartment,1287.0,5,Entire home/apt,Wan Chai,114.17836,22.27791,116,116
+Hong Kong,Apartment,1601.0,2,Entire home/apt,0,114.17262,22.27529,8,8
+Hong Kong,Serviced apartment,440.0,4,Private room,Mong Kok,114.16893,22.31761,8,8
+Hong Kong,Apartment,2700.0,4,Entire home/apt,Sheung Wan,114.15367,22.28565,0,0
+Hong Kong,Condominium,400.0,2,Private room,North Point,114.19665,22.29028,0,0
+Hong Kong,House,550.0,2,Private room,Causeway Bay,114.18394,22.2804,3,3
+Hong Kong,Apartment,267.0,2,Private room,0,114.17318,22.2978,6,6
+Hong Kong,Apartment,400.0,2,Private room,Sheung Wan,114.14868,22.28741,1,1
+Hong Kong,Bed and breakfast,10001.0,5,Private room,Tsim Sha Tsui,114.17113,22.29715,0,0
+Hong Kong,Apartment,997.0,3,Entire home/apt,0,114.14136,22.28534,2,2
+Hong Kong,Apartment,502.0,2,Private room,Wan Chai,114.1815,22.2803,0,0
+Hong Kong,Apartment,353.0,2,Private room,Sai Ying Pun,114.14311,22.28773,1,1
+Hong Kong,Apartment,447.0,2,Entire home/apt,Sai Ying Pun,114.14156,22.28542,1,1
+Hong Kong,Apartment,699.0,3,Private room,Mong Kok,114.16998,22.30965,7,7
+Hong Kong,Apartment,228.0,1,Private room,Kennedy Town,114.17037,22.31294,0,0
+Hong Kong,Apartment,1060.0,2,Entire home/apt,Sheung Wan,114.15448,22.28222,20,20
+Hong Kong,Apartment,385.0,3,Entire home/apt,Jordan,114.17019,22.30409,6,6
+Hong Kong,Apartment,1853.0,3,Entire home/apt,Soho,114.15193,22.28226,3,3
+Hong Kong,Apartment,353.0,1,Private room,Tsim Sha Tsui,114.17215,22.29676,4,4
+Hong Kong,Apartment,1201.0,8,Entire home/apt,Mong Kok,114.16936,22.32019,2,2
+Hong Kong,Apartment,400.0,2,Private room,Tai Kok Sui,114.16521,22.30781,4,4
+Hong Kong,Apartment,1123.0,2,Private room,Mong Kok,114.17068,22.31091,3,3
+Hong Kong,Apartment,251.0,12,Shared room,Quarry Bay,114.22231,22.28146,0,0
+Hong Kong,Apartment,447.0,2,Private room,Causeway Bay,114.18655,22.28203,0,0
+Hong Kong,Serviced apartment,1798.0,2,Private room,Tsim Sha Tsui,114.17044,22.3094,0,0
+Hong Kong,Apartment,251.0,12,Shared room,Quarry Bay,114.2209,22.28088,2,2
+Hong Kong,Apartment,298.0,2,Entire home/apt,Sheung Wan,114.15223,22.28698,3,3
+Hong Kong,Apartment,447.0,2,Private room,Sai Ying Pun,114.14112,22.28333,1,1
+Hong Kong,Apartment,981.0,4,Entire home/apt,Tsim Sha Tsui,114.17228,22.29686,2,2
+Hong Kong,House,196.0,1,Entire home/apt,0,114.12584,22.28124,1,1
+Hong Kong,Bed and breakfast,298.0,2,Private room,Sheung Wan,114.14999,22.28563,0,0
+Hong Kong,Apartment,675.0,2,Private room,0,113.95179,22.29411,2,2
+Hong Kong,Condominium,518.0,2,Private room,Sham Shui Po,114.16699,22.32939,0,0
+Hong Kong,Serviced apartment,1201.0,3,Entire home/apt,0,114.18681,22.28023,0,0
+Hong Kong,Guesthouse,416.0,3,Private room,Tsim Sha Tsui,114.17367,22.29561,7,7
+Hong Kong,Apartment,550.0,2,Private room,Mong Kok,114.18676,22.28057,0,0
+Hong Kong,Apartment,479.0,2,Private room,Mong Kok,114.17018,22.31101,5,5
+Hong Kong,Apartment,1201.0,2,Entire home/apt,0,114.14571,22.28548,0,0
+Hong Kong,House,157.0,1,Shared room,Sham Shui Po,114.16669,22.32711,2,2
+Hong Kong,Apartment,267.0,1,Private room,King's Park,114.1722,22.31226,0,0
+Hong Kong,Apartment,801.0,2,Entire home/apt,Wan Chai,114.17423,22.27634,24,24
+Hong Kong,Apartment,714.0,3,Entire home/apt,The Peak,114.15591,22.27391,1,1
+Hong Kong,Apartment,801.0,6,Entire home/apt,Mong Kok,114.17021,22.31342,1,1
+Hong Kong,Apartment,173.0,1,Shared room,Kennedy Town,114.15162,22.28611,0,0
+Hong Kong,Boutique hotel,447.0,2,Private room,Soho,114.16118,22.32736,5,5
+Hong Kong,Boutique hotel,447.0,2,Private room,Soho,114.16036,22.32639,10,10
+Hong Kong,Apartment,353.0,2,Entire home/apt,0,114.1697,22.32224,1,1
+Hong Kong,Apartment,848.0,2,Entire home/apt,0,114.18272,22.27776,0,0
+Hong Kong,Apartment,283.0,2,Private room,King's Park,114.17146,22.31202,1,1
+Hong Kong,Apartment,440.0,3,Private room,Mong Kok,114.17043,22.32028,0,0
+Hong Kong,Bed and breakfast,173.0,5,Private room,Mong Kok,114.17066,22.31225,0,0
+Hong Kong,Apartment,283.0,1,Private room,Sheung Wan,114.15659,22.28146,0,0
+Hong Kong,Apartment,620.0,4,Entire home/apt,Jordan,114.17139,22.30441,0,0
+Hong Kong,Farm stay,2496.0,3,Private room,0,114.07642,22.42182,0,0
+Hong Kong,Apartment,879.0,3,Entire home/apt,Wan Chai,114.17522,22.27637,0,0
+Hong Kong,Apartment,526.0,1,Shared room,Tsim Sha Tsui,114.17453,22.30188,0,0
+Hong Kong,Apartment,683.0,2,Entire home/apt,Mong Kok,114.17814,22.36141,0,0
+Hong Kong,Hostel,534.0,4,Private room,Tsim Sha Tsui,114.17075,22.31436,0,0
+Hong Kong,Apartment,188.0,1,Shared room,Kennedy Town,114.18432,22.277,0,0
+Hong Kong,Apartment,879.0,3,Entire home/apt,Tsim Sha Tsui,114.174,22.29892,8,8
+Hong Kong,Apartment,769.0,4,Entire home/apt,0,113.98262,22.23868,0,0
+Hong Kong,Condominium,283.0,2,Private room,0,114.16934,22.30776,0,0
+Hong Kong,Apartment,950.0,2,Entire home/apt,Soho,114.15195,22.28232,2,2
+Hong Kong,Guest suite,400.0,1,Private room,Sheung Wan,114.14925,22.28562,2,2
+Hong Kong,House,243.0,1,Private room,Choi Hung,114.20626,22.33709,1,1
+Hong Kong,Apartment,777.0,3,Entire home/apt,Tsim Sha Tsui,114.17482,22.30164,1,1
+Hong Kong,Apartment,848.0,6,Entire home/apt,Causeway Bay,114.18368,22.28041,11,11
+Hong Kong,Apartment,1052.0,7,Entire home/apt,Causeway Bay,114.18218,22.27705,1,1
+Hong Kong,House,581.0,2,Private room,Tsim Sha Tsui,114.17949,22.29923,1,1
+Hong Kong,Apartment,1005.0,3,Private room,Wan Chai,114.17976,22.27599,15,15
+Hong Kong,Apartment,502.0,2,Entire home/apt,Happy Valley,114.18328,22.27229,2,2
+Hong Kong,Serviced apartment,1751.0,4,Entire home/apt,Hung Hom,114.18397,22.30222,4,4
+Hong Kong,Apartment,997.0,2,Entire home/apt,0,114.19269,22.27965,0,0
+Hong Kong,House,157.0,1,Shared room,0,114.18613,22.33843,0,0
+Hong Kong,Apartment,502.0,1,Private room,0,113.98952,22.3768,0,0
+Hong Kong,Bed and breakfast,447.0,3,Private room,Mong Kok,114.16987,22.32131,0,0
+Hong Kong,Apartment,243.0,1,Shared room,Kennedy Town,114.1652,22.32787,0,0
+Hong Kong,Apartment,267.0,1,Shared room,Kennedy Town,114.15492,22.28064,0,0
+Hong Kong,Apartment,353.0,1,Private room,Kennedy Town,114.17386,22.30077,0,0
+Hong Kong,Guesthouse,361.0,3,Private room,Tsim Sha Tsui,114.17262,22.29538,0,0
+Hong Kong,Loft,597.0,4,Entire home/apt,Mong Kok,114.16907,22.32345,0,0
+Hong Kong,Apartment,400.0,1,Private room,Sheung Wan,114.14682,22.28654,0,0
+Hong Kong,Condominium,597.0,2,Entire home/apt,Sai Ying Pun,114.13783,22.28771,0,0
+Hong Kong,Loft,2300.0,16,Entire home/apt,Kwun Tong,114.22419,22.30975,0,0
+Hong Kong,Condominium,2002.0,10,Entire home/apt,Tsim Sha Tsui,114.17399,22.29761,0,0
+Hong Kong,Apartment,243.0,1,Private room,Sheung Wan,114.15082,22.28161,0,0
+Hong Kong,Hotel,298.0,3,Private room,Jordan,114.17083,22.30637,3,3
+Hong Kong,Apartment,801.0,2,Entire home/apt,0,114.15296,22.28168,0,0
+Hong Kong,House,550.0,4,Entire home/apt,Tsim Sha Tsui,114.1732,22.29912,0,0
+Hong Kong,Apartment,620.0,2,Entire home/apt,0,114.1693,22.31121,0,0
+Hong Kong,Condominium,353.0,2,Private room,Tai Kok Sui,114.16593,22.30761,0,0
+Hong Kong,Condominium,447.0,3,Private room,Jordan,114.17779,22.30183,0,0
+Hong Kong,Apartment,518.0,3,Entire home/apt,Tsim Sha Tsui,114.16922,22.31764,0,0
+Hong Kong,Apartment,754.0,4,Entire home/apt,Mong Kok,114.17161,22.3177,0,0
+Hong Kong,Apartment,502.0,2,Entire home/apt,Happy Valley,114.18394,22.26972,1,1
+Hong Kong,Apartment,479.0,2,Private room,Mong Kok,114.17602,22.30238,0,0
+Hong Kong,Apartment,361.0,2,Private room,Mong Kok,114.17182,22.29733,0,0
+Hong Kong,Apartment,903.0,6,Entire home/apt,0,114.16696,22.32478,0,0
+Hong Kong,Apartment,597.0,4,Private room,Mong Kok,114.16884,22.3153,36,36
+Hong Kong,Apartment,1217.0,7,Entire home/apt,Mong Kok,114.16955,22.31899,134,134
+Hong Kong,Apartment,832.0,9,Entire home/apt,Wan Chai,114.16828,22.3127,180,180
+Hong Kong,Apartment,447.0,2,Private room,Wan Chai,114.17626,22.2764,6,6
+Hong Kong,Apartment,298.0,2,Entire home/apt,Sham Shui Po,114.16367,22.32713,24,24
+Hong Kong,Apartment,424.0,1,Private room,Tsim Sha Tsui,114.1738,22.29841,27,27
+Hong Kong,House,510.0,2,Private room,Richmond,114.18769,22.38403,35,35
+Hong Kong,Apartment,887.0,2,Entire home/apt,Mong Kok,114.16784,22.31363,204,204
+Hong Kong,Apartment,699.0,4,Entire home/apt,Wan Chai,114.17167,22.27577,8,8
+Hong Kong,Apartment,550.0,3,Entire home/apt,Fortress Hill,114.19244,22.28376,116,116
+Hong Kong,Apartment,801.0,4,Entire home/apt,0,114.1494,22.2866,164,164
+Hong Kong,Apartment,377.0,1,Private room,Wong Tai Sin,114.18767,22.33007,33,33
+Hong Kong,Apartment,1178.0,4,Entire home/apt,0,114.18597,22.30315,143,143
+Hong Kong,Apartment,1319.0,8,Entire home/apt,Wan Chai,114.17852,22.27763,223,223
+Hong Kong,Apartment,550.0,3,Entire home/apt,Tsim Sha Tsui,114.17739,22.30361,29,29
+Hong Kong,Apartment,534.0,2,Entire home/apt,Tsim Sha Tsui,114.17565,22.30115,15,15
+Hong Kong,Boutique hotel,761.0,3,Private room,Tai Kok Sui,114.16578,22.3081,210,210
+Hong Kong,Apartment,353.0,4,Private room,Mong Kok,114.17136,22.32017,89,89
+Hong Kong,Apartment,487.0,4,Private room,Mong Kok,114.16996,22.31637,5,5
+Hong Kong,Apartment,283.0,2,Entire home/apt,Tsim Sha Tsui,114.188,22.31132,10,10
+Hong Kong,Apartment,871.0,4,Entire home/apt,Mid-Levels,114.14835,22.28356,177,177
+Hong Kong,Bed and breakfast,903.0,2,Private room,0,113.99935,22.26925,4,4
+Hong Kong,Apartment,903.0,2,Private room,Soho,114.1459,22.28451,4,4
+Hong Kong,Hostel,502.0,2,Private room,0,114.16336,22.33237,28,28
+Hong Kong,Apartment,801.0,2,Entire home/apt,0,114.15154,22.28518,26,26
+Hong Kong,Guesthouse,181.0,8,Shared room,Tsim Sha Tsui,114.17421,22.29647,19,19
+Hong Kong,Apartment,1382.0,4,Entire home/apt,Quarry Bay,114.18994,22.28163,7,7
+Hong Kong,Hostel,353.0,2,Private room,Tsim Sha Tsui,114.17432,22.29935,6,6
+Hong Kong,Apartment,550.0,2,Private room,0,114.19261,22.27843,23,23
+Hong Kong,Apartment,754.0,2,Entire home/apt,Kennedy Town,114.12848,22.28276,2,2
+Hong Kong,Apartment,251.0,2,Private room,Sheung Wan,114.145,22.28742,1,1
+Hong Kong,House,7002.0,4,Entire home/apt,0,114.26488,22.36998,15,15
+Hong Kong,Apartment,746.0,2,Entire home/apt,Tsim Sha Tsui,114.18291,22.28057,8,8
+Hong Kong,Apartment,652.0,2,Entire home/apt,Tsim Sha Tsui,114.17397,22.2999,29,29
+Hong Kong,House,801.0,4,Private room,0,114.26215,22.39034,91,91
+Hong Kong,Apartment,809.0,4,Entire home/apt,Sheung Wan,114.15153,22.28422,129,129
+Hong Kong,Apartment,400.0,1,Private room,Mong Kok,114.17059,22.32363,0,0
+Hong Kong,Apartment,699.0,3,Entire home/apt,Sheung Wan,114.14751,22.28442,0,0
+Hong Kong,Apartment,228.0,1,Private room,Tai Kok Sui,114.16483,22.3087,36,36
+Hong Kong,Apartment,495.0,3,Entire home/apt,0,114.15148,22.2812,0,0
+Hong Kong,Apartment,1201.0,3,Entire home/apt,Soho,114.15168,22.28068,3,3
+Hong Kong,Condominium,1162.0,7,Entire home/apt,Wan Chai,114.17931,22.2802,102,102
+Hong Kong,Apartment,298.0,6,Entire home/apt,Mong Kok,114.17149,22.31419,5,5
+Hong Kong,Bed and breakfast,801.0,4,Private room,0,114.20978,22.32873,2,2
+Hong Kong,Condominium,1052.0,11,Entire home/apt,Tai Kok Sui,114.16532,22.3072,106,106
+Hong Kong,Apartment,1680.0,6,Entire home/apt,Mid-Levels,114.14769,22.28277,19,19
+Hong Kong,Apartment,746.0,2,Entire home/apt,Sai Ying Pun,114.14084,22.28719,0,0
+Hong Kong,Apartment,377.0,2,Private room,Mong Kok,114.16853,22.31827,15,15
+Hong Kong,Condominium,1170.0,3,Private room,Mong Kok,114.16923,22.31759,82,82
+Hong Kong,Apartment,424.0,1,Private room,Sheung Wan,114.14537,22.2868,19,19
+Hong Kong,Apartment,196.0,1,Private room,Jordan,114.16973,22.30707,0,0
+Hong Kong,Apartment,212.0,1,Private room,0,114.15212,22.28561,66,66
+Hong Kong,Apartment,283.0,2,Private room,Tsim Sha Tsui,114.17164,22.29676,42,42
+Hong Kong,House,997.0,8,Entire home/apt,Mong Kok,114.17289,22.30649,176,176
+Hong Kong,Apartment,699.0,3,Entire home/apt,Wong Tai Sin,114.18485,22.32847,1,1
+Hong Kong,Serviced apartment,353.0,4,Private room,Mong Kok,114.16785,22.32117,61,61
+Hong Kong,Apartment,581.0,3,Private room,Causeway Bay,114.18362,22.27796,27,27
+Hong Kong,House,283.0,2,Private room,Jordan,114.16733,22.30657,115,115
+Hong Kong,Apartment,251.0,10,Shared room,Mong Kok,114.17131,22.31858,20,20
+Hong Kong,Apartment,785.0,1,Private room,West Kowloon,114.162,22.30442,0,0
+Hong Kong,House,565.0,2,Private room,0,114.24814,22.35532,90,90
+Hong Kong,Boutique hotel,502.0,3,Private room,Mong Kok,114.17072,22.30903,71,71
+Hong Kong,Apartment,1782.0,4,Entire home/apt,Quarry Bay,114.19206,22.28266,3,3
+Hong Kong,Apartment,251.0,1,Private room,Hung Hom,114.18728,22.30536,1,1
+Hong Kong,Apartment,188.0,1,Private room,Tsim Sha Tsui,114.1715,22.29812,74,74
+Hong Kong,Apartment,848.0,5,Entire home/apt,Mong Kok,114.17945,22.37146,26,26
+Hong Kong,Apartment,416.0,4,Private room,Jordan,114.17353,22.30451,4,4
+Hong Kong,Guesthouse,196.0,6,Shared room,Tsim Sha Tsui,114.17426,22.29697,47,47
+Hong Kong,Apartment,322.0,3,Private room,Jordan,114.17198,22.3046,53,53
+Hong Kong,Apartment,1099.0,3,Entire home/apt,Sheung Wan,114.15026,22.28296,31,31

@@ -1,0 +1,1185 @@
+city,property_type,price,accommodates,room_type,host_neighbourhood,Latitudes,Longitudes,number_of_reviews,number_of_reviews
+New York,Apartment,205.0,4,Entire home/apt,Greenpoint,-73.94472,40.72778,5,5
+New York,Apartment,40.0,1,Private room,Bushwick,-73.93615,40.69791,1,1
+Oahu,Condominium,115.0,2,Entire home/apt,Waikiki,-157.83919,21.28634,96,96
+New York,Apartment,135.0,2,Private room,0,-73.96523,40.79962,70,70
+New York,Apartment,275.0,5,Entire home/apt,0,-73.95854,40.7664,9,9
+Maui,Condominium,499.0,4,Entire home/apt,Central Business District,-156.68012,20.96996,1,1
+New York,Apartment,150.0,3,Entire home/apt,0,-73.98944,40.72063,0,0
+New York,Apartment,45.0,2,Private room,Jamaica,-73.82257,40.71485,239,239
+The Big Island,Apartment,135.0,6,Entire home/apt,Kailua/Kona,-155.96445,19.5702,1,1
+New York,Apartment,220.0,4,Entire home/apt,Williamsburg,-73.93869,40.71552,1,1
+New York,Apartment,180.0,9,Entire home/apt,East Harlem,-73.93943,40.79805,22,22
+New York,Apartment,145.0,2,Entire home/apt,Chelsea,-74.00074,40.74577,1,1
+New York,Apartment,46.0,2,Private room,Jackson Heights,-73.88025,40.74953,123,123
+The Big Island,Treehouse,185.0,2,Entire home/apt,0,-155.21763,19.42151,103,103
+Oahu,House,795.0,14,Entire home/apt,Ko'olauloa,-157.91952,21.63549,32,32
+New York,Apartment,175.0,2,Entire home/apt,Williamsburg,-73.96053,40.71577,117,117
+Maui,Condominium,229.0,4,Entire home/apt,Maui,-156.46881,20.78621,19,19
+New York,Apartment,212.0,3,Entire home/apt,The Castro,-73.9696,40.78558,45,45
+Oahu,Condominium,95.0,4,Entire home/apt,Waianae Coast,-158.20291,21.4818,32,32
+Oahu,Bungalow,100.0,2,Entire home/apt,0,-158.1602,21.57561,99,99
+New York,Apartment,35.0,1,Private room,Tremont,-73.90052,40.85598,2,2
+New York,Apartment,125.0,4,Entire home/apt,Williamsburg,-73.93981,40.70687,126,126
+The Big Island,House,325.0,11,Entire home/apt,Kailua/Kona,-155.97349,19.61318,45,45
+New York,Apartment,144.0,2,Entire home/apt,Downtown Brooklyn,-73.98102,40.69406,1,1
+The Big Island,Condominium,125.0,4,Entire home/apt,Hilo,-155.09259,19.73108,65,65
+New York,Apartment,80.0,1,Private room,Harlem,-73.95211,40.80708,10,10
+New York,Apartment,128.0,2,Private room,Morningside Heights,-73.9648,40.80732,29,29
+New York,Apartment,250.0,8,Entire home/apt,Fort Greene,-73.97527,40.6884,89,89
+New York,Apartment,60.0,2,Private room,Williamsburg,-73.94384,40.70528,0,0
+New York,Guest suite,135.0,3,Entire home/apt,Park Slope,-73.98307,40.6651,115,115
+Oahu,Guesthouse,120.0,2,Entire home/apt,Kaimuki,-157.78578,21.29561,114,114
+Kauai,Guest suite,139.0,2,Private room,Kauaʻi,-159.48653,22.22739,167,167
+New York,Apartment,50.0,2,Private room,Crown Heights,-73.95667,40.67414,46,46
+New York,Townhouse,110.0,2,Entire home/apt,Bedford-Stuyvesant,-73.95321,40.69034,184,184
+New York,Apartment,125.0,2,Entire home/apt,Hell's Kitchen,-73.99482,40.76438,60,60
+New York,Apartment,47.0,2,Private room,Flatbush,-73.94883,40.6536,241,241
+The Big Island,House,72.0,2,Entire home/apt,Island of Hawaiʻi,-155.02503,19.56081,18,18
+New York,Apartment,90.0,1,Private room,Lower East Side,-73.98319,40.71823,0,0
+Oahu,Apartment,99.0,2,Entire home/apt,Waikiki,-157.83937,21.2837,137,137
+The Big Island,House,169.0,14,Entire home/apt,Island of Hawaiʻi,-155.89926,19.20636,119,119
+Oahu,House,189.0,8,Entire home/apt,Kailua,-157.74147,21.37812,44,44
+The Big Island,House,105.0,2,Private room,Island of Hawaiʻi,-155.2403,19.43344,44,44
+New York,Apartment,200.0,2,Entire home/apt,East Village,-73.98763,40.72808,19,19
+New York,House,90.0,2,Private room,Jamaica,-73.77835,40.68135,21,21
+New York,Apartment,189.0,3,Entire home/apt,Boerum Hill,-73.98517,40.68779,215,215
+New York,Apartment,59.0,3,Private room,Bay Ridge,-74.02972,40.63199,13,13
+Oahu,Condominium,325.0,8,Entire home/apt,Waikiki,-157.82696,21.27971,103,103
+New York,Apartment,110.0,3,Entire home/apt,East Harlem,-73.93955,40.79733,199,199
+New York,Apartment,200.0,2,Entire home/apt,Nolita,-73.99529,40.72404,0,0
+New York,Apartment,40.0,3,Private room,East Harlem,-73.94429,40.78626,2,2
+New York,Apartment,350.0,7,Entire home/apt,Midtown East,-73.96776,40.75482,112,112
+Maui,Condominium,400.0,6,Entire home/apt,Kihei/Wailea,-156.5039,20.79664,7,7
+Kauai,Apartment,234.0,2,Private room,Kauaʻi,-159.47554,21.88234,4,4
+Oahu,Apartment,135.0,3,Entire home/apt,Waikiki,-157.83857,21.28572,87,87
+New York,Condominium,125.0,3,Entire home/apt,Williamsburg,-73.96216,40.71353,16,16
+New York,Apartment,100.0,2,Entire home/apt,Chinatown,-73.99442,40.7113,26,26
+The Big Island,Cabin,65.0,2,Entire home/apt,Island of Hawaiʻi,-155.87508,19.26787,1,1
+Maui,Condominium,239.0,2,Entire home/apt,Kihei/Wailea,-156.46697,20.78484,0,0
+New York,Apartment,125.0,4,Entire home/apt,Gramercy Park,-73.98161,40.73598,19,19
+New York,Loft,79.0,4,Entire home/apt,Midtown,-73.97589,40.78898,12,12
+New York,House,499.0,8,Entire home/apt,Fort Greene,-73.97713,40.68675,104,104
+The Big Island,House,100.0,2,Private room,0,-155.97975,19.61171,203,203
+New York,Apartment,125.0,4,Entire home/apt,Bedford-Stuyvesant,-73.91365,40.68174,37,37
+Oahu,House,895.0,8,Entire home/apt,Kuliouou/Kalani Iki,-158.08687,21.61601,0,0
+New York,Apartment,35.0,1,Private room,Bushwick,-73.92081,40.70017,0,0
+New York,Condominium,1000.0,3,Entire home/apt,Upper West Side,-73.96482,40.79208,24,24
+New York,Apartment,48.0,2,Private room,Washington Heights,-73.93957,40.83307,45,45
+New York,Apartment,105.0,1,Private room,Greenpoint,-73.95646,40.72804,58,58
+Maui,Condominium,200.0,5,Entire home/apt,Kihei/Wailea,-156.44917,20.73013,17,17
+The Big Island,Guesthouse,100.0,6,Entire home/apt,Island of Hawaiʻi,-155.22212,19.43327,385,385
+New York,Apartment,60.0,2,Private room,Ridgewood,-73.91932,40.71112,2,2
+New York,Apartment,85.0,2,Entire home/apt,Bushwick,-73.92745,40.70186,207,207
+New York,Apartment,38.0,3,Private room,0,-73.94247,40.672,75,75
+New York,Apartment,79.0,2,Entire home/apt,Bedford-Stuyvesant,-73.92922,40.68683,180,180
+New York,Apartment,90.0,4,Entire home/apt,Astoria,-73.92117,40.76964,28,28
+New York,Apartment,150.0,2,Entire home/apt,Brooklyn Heights,-73.99438,40.69263,95,95
+New York,Apartment,65.0,1,Private room,Astoria,-73.93959,40.76485,1,1
+Maui,Condominium,240.0,6,Entire home/apt,Kihei/Wailea,-156.4409,20.69735,18,18
+New York,Apartment,133.0,4,Entire home/apt,Upper East Side,-73.95735,40.78465,7,7
+New York,Apartment,65.0,1,Private room,Astoria,-73.93215,40.76079,5,5
+The Big Island,Guest suite,150.0,2,Entire home/apt,0,-155.9943,19.67155,25,25
+New York,Apartment,225.0,4,Entire home/apt,Williamsburg,-73.94854,40.70998,94,94
+New York,House,85.0,2,Private room,Park Slope,-73.98057,40.67549,1,1
+Maui,Condominium,345.0,8,Entire home/apt,Kihei/Wailea,-156.43546,20.69055,65,65
+New York,Apartment,250.0,4,Entire home/apt,Nolita,-73.99449,40.72182,217,217
+Kauai,Condominium,246.0,5,Entire home/apt,0,-159.46122,21.87821,28,28
+Kauai,Condominium,139.0,3,Entire home/apt,0,-159.32835,22.05273,19,19
+New York,Loft,99.0,4,Entire home/apt,Bushwick,-73.93285,40.70126,39,39
+The Big Island,Cabin,80.0,2,Entire home/apt,Island of Hawaiʻi,-155.10302,19.48649,291,291
+The Big Island,Farm stay,135.0,2,Private room,0,-155.22848,19.9732,9,9
+The Big Island,Apartment,80.0,2,Private room,0,-155.62344,20.03697,27,27
+Oahu,Apartment,94.0,3,Entire home/apt,Waikiki,-157.82302,21.27551,88,88
+New York,Apartment,239.0,4,Entire home/apt,Midtown East,-73.9666,40.75489,119,119
+Maui,Serviced apartment,595.0,8,Entire home/apt,Kaanapali,-156.6917,20.93792,9,9
+Maui,Condominium,125.0,2,Entire home/apt,Kihei/Wailea,-156.44392,20.70799,49,49
+Oahu,Farm stay,350.0,10,Entire home/apt,Ko'olauloa,-157.90285,21.59125,35,35
+New York,Apartment,165.0,4,Entire home/apt,Park Slope,-73.98082,40.67644,23,23
+Maui,Serviced apartment,595.0,8,Entire home/apt,Kaanapali,-156.69236,20.93646,3,3
+Oahu,Condominium,349.0,4,Entire home/apt,0,-157.83818,21.28172,1,1
+New York,Apartment,70.0,2,Entire home/apt,Midwood,-73.94586,40.62883,4,4
+Maui,Condominium,250.0,6,Entire home/apt,Kihei/Wailea,-156.44365,20.71322,15,15
+Oahu,Condominium,135.0,3,Private room,Waikiki,-157.82776,21.28133,72,72
+Oahu,Apartment,69.0,2,Entire home/apt,Waikiki,-157.82262,21.27567,53,53
+Maui,Bungalow,160.0,2,Entire home/apt,Kihei/Wailea,-156.45205,20.76124,10,10
+Maui,Condominium,174.0,4,Entire home/apt,Kihei/Wailea,-156.45649,20.76438,55,55
+Oahu,Apartment,97.0,3,Entire home/apt,Waikiki,-157.8266,21.28084,39,39
+Maui,Apartment,311.0,4,Entire home/apt,0,-156.44864,20.7264,2,2
+Oahu,Condominium,90.0,2,Entire home/apt,Waianae Coast,-158.20257,21.48382,55,55
+The Big Island,House,125.0,6,Entire home/apt,0,-155.26935,19.44148,0,0
+New York,Apartment,110.0,4,Entire home/apt,0,-73.96511,40.80302,0,0
+Oahu,Condominium,150.0,4,Entire home/apt,Waikiki,-157.82437,21.27608,89,89
+The Big Island,Villa,650.0,8,Entire home/apt,Venice,-154.81946,19.50157,10,10
+Maui,Condominium,231.0,5,Entire home/apt,Kihei/Wailea,-156.45891,20.76387,2,2
+Maui,Apartment,150.0,2,Entire home/apt,0,-156.64867,21.00432,27,27
+Oahu,Condominium,500.0,7,Entire home/apt,Waikiki,-157.8238,21.2743,4,4
+Maui,Serviced apartment,799.0,8,Entire home/apt,Kaanapali,-156.69171,20.93689,5,5
+The Big Island,House,75.0,4,Private room,Island of Hawaiʻi,-155.88241,19.31372,257,257
+Oahu,House,35.0,1,Shared room,Ala Moana/Kakaako,-157.83768,21.29013,109,109
+The Big Island,Guest suite,58.0,2,Entire home/apt,Island of Hawaiʻi,-155.77167,19.13933,83,83
+Maui,Condominium,277.0,4,Entire home/apt,Kihei/Wailea,-156.4587,20.76445,127,127
+Oahu,Guest suite,65.0,2,Entire home/apt,North Shore,-158.11176,21.57105,85,85
+Oahu,House,269.0,10,Entire home/apt,Ko'olauloa,-157.91711,21.6217,15,15
+New York,Apartment,34.0,1,Private room,Tremont,-73.89872,40.85396,2,2
+Maui,Townhouse,245.0,5,Entire home/apt,Lahaina,-156.66885,20.86114,67,67
+The Big Island,House,135.0,8,Entire home/apt,Island of Hawaiʻi,-155.88096,19.39935,16,16
+The Big Island,Apartment,97.0,4,Entire home/apt,0,-155.99708,19.64393,161,161
+Maui,Serviced apartment,324.0,4,Entire home/apt,Kaanapali,-156.69268,20.93999,1,1
+Oahu,Apartment,82.0,2,Entire home/apt,Waikiki,-157.82463,21.27472,55,55
+Oahu,Apartment,165.0,4,Entire home/apt,0,-157.84343,21.30852,66,66
+Oahu,Condominium,88.0,2,Entire home/apt,Waikiki,-157.82357,21.27638,42,42
+Maui,Apartment,299.0,7,Entire home/apt,Napili/Honokowai,-156.67924,20.971,46,46
+New York,House,45.0,2,Private room,Windsor Terrace,-73.97227,40.64933,0,0
+New York,Townhouse,130.0,4,Private room,Long Island City,-73.9474,40.74771,231,231
+New York,Apartment,73.0,1,Private room,Washington Heights,-73.93789,40.85704,6,6
+Oahu,House,299.0,8,Entire home/apt,Palolo,-157.78934,21.3031,30,30
+Oahu,House,95.0,2,Private room,North Shore,-158.03886,21.67923,120,120
+Oahu,Condominium,119.0,5,Entire home/apt,Waikiki,-157.82726,21.28198,73,73
+New York,Apartment,60.0,1,Private room,Williamsburg,-73.94224,40.70806,1,1
+New York,Apartment,125.0,2,Entire home/apt,Williamsburg,-73.94332,40.71109,15,15
+New York,Apartment,140.0,2,Entire home/apt,0,-73.98717,40.72665,32,32
+New York,Townhouse,50.0,2,Private room,Bedford-Stuyvesant,-73.95375,40.68604,7,7
+Oahu,Condominium,142.0,2,Entire home/apt,Waikiki,-157.82086,21.27285,41,41
+Kauai,House,604.0,7,Entire home/apt,Kauaʻi,-159.54745,22.22264,7,7
+Kauai,Condominium,119.0,2,Entire home/apt,Kauaʻi,-159.33923,22.01071,44,44
+Oahu,Apartment,130.0,4,Entire home/apt,Waikiki,-157.82304,21.27703,51,51
+Oahu,Apartment,249.0,6,Entire home/apt,Waikiki,-157.8326,21.28648,8,8
+Kauai,Condominium,400.0,6,Entire home/apt,0,-159.47467,21.88174,3,3
+New York,House,125.0,3,Private room,The Rockaways,-73.79248,40.59058,38,38
+Oahu,Apartment,99.0,2,Entire home/apt,Waikiki,-157.83334,21.2862,108,108
+Maui,Loft,300.0,4,Entire home/apt,Napili/Honokowai,-156.6868,20.95465,41,41
+New York,Apartment,149.0,4,Entire home/apt,Bushwick,-73.92188,40.70699,36,36
+Oahu,Condominium,118.0,3,Entire home/apt,Waikiki,-157.82476,21.27936,29,29
+New York,Apartment,375.0,4,Entire home/apt,Harlem,-73.94704,40.8053,40,40
+The Big Island,House,55.0,6,Entire home/apt,Island of Hawaiʻi,-155.76034,19.14801,16,16
+New York,Apartment,175.0,2,Entire home/apt,Park Slope,-73.97339,40.67274,57,57
+Maui,Condominium,150.0,4,Entire home/apt,Kihei/Wailea,-156.43701,20.6915,8,8
+New York,Apartment,90.0,2,Private room,Williamsburg,-73.95001,40.70821,24,24
+New York,Apartment,142.0,2,Entire home/apt,Alphabet City,-73.97529,40.72741,130,130
+0,Apartment,125.0,2,Private room,Upper West Side,-73.97323,40.79415,2,2
+New York,Loft,225.0,4,Entire home/apt,0,-73.95525,40.71758,12,12
+The Big Island,Condominium,145.0,2,Entire home/apt,Kailua/Kona,-155.96146,19.56576,5,5
+Maui,Villa,245.0,2,Entire home/apt,Kapalua,-156.65856,21.00054,80,80
+New York,Apartment,139.0,3,Entire home/apt,Upper West Side,-73.98737,40.7728,8,8
+Kauai,House,425.0,8,Entire home/apt,0,-159.46435,21.88141,32,32
+New York,Apartment,199.0,2,Entire home/apt,Kips Bay,-73.98243,40.73955,34,34
+New York,Apartment,250.0,5,Entire home/apt,Harlem,-73.94332,40.8235,61,61
+New York,Apartment,120.0,8,Entire home/apt,Stapleton,-74.07571,40.62356,70,70
+New York,Apartment,199.0,3,Entire home/apt,Fenway/Kenmore,-73.98146,40.76647,0,0
+New York,House,35.0,1,Private room,Jamaica,-73.7621,40.66298,186,186
+New York,Apartment,550.0,5,Entire home/apt,0,-73.95796,40.71889,48,48
+New York,Townhouse,84.0,4,Private room,East Village,-73.98823,40.7303,62,62
+Maui,Condominium,185.0,6,Entire home/apt,Kihei/Wailea,-156.45699,20.75577,16,16
+New York,Apartment,60.0,2,Private room,Bedford-Stuyvesant,-73.94312,40.69181,3,3
+New York,Apartment,125.0,3,Entire home/apt,Williamsburg,-73.94733,40.71503,2,2
+New York,House,80.0,2,Private room,Coney Island,-74.00101,40.57476,30,30
+New York,Apartment,53.0,1,Private room,Flatbush,-73.94838,40.64895,221,221
+New York,Apartment,89.0,4,Entire home/apt,Bushwick,-73.91504,40.70173,14,14
+New York,Apartment,46.0,2,Private room,Kensington,-73.98191,40.64498,19,19
+New York,Condominium,110.0,3,Entire home/apt,Upper West Side,-73.98641,40.77472,29,29
+New York,Aparthotel,100.0,2,Private room,Upper West Side,-73.98024,40.79057,49,49
+The Big Island,Guest suite,95.0,2,Private room,Kailua/Kona,-155.89199,19.48659,45,45
+Oahu,House,450.0,6,Entire home/apt,Waimanalo,-157.70142,21.33991,13,13
+New York,Apartment,150.0,2,Entire home/apt,Hell's Kitchen,-73.98457,40.7672,0,0
+Maui,Apartment,215.0,4,Entire home/apt,Lahaina,-156.68401,20.89045,11,11
+Kauai,House,420.0,8,Entire home/apt,Kauaʻi,-159.31839,22.06858,45,45
+Maui,Condominium,800.0,9,Entire home/apt,Napili/Honokowai,-156.68034,20.97104,17,17
+New York,Apartment,60.0,1,Private room,Williamsburg,-73.95725,40.71675,0,0
+New York,Apartment,140.0,2,Entire home/apt,Washington Heights,-73.93915,40.83625,10,10
+Oahu,Guesthouse,215.0,4,Entire home/apt,Kailua,-157.73154,21.39727,7,7
+Oahu,Apartment,99.0,2,Entire home/apt,Waikiki,-157.83363,21.28726,149,149
+New York,Apartment,100.0,2,Private room,Morningside Heights,-73.95928,40.81093,76,76
+New York,Apartment,300.0,4,Entire home/apt,Williamsburg,-73.95822,40.71319,3,3
+Oahu,Condominium,114.0,3,Entire home/apt,Waikiki,-157.82515,21.27929,7,7
+New York,Apartment,73.0,2,Private room,Bedford-Stuyvesant,-73.93319,40.69454,79,79
+Maui,Condominium,486.0,5,Entire home/apt,Kihei/Wailea,-156.43536,20.69012,6,6
+New York,Apartment,54.0,2,Private room,Williamsburg,-73.9588,40.70843,130,130
+New York,Apartment,50.0,1,Private room,Bushwick,-73.92712,40.7038,0,0
+Oahu,Bed and breakfast,150.0,4,Private room,Kailua,-157.73271,21.39416,3,3
+Oahu,Condominium,305.0,6,Entire home/apt,Waikiki,-157.82811,21.27925,24,24
+Oahu,Condominium,149.0,6,Entire home/apt,Waikiki,-157.82889,21.28271,1,1
+Oahu,House,350.0,6,Entire home/apt,0,-157.8499,21.5517,2,2
+Oahu,Condominium,110.0,3,Entire home/apt,Waikiki,-157.82003,21.26128,0,0
+Oahu,Condominium,351.0,4,Entire home/apt,Waikiki,-157.83285,21.27886,1,1
+Oahu,Apartment,80.0,2,Entire home/apt,Waikiki,-157.82123,21.27678,190,190
+New York,Apartment,38.0,1,Private room,Bushwick,-73.9294,40.69493,0,0
+Maui,Cottage,200.0,9,Entire home/apt,Paia,-156.26062,20.93195,106,106
+Maui,Condominium,148.0,3,Entire home/apt,Napili/Honokowai,-156.67817,20.97214,80,80
+Oahu,Guesthouse,275.0,4,Entire home/apt,Hawaii Kai,-157.69614,21.28953,85,85
+New York,Apartment,149.0,5,Entire home/apt,0,-73.90792,40.69295,83,83
+Oahu,House,249.0,2,Private room,Kailua,-157.73366,21.39114,3,3
+New York,Apartment,150.0,2,Entire home/apt,Chelsea,-74.00606,40.74577,99,99
+0,Condominium,149.0,2,Entire home/apt,Kauaʻi,-159.32794,22.05323,18,18
+New York,Apartment,375.0,4,Entire home/apt,Nolita,-73.99346,40.72255,18,18
+New York,House,100.0,4,Entire home/apt,Bushwick,-73.90796,40.69559,131,131
+Maui,Condominium,179.0,4,Entire home/apt,0,-156.45006,20.72946,91,91
+New York,House,70.0,1,Private room,0,-73.90036,40.7708,23,23
+New York,Condominium,200.0,2,Entire home/apt,Williamsburg,-73.94124,40.71677,7,7
+Kauai,Condominium,230.0,6,Entire home/apt,Downtown,-159.47223,22.22053,20,20
+Oahu,House,249.0,6,Entire home/apt,Makiki/Lower Punchbowl/Tantalus,-157.81156,21.32606,24,24
+Maui,House,935.0,6,Entire home/apt,Kaanapali,-156.68398,20.88064,1,1
+Oahu,Apartment,449.0,8,Entire home/apt,Waikiki,-157.82805,21.27983,31,31
+Kauai,Resort,130.0,2,Private room,Downtown,-159.47242,22.21905,75,75
+Maui,House,799.0,6,Entire home/apt,Maui,-156.50643,20.79652,27,27
+Maui,Apartment,229.0,2,Entire home/apt,Kihei/Wailea,-156.45098,20.72891,86,86
+Maui,Apartment,385.0,4,Entire home/apt,Kihei/Wailea,-156.50456,20.79559,11,11
+Maui,Condominium,595.0,4,Entire home/apt,Kaanapali,-156.68985,20.93787,0,0
+New York,Apartment,100.0,1,Private room,0,-73.98688,40.73226,4,4
+New York,Apartment,38.0,2,Private room,Tremont,-73.9016,40.83796,8,8
+New York,Apartment,40.0,2,Private room,Bushwick,-73.91298,40.69494,89,89
+New York,Apartment,40.0,2,Private room,0,-73.87804,40.75533,76,76
+New York,Apartment,90.0,2,Private room,Williamsburg,-73.95095,40.71354,28,28
+New York,House,110.0,2,Private room,Tremont,-73.94625,40.80677,4,4
+New York,Apartment,330.0,5,Entire home/apt,Upper East Side,-73.96586,40.79377,1,1
+Oahu,Aparthotel,109.0,2,Private room,Waikiki,-157.83321,21.28583,116,116
+Oahu,Condominium,528.0,6,Entire home/apt,Waikiki,-157.83915,21.28506,5,5
+New York,Apartment,140.0,4,Entire home/apt,East Harlem,-73.93702,40.80758,25,25
+New York,Apartment,98.0,1,Private room,0,-73.91704,40.74615,1,1
+New York,Apartment,65.0,2,Private room,Bushwick,-73.92964,40.696,0,0
+New York,House,275.0,10,Entire home/apt,South Beach,-74.08174,40.59116,18,18
+New York,Loft,70.0,2,Private room,Bushwick,-73.92351,40.70087,78,78
+New York,Apartment,40.0,1,Private room,East Harlem,-73.93955,40.79281,12,12
+New York,Apartment,75.0,2,Private room,Bushwick,-73.92084,40.68891,6,6
+The Big Island,House,329.0,6,Entire home/apt,Kailua/Kona,-155.97224,19.70353,16,16
+New York,Apartment,299.0,3,Entire home/apt,Nolita,-73.99419,40.7245,26,26
+The Big Island,Villa,184.0,4,Entire home/apt,Island of Hawaiʻi,-155.87972,19.91589,0,0
+Oahu,House,590.0,6,Entire home/apt,North Shore,-158.0201,21.69442,6,6
+New York,Apartment,400.0,2,Private room,Midtown,-73.75184,40.70052,0,0
+New York,House,33.0,2,Private room,East New York,-73.89039,40.67539,92,92
+New York,Townhouse,50.0,2,Private room,Flushing,-73.83298,40.7459,51,51
+New York,Apartment,90.0,2,Entire home/apt,0,-73.99898,40.75005,64,64
+New York,Loft,300.0,4,Entire home/apt,Gramercy Park,-73.98443,40.73815,10,10
+New York,Apartment,125.0,2,Private room,Lower East Side,-73.99154,40.71862,1,1
+New York,Apartment,180.0,2,Entire home/apt,Upper West Side,-73.97132,40.79501,2,2
+New York,Apartment,125.0,5,Entire home/apt,West Brighton,-74.11311,40.63333,88,88
+New York,Apartment,145.0,4,Entire home/apt,Crown Heights,-73.95549,40.67838,18,18
+New York,Loft,249.0,3,Entire home/apt,Williamsburg,-73.96392,40.71865,38,38
+Maui,Condominium,500.0,6,Entire home/apt,Kaanapali,-156.69406,20.91573,1,1
+Kauai,Condominium,259.0,4,Entire home/apt,Kauaʻi,-159.45065,21.8732,29,29
+Oahu,Guest suite,199.0,2,Entire home/apt,North Shore,-158.06438,21.64361,76,76
+Oahu,Tiny house,125.0,4,Entire home/apt,Ko'olauloa,-157.85218,21.55359,31,31
+New York,Apartment,40.0,2,Private room,0,-73.89713,40.86533,1,1
+Maui,Townhouse,310.0,8,Entire home/apt,Kauaʻi,-156.68654,20.93332,32,32
+Kauai,House,312.0,6,Entire home/apt,Downtown,-159.48204,22.22342,5,5
+Maui,Condominium,463.0,3,Entire home/apt,Kapalua,-156.66815,20.99393,1,1
+New York,Apartment,100.0,2,Entire home/apt,Canarsie,-73.89367,40.63241,145,145
+New York,Apartment,218.0,6,Entire home/apt,0,-73.98625,40.67124,101,101
+Oahu,Apartment,150.0,4,Entire home/apt,Ko'olauloa,-157.99459,21.69891,50,50
+New York,Loft,115.0,1,Private room,Williamsburg,-73.9664,40.71424,16,16
+Oahu,House,265.0,8,Entire home/apt,Kapalua,-157.91443,21.61791,10,10
+Oahu,Guest suite,142.0,3,Entire home/apt,Kailua,-157.74532,21.4094,70,70
+The Big Island,Townhouse,228.0,5,Entire home/apt,Island of Hawaiʻi,-155.85528,19.94625,2,2
+New York,Apartment,170.0,6,Entire home/apt,0,-73.94884,40.70778,81,81
+Oahu,Guest suite,130.0,2,Entire home/apt,North Shore,-158.17481,21.57958,71,71
+New York,Apartment,200.0,3,Entire home/apt,Hell's Kitchen,-73.99552,40.76338,149,149
+Oahu,House,200.0,4,Entire home/apt,0,-158.14192,21.58147,38,38
+New York,Apartment,55.0,1,Private room,Harlem,-73.94571,40.81156,115,115
+Oahu,House,100.0,2,Private room,Kaimuki,-157.78624,21.29329,133,133
+New York,Apartment,55.0,1,Private room,Williamsburg,-73.96234,40.71871,1,1
+Oahu,Apartment,88.0,4,Entire home/apt,Waikiki,-157.82313,21.27982,6,6
+Maui,Apartment,110.0,2,Entire home/apt,Maui,-156.50624,20.79562,21,21
+New York,Apartment,71.0,2,Private room,Harlem,-73.94504,40.81036,31,31
+Kauai,Condominium,85.0,2,Entire home/apt,Kauaʻi,-159.47746,22.22274,121,121
+New York,Apartment,130.0,2,Private room,South Yarra,-74.00255,40.73523,17,17
+Oahu,House,99.0,6,Entire home/apt,North Shore,-158.111,21.56933,78,78
+New York,Condominium,305.0,4,Entire home/apt,Central City,-73.98007,40.76382,0,0
+Oahu,Apartment,80.0,3,Entire home/apt,Waikiki,-157.82213,21.27906,94,94
+Kauai,Condominium,143.0,4,Entire home/apt,Kauaʻi,-159.44913,21.87529,3,3
+The Big Island,House,450.0,10,Entire home/apt,Hilo,-155.09392,19.86134,42,42
+New York,Apartment,429.0,7,Entire home/apt,0,-73.98087,40.73806,96,96
+New York,Apartment,78.0,1,Private room,0,-73.94782,40.7739,66,66
+The Big Island,Guesthouse,115.0,2,Entire home/apt,North Kohala,-155.83072,20.21631,22,22
+New York,Apartment,65.0,2,Private room,East Harlem,-73.94037,40.79324,1,1
+New York,Townhouse,198.0,3,Entire home/apt,Park Slope,-73.97479,40.67148,38,38
+The Big Island,Condominium,79.0,3,Entire home/apt,Hilo,-155.0728,19.71375,122,122
+Maui,Apartment,132.0,2,Entire home/apt,Napili/Honokowai,-156.66581,20.98825,82,82
+New York,Apartment,190.0,3,Entire home/apt,Williamsburg,-73.96445,40.70953,17,17
+The Big Island,House,175.0,7,Entire home/apt,Island of Hawaiʻi,-155.28143,19.44145,22,22
+New York,Apartment,95.0,2,Entire home/apt,Bedford-Stuyvesant,-73.92903,40.68887,13,13
+New York,Apartment,150.0,2,Entire home/apt,0,-73.9619,40.76816,5,5
+Oahu,Other,65.0,2,Entire home/apt,North Shore,-158.15725,21.57918,110,110
+Maui,Cottage,189.0,4,Entire home/apt,Haiku/Pauwela,-156.32303,20.91468,58,58
+New York,Other,70.0,3,Entire home/apt,Great Kills,-74.14666,40.54106,79,79
+New York,Apartment,87.0,3,Entire home/apt,Crown Heights,-73.93902,40.67034,9,9
+Oahu,Apartment,95.0,3,Entire home/apt,Nuuanu/Punchbowl,-157.85228,21.31184,95,95
+New York,Apartment,49.0,2,Private room,Bushwick,-73.90531,40.68844,60,60
+New York,Apartment,65.0,2,Private room,0,-73.93508,40.69912,62,62
+Oahu,House,319.0,8,Entire home/apt,0,-157.81261,21.27219,65,65
+New York,Apartment,48.0,2,Private room,Maspeth,-73.90168,40.73732,32,32
+New York,Apartment,42.0,2,Private room,0,-73.91578,40.67638,13,13
+The Big Island,House,100.0,2,Private room,Kailua/Kona,-155.98373,19.72866,40,40
+Oahu,Apartment,50.0,4,Entire home/apt,Waikiki,-157.83398,21.2855,86,86
+Oahu,House,175.0,5,Entire home/apt,Ewa,-158.00071,21.31369,95,95
+New York,Apartment,127.0,2,Private room,Lower East Side,-73.99045,40.71542,100,100
+The Big Island,Condominium,200.0,2,Entire home/apt,Kuliouou/Kalani Iki,-155.98172,19.61387,0,0
+The Big Island,Cottage,175.0,6,Entire home/apt,Island of Hawaiʻi,-155.22552,19.42905,45,45
+Oahu,House,135.0,5,Entire home/apt,Liliha/Kapalama,-157.84952,21.34049,7,7
+New York,House,150.0,4,Entire home/apt,Bedford-Stuyvesant,-73.92866,40.69092,3,3
+Kauai,Condominium,129.0,4,Entire home/apt,Kauaʻi,-159.32462,22.05558,48,48
+Oahu,Condominium,275.0,4,Entire home/apt,Waikiki,-157.83903,21.28582,15,15
+The Big Island,Cottage,84.0,7,Entire home/apt,Island of Hawaiʻi,-155.04581,19.57833,35,35
+New York,Condominium,110.0,2,Private room,Williamsburg,-73.96174,40.72149,126,126
+Kauai,Condominium,129.0,2,Entire home/apt,0,-159.33306,22.05299,3,3
+Oahu,Apartment,90.0,2,Entire home/apt,Waikiki,-157.83365,21.28588,46,46
+Maui,Townhouse,230.0,6,Entire home/apt,Kaanapali,-156.68832,20.95134,27,27
+Maui,House,95.0,2,Private room,Paia,-156.37272,20.90555,192,192
+Oahu,Guest suite,290.0,2,Entire home/apt,Island of Hawaiʻi,-157.73049,21.38546,0,0
+New York,Apartment,50.0,2,Private room,Crown Heights,-73.93134,40.66838,28,28
+New York,Apartment,110.0,2,Private room,Harlem,-73.94315,40.81749,120,120
+New York,Apartment,80.0,2,Private room,0,-73.93585,40.85425,7,7
+New York,Apartment,200.0,2,Entire home/apt,Williamsburg,-73.95246,40.71749,8,8
+New York,House,79.0,4,Private room,Bedford Park,-73.8951,40.86914,63,63
+The Big Island,House,1100.0,8,Entire home/apt,0,-155.81746,19.997,1,1
+New York,Apartment,100.0,2,Entire home/apt,Upper West Side,-73.97347,40.79449,0,0
+New York,Apartment,69.0,2,Private room,Hamilton Heights,-73.95031,40.82184,141,141
+New York,Apartment,98.0,1,Private room,Lower East Side,-73.99229,40.71916,68,68
+Kauai,Condominium,169.0,4,Entire home/apt,Kauaʻi,-159.31981,22.0625,20,20
+The Big Island,Cottage,500.0,6,Entire home/apt,Kailua/Kona,-155.97896,19.61006,22,22
+The Big Island,House,194.0,4,Entire home/apt,Kailua/Kona,-155.96845,19.58556,55,55
+New York,Apartment,70.0,3,Private room,Washington Heights,-73.93299,40.84862,36,36
+Oahu,House,1500.0,14,Entire home/apt,Kuliouou/Kalani Iki,-157.78819,21.26749,0,0
+New York,Apartment,120.0,2,Private room,Chelsea,-74.0034,40.74383,0,0
+Oahu,Apartment,100.0,2,Entire home/apt,Ko'olauloa,-157.99358,21.69889,67,67
+New York,Condominium,75.0,2,Private room,0,-73.94214,40.82098,3,3
+New York,Apartment,149.0,3,Entire home/apt,Williamsburg,-73.94541,40.70628,37,37
+The Big Island,Farm stay,74.0,2,Private room,Kailua/Kona,-155.88717,19.441,90,90
+Maui,Condominium,320.0,4,Entire home/apt,Kihei/Wailea,-156.43391,20.69263,0,0
+New York,Apartment,250.0,7,Entire home/apt,Greenpoint,-73.95987,40.73292,0,0
+New York,Apartment,50.0,2,Private room,0,-73.92778,40.82415,46,46
+New York,Apartment,199.0,4,Entire home/apt,0,-73.96171,40.71459,41,41
+Maui,Condominium,220.0,6,Entire home/apt,Lahaina,-156.67428,20.8751,62,62
+New York,Apartment,150.0,2,Private room,Williamsburg,-73.95976,40.71258,32,32
+New York,Apartment,210.0,4,Entire home/apt,West Village,-74.00095,40.73282,83,83
+New York,Apartment,150.0,2,Entire home/apt,West Village,-74.00328,40.7338,40,40
+New York,Townhouse,179.0,4,Entire home/apt,Bedford-Stuyvesant,-73.94403,40.68493,59,59
+Oahu,Guesthouse,149.0,6,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.81679,21.28486,35,35
+Oahu,Condominium,169.0,6,Entire home/apt,Waikiki,-157.82797,21.28164,35,35
+New York,Apartment,130.0,10,Entire home/apt,Bedford-Stuyvesant,-73.95325,40.68471,219,219
+New York,Apartment,225.0,4,Entire home/apt,Upper West Side,-73.98154,40.77547,10,10
+New York,House,73.0,2,Private room,Ridgewood,-73.91322,40.70538,0,0
+The Big Island,Guesthouse,74.0,2,Entire home/apt,Island of Hawaiʻi,-154.97853,19.58194,196,196
+Kauai,Condominium,402.0,4,Entire home/apt,0,-159.45774,21.87576,1,1
+New York,Apartment,99.0,2,Entire home/apt,Williamsburg,-73.94861,40.71084,183,183
+New York,House,139.0,1,Private room,West Village,-74.00302,40.73089,189,189
+Maui,House,88.0,2,Private room,Paia,-156.37856,20.91356,159,159
+New York,Apartment,226.0,2,Entire home/apt,Greenwich Village,-74.00095,40.72866,25,25
+Oahu,House,39.0,1,Private room,Ewa,-158.01538,21.31488,7,7
+New York,Apartment,85.0,3,Private room,Harlem,-73.94221,40.81488,3,3
+New York,Apartment,200.0,2,Entire home/apt,Alphabet City,-73.97963,40.7235,3,3
+Maui,Condominium,692.0,8,Entire home/apt,Kaanapali,-156.68821,20.94855,9,9
+Kauai,Condominium,215.0,6,Entire home/apt,0,-159.49025,22.22382,4,4
+New York,Apartment,200.0,2,Private room,Chelsea,-73.99179,40.74512,8,8
+The Big Island,Cabin,92.0,4,Private room,Island of Hawaiʻi,-154.91389,19.43352,5,5
+The Big Island,House,100.0,4,Entire home/apt,Island of Hawaiʻi,-154.96857,19.5645,51,51
+New York,Condominium,70.0,2,Private room,Morris Park,-73.85418,40.84906,11,11
+Oahu,House,69.0,4,Private room,Kahalu'u,-157.83791,21.44059,62,62
+Maui,Apartment,140.0,2,Entire home/apt,Kaanapali,-156.69191,20.93499,4,4
+Kauai,Resort,350.0,6,Private room,Midtown East,-159.48597,22.21678,0,0
+Maui,Apartment,174.0,2,Entire home/apt,Kihei/Wailea,-156.43514,20.68934,9,9
+Oahu,Guesthouse,120.0,3,Entire home/apt,Liliha/Kapalama,-157.85729,21.33344,85,85
+Kauai,Condominium,436.0,4,Entire home/apt,0,-159.45807,21.87561,1,1
+Oahu,Apartment,58.0,2,Private room,Waikiki,-157.82323,21.27904,125,125
+Oahu,Apartment,125.0,4,Entire home/apt,Waikiki,-157.84062,21.28676,7,7
+New York,Apartment,120.0,5,Entire home/apt,Lower East Side,-73.99177,40.7189,169,169
+New York,Apartment,59.0,2,Private room,Greenpoint,-73.94368,40.72556,53,53
+New York,Apartment,79.0,2,Entire home/apt,0,-73.99516,40.66477,29,29
+New York,Apartment,185.0,4,Entire home/apt,Boerum Hill,-73.98671,40.68361,8,8
+The Big Island,Bed and breakfast,179.0,4,Private room,Island of Hawaiʻi,-155.2315,19.42714,2,2
+New York,Apartment,85.0,1,Private room,Midtown East,-73.98128,40.75263,48,48
+New York,House,30.0,2,Private room,0,-73.86017,40.7265,99,99
+Maui,Condominium,125.0,3,Entire home/apt,0,-156.66475,20.99009,60,60
+Oahu,Apartment,120.0,2,Entire home/apt,Downtown,-157.80832,21.26924,10,10
+New York,Apartment,53.0,4,Private room,Flatbush,-73.95848,40.65221,0,0
+Oahu,Apartment,120.0,4,Entire home/apt,Waikiki,-157.82668,21.28129,36,36
+Oahu,Condominium,69.0,2,Entire home/apt,Waianae Coast,-158.20228,21.45516,27,27
+New York,Apartment,85.0,2,Private room,East Village,-73.98234,40.73109,180,180
+New York,Apartment,80.0,1,Private room,Downtown,-74.00602,40.72871,14,14
+New York,Apartment,100.0,3,Entire home/apt,Chinatown,-73.99703,40.71976,5,5
+New York,Guest suite,90.0,4,Entire home/apt,Woodside,-73.78707,40.74227,22,22
+New York,Apartment,103.0,2,Private room,Chelsea,-74.00139,40.74462,61,61
+New York,Apartment,285.0,5,Entire home/apt,Alphabet City,-73.9855,40.72254,66,66
+New York,Apartment,95.0,2,Private room,Upper East Side,-73.95965,40.76875,2,2
+New York,Loft,70.0,1,Private room,Bushwick,-73.92351,40.69652,147,147
+New York,Apartment,439.0,7,Entire home/apt,Upper West Side,-73.96683,40.79086,67,67
+New York,Townhouse,49.0,8,Private room,Gravesend,-73.97382,40.60877,18,18
+New York,Guesthouse,58.0,2,Private room,Harlem,-73.95151,40.80754,62,62
+New York,Apartment,175.0,2,Entire home/apt,Alphabet City,-73.98159,40.72713,32,32
+New York,House,35.0,2,Private room,The Rockaways,-73.76032,40.59745,57,57
+The Big Island,Guesthouse,59.0,4,Entire home/apt,Island of Hawaiʻi,-154.93676,19.58918,36,36
+Maui,Condominium,442.0,4,Entire home/apt,Kihei/Wailea,-156.44235,20.70952,0,0
+New York,Apartment,150.0,2,Entire home/apt,Astoria,-73.9314,40.76752,10,10
+New York,Apartment,75.0,1,Private room,Upper West Side,-73.96765,40.79917,19,19
+New York,Apartment,75.0,2,Entire home/apt,Williamsburg,-73.93725,40.72214,137,137
+New York,Apartment,555.0,4,Entire home/apt,Chelsea,-73.99729,40.74188,100,100
+The Big Island,House,60.0,2,Private room,Hilo,-155.09196,19.7832,102,102
+New York,Apartment,99.0,3,Entire home/apt,Astoria,-73.91581,40.75748,57,57
+New York,House,160.0,6,Entire home/apt,Bedford-Stuyvesant,-73.92662,40.68445,45,45
+New York,Apartment,39.0,2,Private room,Bedford-Stuyvesant,-73.93722,40.68119,2,2
+New York,Apartment,125.0,4,Entire home/apt,Crown Heights,-73.95028,40.66503,2,2
+New York,Apartment,95.0,2,Entire home/apt,Gowanus,-73.98976,40.67873,3,3
+Oahu,Villa,85.0,2,Private room,0,-157.74346,21.28435,95,95
+New York,House,50.0,3,Private room,The Rockaways,-73.77373,40.5938,62,62
+Maui,Bungalow,469.0,4,Entire home/apt,North Kohala,-155.87199,20.23256,2,2
+Oahu,Hostel,45.0,1,Private room,Ala Moana/Kakaako,-157.83889,21.29776,71,71
+New York,Apartment,90.0,3,Entire home/apt,Crown Heights,-73.94071,40.67438,8,8
+New York,Apartment,100.0,1,Private room,Bedford-Stuyvesant,-73.92628,40.68171,0,0
+Oahu,Boutique hotel,166.0,2,Private room,North Shore,-158.04346,21.6681,1,1
+The Big Island,Apartment,80.0,2,Private room,Kailua/Kona,-155.97974,19.61383,33,33
+Maui,Condominium,269.0,6,Entire home/apt,0,-156.6836,20.96104,1,1
+New York,Apartment,53.0,2,Private room,Harlem,-73.94754,40.80213,62,62
+Maui,Cabin,60.0,2,Entire home/apt,North Kohala,-155.83491,20.24861,54,54
+Maui,Condominium,200.0,6,Entire home/apt,Kihei/Wailea,-156.43694,20.68948,12,12
+Maui,Cottage,175.0,2,Entire home/apt,Makawao,-156.31183,20.86967,257,257
+Maui,Apartment,99.0,3,Entire home/apt,Napili/Honokowai,-156.66917,20.98857,38,38
+Oahu,Apartment,110.0,4,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.8141,21.27482,67,67
+New York,Apartment,89.0,3,Entire home/apt,Inwood,-73.92126,40.86883,48,48
+Oahu,House,417.0,8,Entire home/apt,Liliha/Kapalama,-157.79182,21.25936,21,21
+New York,Apartment,110.0,3,Entire home/apt,Coney Island,-73.98605,40.57609,43,43
+New York,Apartment,100.0,2,Private room,Alphabet City,-73.98286,40.72177,8,8
+The Big Island,Guest suite,110.0,4,Entire home/apt,Island of Hawaiʻi,-154.97636,19.57658,61,61
+New York,Townhouse,48.0,1,Private room,East Elmhurst,-73.87238,40.7638,379,379
+The Big Island,Guest suite,68.0,2,Entire home/apt,Kailua/Kona,-155.9655,19.60476,31,31
+New York,Apartment,150.0,1,Private room,Upper East Side,-73.95149,40.78071,3,3
+New York,Apartment,200.0,6,Entire home/apt,Harlem,-73.94647,40.80803,56,56
+Oahu,Bungalow,95.0,4,Private room,North Shore,-158.12406,21.58216,123,123
+Maui,Condominium,260.0,4,Entire home/apt,Lahaina,-156.68808,20.95145,23,23
+New York,Apartment,140.0,4,Private room,Harlem,-73.95487,40.80142,45,45
+Maui,Villa,380.0,6,Entire home/apt,0,-156.6585,21.00118,5,5
+New York,Apartment,75.0,1,Private room,Park Slope,-73.98141,40.67213,0,0
+Oahu,Condominium,113.0,4,Entire home/apt,Waikiki,-157.82255,21.27708,1,1
+New York,Apartment,350.0,6,Entire home/apt,Hell's Kitchen,-73.9886,40.76438,77,77
+Maui,Condominium,377.0,4,Entire home/apt,0,-156.68747,20.95283,7,7
+New York,Apartment,110.0,2,Entire home/apt,Harlem,-73.94647,40.80355,2,2
+New York,Apartment,45.0,2,Private room,Flatbush,-73.96655,40.64709,40,40
+Oahu,Condominium,148.0,3,Entire home/apt,Waikiki,-157.82792,21.28065,59,59
+New York,Apartment,197.0,4,Entire home/apt,Forest Hills,-73.84944,40.72571,24,24
+New York,Apartment,54.0,2,Private room,Bushwick,-73.9292,40.70341,3,3
+New York,Apartment,38.0,2,Private room,Tremont,-73.89299,40.84647,27,27
+New York,Apartment,150.0,3,Entire home/apt,East Harlem,-73.93606,40.8136,38,38
+New York,House,53.0,2,Private room,University Heights,-73.91391,40.85487,47,47
+The Big Island,House,110.0,3,Private room,North Kohala,-155.79756,20.22656,25,25
+Oahu,Apartment,96.0,4,Entire home/apt,Kaneohe,-157.79928,21.41246,70,70
+Oahu,House,595.0,8,Private room,Kailua,-157.71179,21.38483,2,2
+New York,Apartment,315.0,6,Entire home/apt,Williamsburg,-73.96311,40.71047,100,100
+New York,Apartment,195.0,3,Entire home/apt,Midtown,-73.98163,40.74452,14,14
+New York,Apartment,120.0,2,Private room,Williamsburg,-73.94001,40.7097,3,3
+Oahu,Guesthouse,299.0,6,Entire home/apt,Kuliouou/Kalani Iki,-157.75874,21.28212,60,60
+New York,Apartment,30.0,1,Private room,0,-73.91599,40.69055,0,0
+The Big Island,House,343.0,14,Entire home/apt,Kailua/Kona,-155.9684,19.61198,2,2
+New York,Guesthouse,95.0,2,Entire home/apt,Throgs Neck,-73.82511,40.83051,232,232
+The Big Island,Townhouse,159.0,5,Entire home/apt,0,-155.96569,19.57224,38,38
+New York,Apartment,60.0,1,Private room,East Village,-73.98365,40.73051,4,4
+New York,House,110.0,6,Entire home/apt,Ozone Park,-73.85568,40.67488,65,65
+New York,Townhouse,32.0,2,Private room,Canarsie,-73.89501,40.64674,78,78
+Oahu,Condominium,551.0,6,Entire home/apt,Waikiki,-157.8236,21.27477,9,9
+New York,Apartment,51.0,2,Private room,Harlem,-73.93563,40.81711,20,20
+Oahu,Bungalow,180.0,4,Entire home/apt,Kaimuki,-157.78795,21.29712,102,102
+New York,Apartment,399.0,5,Entire home/apt,0,-73.97062,40.75463,33,33
+New York,Apartment,72.0,1,Private room,0,-73.9618,40.76387,41,41
+Oahu,Apartment,80.0,2,Entire home/apt,Waikiki,-157.82339,21.277,110,110
+New York,Townhouse,41.0,1,Private room,Borough Park,-73.98209,40.63993,90,90
+New York,Apartment,100.0,2,Private room,0,-73.93154,40.75844,13,13
+The Big Island,Barn,135.0,4,Entire home/apt,Kailua/Kona,-155.95926,19.56773,19,19
+Oahu,Townhouse,85.0,2,Private room,Makakilo/Kapolei/Honokai Hale,-158.07366,21.32452,91,91
+New York,Apartment,160.0,1,Private room,Hell's Kitchen,-73.99181,40.7709,41,41
+New York,Apartment,250.0,4,Entire home/apt,Williamsburg,-73.96253,40.71876,1,1
+New York,Apartment,80.0,1,Private room,Lower East Side,-73.98986,40.7193,1,1
+New York,House,50.0,1,Private room,Richmond Hill,-73.8252,40.69502,106,106
+New York,Apartment,149.0,2,Entire home/apt,Chelsea,-74.00559,40.74619,1,1
+Kauai,Condominium,100.0,2,Entire home/apt,Kauaʻi,-159.47602,22.22189,50,50
+New York,Apartment,60.0,6,Entire home/apt,Bedford-Stuyvesant,-73.93997,40.6861,125,125
+New York,Apartment,325.0,6,Entire home/apt,West Village,-74.00258,40.73605,37,37
+The Big Island,Guest suite,155.0,2,Entire home/apt,Hamakua Coast,-155.58451,20.11881,50,50
+Oahu,Apartment,316.0,2,Entire home/apt,0,-157.83967,21.29116,2,2
+New York,Apartment,170.0,3,Entire home/apt,Upper East Side,-73.95811,40.77352,58,58
+New York,Apartment,40.0,1,Private room,Financial District,-74.0072,40.70602,0,0
+Maui,Condominium,256.0,4,Entire home/apt,0,-156.45645,20.75522,0,0
+The Big Island,Condominium,500.0,9,Entire home/apt,Palo Alto,-155.88843,19.91954,6,6
+The Big Island,Hut,68.0,3,Private room,Hilo,-155.10658,19.86094,4,4
+New York,Apartment,94.0,1,Private room,Lower East Side,-73.98794,40.7114,93,93
+Kauai,Condominium,129.0,2,Entire home/apt,Kauaʻi,-159.32473,22.05532,20,20
+Maui,Condominium,239.0,2,Entire home/apt,0,-156.44543,20.71513,2,2
+Oahu,House,280.0,8,Entire home/apt,Waipahu,-158.02927,21.40389,11,11
+Oahu,House,120.0,4,Entire home/apt,Kailua,-157.74895,21.41743,54,54
+Oahu,Condominium,95.0,2,Entire home/apt,0,-157.82722,21.28223,1,1
+Maui,Apartment,194.0,6,Entire home/apt,Kihei/Wailea,-156.44795,20.72371,102,102
+Oahu,House,168.0,6,Entire home/apt,0,-158.16608,21.40539,122,122
+New York,Apartment,196.0,4,Entire home/apt,Greenwich Village,-74.00122,40.73,11,11
+Maui,Apartment,179.0,2,Entire home/apt,Kihei/Wailea,-156.44825,20.72605,87,87
+New York,Apartment,100.0,3,Entire home/apt,City Island,-73.78762,40.85258,84,84
+New York,Apartment,100.0,3,Entire home/apt,Crown Heights,-73.95103,40.66589,6,6
+Maui,Condominium,135.0,4,Private room,0,-156.45589,20.74791,30,30
+Maui,Condominium,343.0,4,Entire home/apt,Kihei/Wailea,-156.50841,20.79575,0,0
+New York,Apartment,115.0,1,Entire home/apt,Upper East Side,-73.94789,40.77286,0,0
+New York,Apartment,99.0,3,Entire home/apt,0,-73.96949,40.75094,94,94
+New York,Apartment,80.0,2,Entire home/apt,0,-73.93822,40.84102,28,28
+New York,Apartment,99.0,12,Entire home/apt,Flatbush,-73.95085,40.64377,43,43
+New York,Apartment,169.0,3,Entire home/apt,Midtown East,-73.96798,40.75568,5,5
+New York,Apartment,60.0,6,Entire home/apt,Jamaica,-73.72838,40.65766,38,38
+New York,Apartment,77.0,2,Private room,Hamilton Heights,-73.94297,40.82555,28,28
+New York,Apartment,86.0,2,Private room,East Harlem,-73.94495,40.78813,34,34
+New York,Townhouse,500.0,3,Entire home/apt,0,-74.00263,40.74637,1,1
+New York,Condominium,100.0,2,Private room,Williamsburg,-73.94003,40.71636,40,40
+New York,Apartment,148.0,2,Private room,Hell's Kitchen,-73.995,40.76243,37,37
+New York,Apartment,70.0,2,Private room,Astoria,-73.93502,40.76652,84,84
+Maui,House,228.0,4,Entire home/apt,0,-156.45763,20.7468,0,0
+New York,House,34.0,1,Private room,Concord,-74.0888,40.60609,22,22
+Oahu,Condominium,120.0,3,Entire home/apt,Waikiki,-157.83856,21.28751,51,51
+Oahu,House,59.0,2,Private room,Nuuanu/Punchbowl,-157.84189,21.32348,34,34
+New York,Hostel,157.0,1,Private room,Lower East Side,-73.98174,40.71043,0,0
+Maui,Condominium,189.0,4,Entire home/apt,Kaanapali,-156.68452,20.959,14,14
+Maui,Condominium,210.0,4,Entire home/apt,Kihei/Wailea,-156.43508,20.69087,2,2
+Oahu,House,395.0,16,Entire home/apt,Ko'olauloa,-157.90511,21.60645,37,37
+New York,Apartment,170.0,4,Entire home/apt,Greenpoint,-73.95604,40.73599,7,7
+New York,Apartment,130.0,4,Entire home/apt,0,-73.95709,40.58745,37,37
+Oahu,Apartment,50.0,2,Private room,Diamond Head/Kapahulu/St. Louis Heights,-157.81241,21.27564,35,35
+Oahu,Guest suite,150.0,2,Entire home/apt,0,-157.73316,21.3653,31,31
+New York,Apartment,115.0,2,Private room,Harlem,-73.95275,40.80832,71,71
+Oahu,House,60.0,6,Entire home/apt,Kaneohe,-157.78858,21.41175,69,69
+Maui,Apartment,225.0,4,Entire home/apt,Napili/Honokowai,-156.67726,20.9753,56,56
+Maui,Condominium,125.0,4,Entire home/apt,0,-156.676,20.87562,5,5
+New York,Apartment,72.0,6,Entire home/apt,Claremont,-73.9104,40.83507,2,2
+New York,Apartment,125.0,2,Private room,Alphabet City,-73.98089,40.72304,63,63
+New York,Apartment,85.0,2,Entire home/apt,0,-74.02826,40.63836,33,33
+New York,Apartment,70.0,1,Private room,Williamsburg,-73.96161,40.71078,33,33
+Kauai,Resort,495.0,8,Entire home/apt,Kauaʻi,-159.45594,21.87381,0,0
+New York,Apartment,80.0,2,Entire home/apt,Hamilton Heights,-73.945,40.82755,0,0
+Maui,Apartment,110.0,2,Entire home/apt,Napili/Honokowai,-156.6654,20.98887,78,78
+New York,Apartment,44.0,1,Private room,East Harlem,-73.93904,40.80266,2,2
+New York,Apartment,120.0,2,Entire home/apt,Hell's Kitchen,-73.99388,40.76152,2,2
+New York,Loft,86.0,8,Private room,Williamsburg,-73.96288,40.71534,11,11
+Maui,Condominium,180.0,6,Entire home/apt,Kihei/Wailea,-156.44588,20.71496,0,0
+Oahu,House,75.0,2,Private room,Waikiki,-157.80702,21.276,23,23
+New York,Apartment,40.0,1,Private room,Crown Heights,-73.95877,40.67651,4,4
+The Big Island,Resort,321.0,6,Entire home/apt,0,-155.98602,19.62554,3,3
+New York,Apartment,50.0,1,Private room,Bushwick,-73.90959,40.69521,0,0
+Oahu,Guest suite,80.0,2,Entire home/apt,0,-157.74931,21.42022,100,100
+The Big Island,Guest suite,80.0,2,Entire home/apt,Island of Hawaiʻi,-155.67752,20.02624,37,37
+New York,Apartment,67.0,2,Private room,Coney Island,-73.9902,40.5743,16,16
+Kauai,Condominium,229.0,4,Entire home/apt,0,-159.33724,22.03463,1,1
+The Big Island,Guesthouse,65.0,2,Entire home/apt,Kailua/Kona,-155.98335,19.67595,37,37
+Maui,Condominium,205.0,2,Entire home/apt,Kaanapali,-156.68808,20.95232,19,19
+New York,Apartment,45.0,1,Shared room,0,-73.94226,40.69522,7,7
+Oahu,Apartment,360.0,9,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.81437,21.28148,13,13
+New York,Apartment,90.0,1,Private room,Battery Park City,-74.01722,40.71035,3,3
+New York,Apartment,55.0,2,Private room,Bedford-Stuyvesant,-73.94675,40.68563,37,37
+Oahu,Apartment,90.0,2,Entire home/apt,0,-157.83201,21.28585,14,14
+New York,Condominium,219.0,6,Entire home/apt,Harlem,-73.94606,40.814,6,6
+Maui,Condominium,312.0,4,Entire home/apt,0,-156.66025,21.00239,7,7
+Kauai,Apartment,185.0,3,Entire home/apt,Kauaʻi,-159.4495,21.87202,37,37
+New York,Apartment,85.0,2,Private room,Bushwick,-73.92211,40.70068,3,3
+Oahu,Condominium,203.0,2,Entire home/apt,0,-157.82066,21.27282,1,1
+Maui,Condominium,159.0,4,Entire home/apt,Napili/Honokowai,-156.67472,20.87533,44,44
+The Big Island,Cottage,148.0,4,Entire home/apt,Island of Hawaiʻi,-155.19072,19.44789,23,23
+The Big Island,Condominium,146.0,6,Entire home/apt,Kailua/Kona,-155.99081,19.63641,3,3
+New York,House,250.0,2,Private room,0,-73.93975,40.69574,0,0
+Kauai,Condominium,145.0,4,Entire home/apt,Kauaʻi,-159.46625,21.88169,53,53
+Oahu,Cottage,98.0,2,Entire home/apt,Kailua,-157.74155,21.40607,65,65
+New York,Apartment,180.0,2,Entire home/apt,Lower East Side,-73.98702,40.72049,6,6
+New York,House,65.0,2,Private room,San Mateo,-73.94662,40.71279,1,1
+Oahu,Apartment,119.0,3,Entire home/apt,Ko'olauloa,-157.92798,21.64568,12,12
+The Big Island,Cabin,99.0,4,Entire home/apt,Island of Hawaiʻi,-154.99088,19.35237,74,74
+The Big Island,Guest suite,65.0,2,Private room,Kailua/Kona,-156.00806,19.72049,97,97
+Oahu,Condominium,145.0,4,Entire home/apt,Waikiki,-157.82201,21.27289,12,12
+New York,Townhouse,2450.0,7,Entire home/apt,Greenwich Village,-73.99413,40.733,7,7
+New York,Apartment,49.0,2,Private room,Bushwick,-73.91362,40.6958,60,60
+New York,Apartment,120.0,1,Entire home/apt,0,-73.95734,40.77037,0,0
+The Big Island,Condominium,175.0,6,Entire home/apt,0,-155.99363,19.63885,54,54
+New York,Condominium,459.0,10,Entire home/apt,0,-73.99697,40.74486,46,46
+Oahu,Guest suite,99.0,4,Entire home/apt,0,-157.72991,21.37394,43,43
+New York,Apartment,45.0,2,Private room,Jamaica,-73.73432,40.65429,33,33
+New York,Apartment,116.0,2,Private room,Williamsburg,-73.94118,40.72056,47,47
+New York,Apartment,90.0,3,Entire home/apt,0,-73.89678,40.62944,58,58
+New York,Apartment,70.0,2,Private room,East Flatbush,-73.93131,40.67139,11,11
+Maui,Condominium,221.0,4,Entire home/apt,Napili/Honokowai,-156.67976,20.9706,23,23
+Kauai,Apartment,79.0,2,Entire home/apt,Kauaʻi,-159.47871,22.22043,82,82
+New York,Apartment,75.0,2,Private room,Crown Heights,-73.9476,40.67064,2,2
+New York,House,150.0,6,Entire home/apt,Dyker Heights,-74.01684,40.62499,50,50
+Maui,Condominium,245.0,4,Entire home/apt,Maui,-156.50807,20.79426,40,40
+Maui,Condominium,280.0,6,Entire home/apt,Kihei/Wailea,-156.45813,20.76371,6,6
+New York,Apartment,132.0,4,Entire home/apt,Chelsea,-73.99686,40.74978,20,20
+New York,Loft,70.0,2,Private room,Williamsburg,-73.94482,40.71275,2,2
+New York,Apartment,90.0,2,Private room,Chinatown,-73.9909,40.71363,53,53
+Oahu,Guesthouse,169.0,4,Entire home/apt,North Shore,-158.03187,21.67999,289,289
+New York,Apartment,59.0,2,Private room,Morningside Heights,-73.96031,40.81467,88,88
+New York,Apartment,125.0,2,Entire home/apt,Washington Heights,-73.94294,40.83638,3,3
+New York,Apartment,93.0,3,Private room,Hamilton Heights,-73.95353,40.81968,131,131
+New York,Apartment,125.0,5,Entire home/apt,Bedford-Stuyvesant,-73.94626,40.68922,96,96
+New York,Apartment,230.0,2,Entire home/apt,Hell's Kitchen,-73.98324,40.76673,1,1
+New York,Townhouse,50.0,2,Private room,Bedford-Stuyvesant,-73.94368,40.68602,1,1
+Maui,Condominium,119.0,4,Entire home/apt,0,-156.44528,20.71691,37,37
+Maui,Apartment,204.0,3,Private room,Lahaina,-156.67402,20.87291,39,39
+Oahu,House,290.0,8,Entire home/apt,Kaimuki,-157.80199,21.28063,13,13
+New York,Apartment,320.0,4,Entire home/apt,Williamsburg,-73.96351,40.71587,157,157
+Maui,Condominium,405.0,4,Entire home/apt,0,-156.45783,20.7619,1,1
+The Big Island,Guesthouse,175.0,2,Entire home/apt,Island of Hawaiʻi,-154.93037,19.3994,11,11
+Oahu,Condominium,89.0,4,Entire home/apt,Waikiki,-157.82482,21.27579,43,43
+The Big Island,Guesthouse,130.0,6,Entire home/apt,Island of Hawaiʻi,-155.96322,19.67365,72,72
+New York,House,190.0,4,Entire home/apt,East Village,-73.98437,40.72671,204,204
+New York,Condominium,97.0,3,Entire home/apt,0,-73.82287,40.75856,26,26
+Oahu,Cottage,125.0,4,Entire home/apt,Kaimuki,-157.79265,21.28101,20,20
+Maui,Condominium,259.0,6,Entire home/apt,Lahaina,-156.67633,20.87506,94,94
+New York,Apartment,180.0,3,Entire home/apt,East Village,-73.98152,40.73014,6,6
+New York,Apartment,105.0,2,Entire home/apt,Lower East Side,-73.99239,40.71467,12,12
+Oahu,Guest suite,270.0,4,Entire home/apt,Kailua,-157.74463,21.41425,62,62
+Maui,Apartment,308.0,4,Entire home/apt,Kihei/Wailea,-156.4426,20.71134,34,34
+New York,Condominium,146.0,2,Entire home/apt,Alphabet City,-73.97901,40.72229,132,132
+New York,Townhouse,160.0,5,Entire home/apt,Flatlands,-73.94071,40.62857,36,36
+New York,Apartment,65.0,3,Private room,Williamsburg,-73.9419,40.7023,36,36
+New York,Apartment,98.0,2,Entire home/apt,0,-73.94557,40.68717,10,10
+New York,Apartment,140.0,2,Entire home/apt,Midtown East,-73.96781,40.75701,0,0
+The Big Island,Guest suite,89.0,4,Entire home/apt,Hilo,-155.09374,19.75874,121,121
+New York,Apartment,177.0,6,Entire home/apt,Hell's Kitchen,-73.99219,40.76396,15,15
+New York,Apartment,149.0,2,Private room,Upper West Side,-73.97348,40.78616,112,112
+New York,Apartment,109.0,2,Entire home/apt,Chelsea,-73.99647,40.75003,57,57
+New York,Apartment,42.0,1,Private room,Bedford-Stuyvesant,-73.93705,40.69414,61,61
+Oahu,Apartment,179.0,6,Entire home/apt,Downtown,-157.86021,21.30823,81,81
+New York,Apartment,130.0,2,Entire home/apt,Crown Heights,-73.95831,40.6697,15,15
+New York,Apartment,67.0,2,Private room,Harlem,-73.95261,40.81244,4,4
+New York,Apartment,90.0,2,Entire home/apt,Williamsburg,-73.94029,40.7077,9,9
+New York,Apartment,95.0,2,Private room,0,-73.94092,40.82547,0,0
+New York,House,200.0,7,Entire home/apt,Williamsbridge,-73.86347,40.8785,76,76
+Oahu,Bed and breakfast,135.0,3,Private room,Kailua,-157.73252,21.3938,42,42
+New York,Townhouse,150.0,3,Entire home/apt,Bedford-Stuyvesant,-73.94153,40.68152,32,32
+New York,House,145.0,1,Private room,Bushwick,-73.92867,40.70039,0,0
+Maui,Condominium,320.0,6,Entire home/apt,Maui,-156.50856,20.79371,69,69
+Kauai,Condominium,250.0,4,Entire home/apt,Kauaʻi,-159.47383,21.88115,7,7
+Oahu,House,48.0,1,Private room,Kuliouou/Kalani Iki,-157.74931,21.27853,8,8
+New York,Apartment,150.0,2,Entire home/apt,Prospect Heights,-73.96665,40.67424,19,19
+New York,Loft,250.0,5,Entire home/apt,Tribeca,-74.00571,40.7196,4,4
+New York,Apartment,221.0,2,Entire home/apt,Chelsea,-73.9994,40.7444,227,227
+The Big Island,Guest suite,90.0,4,Entire home/apt,Kailua/Kona,-155.97716,19.69976,19,19
+Oahu,Condominium,72.0,3,Entire home/apt,0,-158.20469,21.48223,1,1
+Oahu,House,159.0,6,Entire home/apt,Waikiki,-157.82232,21.27818,5,5
+New York,Serviced apartment,149.0,4,Entire home/apt,Greenpoint,-73.94076,40.72537,0,0
+The Big Island,House,114.0,6,Entire home/apt,Island of Hawaiʻi,-154.91657,19.53606,0,0
+The Big Island,Guest suite,120.0,5,Entire home/apt,Hilo,-155.08524,19.68684,43,43
+Maui,Boutique hotel,86.0,3,Private room,0,-156.68665,20.88171,176,176
+New York,Apartment,70.0,1,Private room,Tribeca,-74.00493,40.72035,0,0
+New York,Apartment,150.0,2,Entire home/apt,Chelsea,-73.99723,40.74935,45,45
+New York,Apartment,200.0,1,Entire home/apt,Upper West Side,-73.98347,40.7803,43,43
+Maui,Serviced apartment,220.0,5,Entire home/apt,Kaanapali,-156.69431,20.92259,4,4
+New York,Apartment,80.0,3,Entire home/apt,Bedford-Stuyvesant,-73.95167,40.69046,33,33
+Other (Domestic),Condominium,128.0,2,Entire home/apt,0,-157.24535,21.18543,0,0
+Oahu,Condominium,90.0,2,Entire home/apt,Waikiki,-157.83802,21.2874,52,52
+The Big Island,House,315.0,8,Entire home/apt,Kailua/Kona,-154.94161,19.59916,2,2
+Oahu,House,460.0,10,Entire home/apt,Kuliouou/Kalani Iki,-157.7238,21.29196,8,8
+Oahu,House,632.0,8,Entire home/apt,Ko'olauloa,-157.90846,21.60677,33,33
+The Big Island,House,240.0,8,Entire home/apt,Kauaʻi,-155.17568,19.43833,0,0
+Oahu,Apartment,151.0,4,Entire home/apt,0,-158.037,21.67985,45,45
+The Big Island,House,100.0,8,Entire home/apt,Island of Hawaiʻi,-154.89644,19.55948,19,19
+Oahu,Other,85.0,2,Entire home/apt,North Shore,-158.15757,21.57967,29,29
+New York,Apartment,98.0,3,Private room,Meatpacking District,-74.00381,40.74,76,76
+Oahu,Apartment,95.0,4,Entire home/apt,Waikiki,-157.82312,21.27494,29,29
+Maui,Condominium,250.0,4,Entire home/apt,Kihei/Wailea,-156.45171,20.7298,3,3
+New York,Apartment,200.0,4,Entire home/apt,Kips Bay,-73.98137,40.73997,4,4
+Kauai,House,509.0,6,Entire home/apt,Kauaʻi,-159.67869,21.9593,0,0
+Oahu,House,750.0,6,Entire home/apt,Kailua,-157.7242,21.39336,0,0
+The Big Island,Condominium,65.0,2,Entire home/apt,Hilo,-155.01192,19.73638,0,0
+The Big Island,Apartment,125.0,2,Entire home/apt,Kailua/Kona,-155.92696,19.51331,19,19
+Oahu,House,170.0,4,Entire home/apt,Ewa,-157.99501,21.31398,5,5
+The Big Island,Condominium,99.0,2,Entire home/apt,Kailua/Kona,-155.99107,19.63583,19,19
+New York,Apartment,75.0,1,Private room,Crown Heights,-73.9513,40.6769,0,0
+The Big Island,Guesthouse,53.0,4,Entire home/apt,Island of Hawaiʻi,-155.63085,19.04513,22,22
+The Big Island,Farm stay,169.0,2,Private room,Hilo,-155.10169,19.79571,12,12
+The Big Island,Guesthouse,85.0,2,Entire home/apt,Kailua/Kona,-155.9835,19.73763,12,12
+The Big Island,Condominium,159.0,3,Entire home/apt,0,-155.98876,19.63025,10,10
+New York,Apartment,56.0,2,Entire home/apt,Lefferts Garden,-73.96003,40.66068,5,5
+Maui,Condominium,99.0,4,Entire home/apt,Kihei/Wailea,-156.31669,20.92976,36,36
+The Big Island,Apartment,68.0,2,Entire home/apt,Island of Hawaiʻi,-154.96773,19.55797,139,139
+Maui,Condominium,110.0,2,Entire home/apt,0,-156.45704,20.76492,49,49
+New York,Apartment,47.0,2,Private room,Windsor Terrace,-73.95623,40.68915,40,40
+Maui,Condominium,157.0,4,Entire home/apt,Napili/Honokowai,-156.66469,20.99038,28,28
+Kauai,Condominium,159.0,4,Entire home/apt,Kauaʻi,-159.48153,22.22622,27,27
+New York,Apartment,47.0,2,Private room,Crown Heights,-73.92316,40.67085,9,9
+New York,Apartment,100.0,4,Entire home/apt,Crown Heights,-73.95713,40.67652,7,7
+New York,Apartment,180.0,4,Entire home/apt,Bedford-Stuyvesant,-73.95383,40.6889,175,175
+New York,Apartment,250.0,3,Entire home/apt,Chelsea,-74.00004,40.74316,74,74
+New York,Apartment,90.0,1,Private room,Whitestone,-73.77958,40.78645,8,8
+Kauai,House,675.0,14,Entire home/apt,Kauaʻi,-159.44654,21.8749,8,8
+Maui,Condominium,489.0,4,Entire home/apt,0,-156.44118,20.6892,0,0
+Maui,House,285.0,2,Entire home/apt,0,-156.66905,20.85909,0,0
+Oahu,House,79.0,12,Entire home/apt,Palolo,-157.79939,21.2946,4,4
+New York,Loft,130.0,2,Entire home/apt,Clinton Hill,-73.96065,40.69284,4,4
+Oahu,Apartment,102.0,4,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.82755,21.29037,24,24
+Maui,Condominium,259.0,6,Entire home/apt,Kihei/Wailea,-156.44299,20.7079,8,8
+Oahu,House,800.0,6,Entire home/apt,Kuliouou/Kalani Iki,-157.71895,21.3938,0,0
+Maui,House,120.0,2,Private room,Kihei/Wailea,-156.45071,20.75288,39,39
+Oahu,Apartment,115.0,2,Entire home/apt,Makiki/Lower Punchbowl/Tantalus,-157.85041,21.31008,95,95
+New York,Apartment,299.0,4,Entire home/apt,Greenpoint,-73.95296,40.73714,6,6
+New York,Apartment,265.0,3,Entire home/apt,East Village,-73.99114,40.72416,21,21
+The Big Island,Villa,299.0,8,Entire home/apt,0,-155.87606,19.92999,0,0
+New York,Apartment,725.0,4,Entire home/apt,Chelsea,-74.00253,40.74599,3,3
+The Big Island,Apartment,110.0,4,Entire home/apt,Island of Hawaiʻi,-155.98514,19.61952,0,0
+Maui,Condominium,129.0,4,Entire home/apt,Kihei/Wailea,-156.50678,20.79562,18,18
+Maui,Apartment,159.0,4,Entire home/apt,Kihei/Wailea,-156.44683,20.72441,44,44
+Kauai,Apartment,61.0,1,Private room,Kauaʻi,-159.35173,21.96126,230,230
+Kauai,Condominium,222.0,6,Entire home/apt,0,-159.46807,22.22189,0,0
+Kauai,Condominium,222.0,3,Entire home/apt,0,-159.47528,22.22821,0,0
+Oahu,Apartment,100.0,6,Entire home/apt,Waikiki,-157.83098,21.28493,3,3
+Kauai,Apartment,96.0,2,Entire home/apt,0,-159.47801,22.22061,186,186
+Kauai,Condominium,222.0,4,Entire home/apt,0,-159.47092,22.22033,1,1
+Kauai,Condominium,334.0,6,Entire home/apt,Kauaʻi,-159.4449,21.86867,1,1
+Kauai,Condominium,472.0,6,Entire home/apt,Kauaʻi,-159.4472,21.87045,0,0
+Oahu,House,45.0,2,Private room,Kalihi Valley,-157.84679,21.36338,27,27
+Maui,Condominium,159.0,4,Entire home/apt,Napili/Honokowai,-156.68395,20.95762,0,0
+New York,Apartment,108.0,2,Entire home/apt,Upper East Side,-73.95588,40.77231,6,6
+New York,Apartment,70.0,2,Entire home/apt,Fort Greene,-73.97203,40.69142,4,4
+Oahu,Apartment,120.0,2,Entire home/apt,North Shore,-158.1092,21.57044,3,3
+Oahu,Condominium,115.0,3,Entire home/apt,Ala Moana/Kakaako,-157.83596,21.28486,39,39
+Maui,Condominium,195.0,3,Entire home/apt,0,-156.67987,20.9713,0,0
+Oahu,Condominium,93.0,2,Entire home/apt,Waikiki,-157.83454,21.28482,56,56
+Maui,Condominium,182.0,5,Entire home/apt,Kaanapali,-156.69251,20.92698,6,6
+Maui,Condominium,169.0,6,Entire home/apt,Kihei/Wailea,-156.44492,20.71271,20,20
+Oahu,Condominium,307.0,6,Entire home/apt,0,-157.822,21.27413,0,0
+Maui,Condominium,310.0,4,Entire home/apt,0,-156.68587,20.95666,0,0
+Oahu,Condominium,142.0,3,Entire home/apt,Waikiki,-157.8205,21.27592,4,4
+Oahu,Condominium,139.0,4,Entire home/apt,Nanakuli/Maili,-158.17655,21.41425,43,43
+Maui,Condominium,305.0,4,Entire home/apt,Kihei/Wailea,-156.44098,20.69808,2,2
+The Big Island,Townhouse,400.0,4,Entire home/apt,0,-155.85622,19.94653,0,0
+Oahu,House,59.0,2,Private room,Waipahu,-158.01012,21.40908,11,11
+New York,Apartment,88.0,1,Private room,East Village,-73.98591,40.72534,69,69
+Oahu,Villa,300.0,4,Private room,Newport Beach,-157.8231,21.27348,0,0
+Kauai,Condominium,522.0,8,Entire home/apt,Kauaʻi,-159.45861,21.88376,7,7
+The Big Island,House,25.0,2,Private room,Island of Hawaiʻi,-154.9195,19.50217,11,11
+Oahu,Guesthouse,130.0,5,Entire home/apt,Waianae Coast,-158.21734,21.46995,29,29
+Oahu,Condominium,138.0,2,Entire home/apt,Waikiki,-157.82209,21.27353,9,9
+The Big Island,House,90.0,2,Private room,Island of Hawaiʻi,-154.93593,19.59112,14,14
+New York,Apartment,100.0,2,Shared room,Harlem,-73.94647,40.8106,0,0
+Kauai,House,776.0,6,Entire home/apt,Kauaʻi,-159.49713,22.20656,0,0
+The Big Island,House,250.0,2,Entire home/apt,Hamakua Coast,-155.58062,20.11839,208,208
+Kauai,House,331.0,6,Entire home/apt,0,-159.47353,22.21703,0,0
+The Big Island,Apartment,85.0,8,Entire home/apt,Kailua/Kona,-155.92964,19.54486,41,41
+Maui,Condominium,439.0,6,Entire home/apt,Kaanapali,-156.69044,20.94524,3,3
+Maui,Condominium,188.0,6,Entire home/apt,Kihei/Wailea,-156.45715,20.7469,29,29
+New York,Apartment,88.0,2,Entire home/apt,Fort Greene,-73.97321,40.69135,7,7
+New York,Apartment,90.0,2,Private room,Alphabet City,-73.98259,40.7221,1,1
+Oahu,Boutique hotel,199.0,4,Entire home/apt,0,-157.83953,21.28629,3,3
+The Big Island,Bed and breakfast,145.0,2,Private room,Kailua/Kona,-155.95581,19.65803,17,17
+Oahu,House,420.0,16,Entire home/apt,Ko'olauloa,-157.91296,21.61278,93,93
+New York,Apartment,200.0,2,Entire home/apt,Hell's Kitchen,-73.99314,40.7645,33,33
+Oahu,House,425.0,8,Entire home/apt,Waialae/Kahala,-157.77791,21.28735,2,2
+New York,Apartment,70.0,1,Shared room,Hell's Kitchen,-73.98746,40.77024,207,207
+New York,Apartment,130.0,2,Entire home/apt,Williamsburg,-73.96126,40.71445,23,23
+Oahu,Condominium,240.0,9,Entire home/apt,Waikiki,-157.83001,21.28522,1,1
+Kauai,Boutique hotel,249.0,4,Private room,0,-159.32866,22.05386,0,0
+Oahu,House,80.0,2,Private room,Kailua,-157.74575,21.41092,259,259
+Maui,House,2060.0,6,Entire home/apt,Kihei/Wailea,-156.44752,20.72369,0,0
+The Big Island,Condominium,175.0,4,Entire home/apt,Kailua/Kona,-155.99079,19.6366,7,7
+Oahu,Guest suite,250.0,6,Entire home/apt,Kailua,-157.75237,21.40927,18,18
+Oahu,House,413.0,10,Entire home/apt,Hawaii Kai,-157.71678,21.28967,8,8
+Maui,Resort,700.0,6,Private room,Kaanapali,-156.69106,20.93843,0,0
+Oahu,House,69.0,1,Private room,Palolo,-157.7918,21.29827,54,54
+Oahu,Resort,470.0,8,Private room,South Lake Tahoe,-158.12009,21.33267,6,6
+Kauai,Guest suite,135.0,2,Entire home/apt,Kauaʻi,-159.47728,22.2209,17,17
+The Big Island,House,30.0,2,Entire home/apt,0,-154.91935,19.49322,31,31
+Oahu,Condominium,245.0,6,Entire home/apt,North Shore,-158.13664,21.58328,2,2
+Maui,Condominium,331.0,6,Entire home/apt,0,-156.50511,20.79615,0,0
+New York,Apartment,120.0,3,Entire home/apt,Port Morris,-73.92606,40.80554,89,89
+Maui,Condominium,244.0,6,Entire home/apt,Kaanapali,-156.69135,20.92583,1,1
+Oahu,Apartment,110.0,4,Entire home/apt,Kaneohe,-157.80577,21.41409,20,20
+Oahu,Condominium,135.0,4,Entire home/apt,North Shore,-158.13749,21.58279,16,16
+The Big Island,House,74.0,4,Private room,0,-155.9464,19.62038,18,18
+Maui,Apartment,250.0,6,Entire home/apt,Haiku/Pauwela,-156.26932,20.92737,2,2
+Maui,Condominium,159.0,4,Entire home/apt,Maui,-156.44546,20.72634,15,15
+Oahu,House,69.0,1,Private room,0,-157.76236,21.28003,1,1
+Oahu,House,120.0,4,Entire home/apt,Palolo,-157.79057,21.30616,11,11
+The Big Island,House,299.0,6,Entire home/apt,Kailua/Kona,-155.90657,19.47001,25,25
+Maui,Condominium,180.0,6,Entire home/apt,Kihei/Wailea,-156.45721,20.7476,6,6
+Maui,Condominium,212.0,2,Entire home/apt,0,-156.50401,20.79736,0,0
+Maui,Condominium,212.0,5,Entire home/apt,Kihei/Wailea,-156.45913,20.75542,1,1
+Oahu,Campsite,25.0,2,Entire home/apt,Waianae Coast,-158.16473,21.46036,47,47
+Maui,Condominium,255.0,4,Entire home/apt,Waikiki,-156.44528,20.71193,4,4
+The Big Island,Condominium,229.0,4,Entire home/apt,Kailua/Kona,-155.97586,19.60656,2,2
+Oahu,Apartment,109.0,3,Entire home/apt,Waikiki,-157.8263,21.27879,14,14
+The Big Island,House,75.0,2,Private room,Island of Hawaiʻi,-154.92351,19.4077,40,40
+New York,Apartment,150.0,2,Entire home/apt,Hell's Kitchen,-73.99152,40.76147,72,72
+Maui,Boutique hotel,185.0,6,Entire home/apt,Lahaina,-156.67844,20.87369,13,13
+Kauai,Condominium,296.0,4,Entire home/apt,Kauaʻi,-159.32122,22.06251,4,4
+New York,Apartment,249.0,2,Entire home/apt,Soho,-73.99916,40.7253,8,8
+New York,Apartment,200.0,5,Entire home/apt,Windsor Terrace,-73.9761,40.65541,35,35
+New York,Apartment,120.0,2,Private room,Greenwich Village,-73.99992,40.73034,195,195
+New York,Townhouse,80.0,2,Private room,Williamsburg,-73.9488,40.71416,71,71
+Maui,Cottage,259.0,6,Entire home/apt,Napili/Honokowai,-156.68855,20.93351,4,4
+Oahu,Apartment,199.0,2,Entire home/apt,Waikiki,-157.83638,21.28315,65,65
+New York,Condominium,142.0,4,Entire home/apt,Morningside Heights,-73.96029,40.8047,160,160
+New York,Apartment,350.0,3,Entire home/apt,Union Square,-73.99464,40.73893,12,12
+Oahu,House,133.0,4,Entire home/apt,0,-158.0424,21.64465,5,5
+The Big Island,Guest suite,67.0,4,Private room,Kailua/Kona,-155.97674,19.71042,19,19
+Oahu,Serviced apartment,700.0,6,Entire home/apt,South Lake Tahoe,-157.8361,21.28474,1,1
+The Big Island,Cottage,100.0,4,Entire home/apt,Island of Hawaiʻi,-154.92849,19.40254,0,0
+Kauai,House,745.0,12,Entire home/apt,Kaanapali,-159.47125,22.21682,0,0
+New York,Apartment,70.0,1,Private room,Upper East Side,-73.95668,40.76712,0,0
+Oahu,Tiny house,55.0,2,Entire home/apt,Liliha/Kapalama,-157.86309,21.33584,2,2
+Maui,Condominium,515.0,6,Entire home/apt,0,-156.68012,20.96898,0,0
+The Big Island,Apartment,90.0,2,Entire home/apt,Kailua/Kona,-155.99225,19.72261,1,1
+Maui,Condominium,509.0,8,Entire home/apt,0,-156.67178,20.98666,0,0
+Oahu,Condominium,160.0,4,Entire home/apt,Waikiki,-157.83375,21.28704,0,0
+Oahu,Condominium,400.0,4,Entire home/apt,Waikiki,-157.82282,21.2726,0,0
+Oahu,Apartment,69.0,2,Private room,0,-157.81814,21.2739,8,8
+Oahu,Condominium,500.0,4,Entire home/apt,Makakilo/Kapolei/Honokai Hale,-157.82938,21.28414,0,0
+New York,Apartment,350.0,9,Entire home/apt,Harlem,-73.94603,40.80604,9,9
+Maui,Condominium,189.0,4,Entire home/apt,0,-156.45876,20.7557,0,0
+Maui,Condominium,171.0,4,Entire home/apt,0,-156.44503,20.71154,0,0
+Maui,Condominium,139.0,4,Entire home/apt,0,-156.45893,20.76442,0,0
+Maui,Condominium,553.0,6,Entire home/apt,0,-156.43838,20.69657,0,0
+Maui,Condominium,175.0,5,Entire home/apt,Kihei/Wailea,-156.45638,20.75576,0,0
+The Big Island,House,200.0,4,Entire home/apt,Hilo,-155.0981,19.72096,7,7
+Oahu,Guesthouse,89.0,2,Private room,Kalihi Valley,-157.87374,21.3407,1,1
+New York,Apartment,210.0,3,Entire home/apt,Upper West Side,-73.97417,40.79598,0,0
+Maui,Condominium,326.0,6,Entire home/apt,0,-156.44389,20.70777,0,0
+Oahu,Condominium,85.0,3,Private room,0,-157.83423,21.28633,2,2
+Oahu,Condominium,397.0,6,Entire home/apt,0,-158.12327,21.3349,1,1
+The Big Island,Other,150.0,5,Entire home/apt,0,-155.97073,19.5891,0,0
+The Big Island,House,258.0,8,Entire home/apt,Island of Hawaiʻi,-155.2075,19.42408,38,38
+New York,Apartment,125.0,1,Private room,Harlem,-73.9447,40.81595,0,0
+New York,Apartment,160.0,2,Entire home/apt,Lower East Side,-73.98573,40.72165,6,6
+New York,House,33.0,2,Private room,Bushwick,-73.91967,40.69545,166,166
+Maui,Condominium,423.0,6,Entire home/apt,0,-156.68888,20.95005,0,0
+Oahu,House,65.0,2,Private room,Palolo,-157.79174,21.29851,55,55
+Maui,House,250.0,4,Entire home/apt,Paia,-156.37692,20.91405,2,2
+Oahu,Condominium,287.0,4,Entire home/apt,0,-157.83898,21.28441,0,0
+New York,Apartment,89.0,2,Private room,East Village,-73.98717,40.73171,125,125
+The Big Island,Condominium,167.0,6,Entire home/apt,Kaanapali,-155.96931,19.5937,1,1
+Oahu,Apartment,230.0,4,Entire home/apt,0,-157.8376,21.28583,0,0
+Oahu,Apartment,230.0,2,Entire home/apt,0,-157.83923,21.28555,0,0
+Oahu,Townhouse,341.0,8,Entire home/apt,0,-157.99193,21.69965,0,0
+Oahu,House,43.0,4,Shared room,Hawaii Kai,-157.66969,21.29825,1,1
+New York,Apartment,115.0,2,Entire home/apt,Clinton Hill,-73.96568,40.68331,6,6
+Oahu,Condominium,287.0,2,Entire home/apt,0,-157.8373,21.28361,0,0
+Oahu,Apartment,230.0,2,Entire home/apt,0,-157.83731,21.28585,0,0
+The Big Island,Guest suite,89.0,2,Entire home/apt,Island of Hawaiʻi,-155.6971,20.02342,48,48
+Oahu,Apartment,172.0,3,Entire home/apt,0,-157.83987,21.28632,0,0
+Oahu,House,1295.0,16,Entire home/apt,North Shore,-157.6991,21.33685,0,0
+Oahu,Condominium,175.0,6,Entire home/apt,Waikiki,-157.83302,21.28397,0,0
+The Big Island,Condominium,225.0,6,Entire home/apt,Kailua/Kona,-155.98617,19.62605,0,0
+The Big Island,Guest suite,100.0,4,Entire home/apt,Hilo,-155.06646,19.70905,0,0
+Kauai,Townhouse,536.0,7,Entire home/apt,Kauaʻi,-159.45168,21.87386,42,42
+New York,Apartment,300.0,13,Entire home/apt,Crown Heights,-73.93122,40.67658,30,30
+New York,Apartment,160.0,2,Entire home/apt,Williamsburg,-73.93938,40.71596,7,7
+Kauai,Apartment,175.0,2,Entire home/apt,Kauaʻi,-159.47392,21.88166,24,24
+Maui,Condominium,637.0,4,Entire home/apt,Kihei/Wailea,-156.44622,20.70462,0,0
+The Big Island,House,3250.0,10,Entire home/apt,Ko'olauloa,-155.97238,19.59781,0,0
+New York,Loft,125.0,2,Private room,Williamsburg,-73.94673,40.70926,14,14
+The Big Island,House,80.0,2,Private room,Kailua/Kona,-155.99142,19.7183,95,95
+The Big Island,House,69.0,2,Private room,Hilo,-155.09657,19.71831,48,48
+Maui,Condominium,269.0,6,Entire home/apt,Lahaina,-156.67426,20.87519,41,41
+New York,Apartment,150.0,4,Entire home/apt,0,-73.85433,40.73334,0,0
+New York,Condominium,105.0,2,Entire home/apt,Williamsburg,-73.9464,40.71184,11,11
+New York,Apartment,121.0,4,Entire home/apt,Yorkville,-73.95289,40.77631,15,15
+New York,Apartment,55.0,2,Private room,Bushwick,-73.90645,40.69502,210,210
+New York,Apartment,151.0,2,Entire home/apt,Lower East Side,-73.99169,40.72274,4,4
+New York,Apartment,127.0,2,Entire home/apt,Clinton Hill,-73.95666,40.68422,135,135
+New York,Apartment,125.0,2,Entire home/apt,Brooklyn Navy Yard,-73.97666,40.69839,12,12
+New York,Apartment,65.0,2,Private room,Williamsburg,-73.93906,40.71494,0,0
+New York,Apartment,39.0,2,Private room,Hamilton Heights,-73.94629,40.82546,28,28
+New York,Apartment,16.0,4,Private room,Washington Heights,-73.94344,40.83456,0,0
+New York,Apartment,117.0,2,Entire home/apt,Alphabet City,-73.97898,40.72509,7,7
+New York,Apartment,350.0,2,Entire home/apt,Nolita,-73.99351,40.72322,1,1
+New York,Apartment,145.0,4,Entire home/apt,Bedford-Stuyvesant,-73.92754,40.6835,113,113
+Oahu,Condominium,124.0,2,Entire home/apt,Waikiki,-157.83386,21.28741,533,533
+New York,Apartment,100.0,4,Entire home/apt,Greenwood Heights,-73.99111,40.66273,25,25
+New York,Apartment,160.0,4,Entire home/apt,Upper West Side,-73.97513,40.79407,63,63
+New York,Apartment,129.0,4,Entire home/apt,Harlem,-73.94117,40.81586,83,83
+New York,Apartment,150.0,5,Entire home/apt,Sunnyside,-73.91172,40.74433,93,93
+New York,House,210.0,6,Entire home/apt,Bedford-Stuyvesant,-73.93705,40.68043,9,9
+New York,Apartment,95.0,4,Private room,Kips Bay,-73.9801,40.74213,54,54
+New York,Apartment,250.0,1,Private room,0,-73.97531,40.79254,6,6
+Oahu,Guesthouse,165.0,6,Entire home/apt,Manoa,-157.81375,21.30734,115,115
+The Big Island,House,240.0,10,Entire home/apt,Kailua/Kona,-155.98799,19.64155,106,106
+New York,House,125.0,4,Private room,Forest Hills,-73.83982,40.72356,122,122
+New York,Loft,120.0,2,Entire home/apt,Gramercy Park,-73.98436,40.7364,48,48
+Oahu,Guest suite,79.0,2,Entire home/apt,Aliamanu/Salt Lake/Foster Village,-157.92123,21.35324,152,152
+New York,Apartment,149.0,4,Entire home/apt,Windsor Terrace,-73.97985,40.6501,133,133
+Oahu,Villa,295.0,6,Entire home/apt,Makakilo/Kapolei/Honokai Hale,-158.11857,21.34238,26,26
+New York,Villa,70.0,2,Private room,Forest Hills,-73.84915,40.71293,11,11
+New York,House,299.0,5,Entire home/apt,Bedford-Stuyvesant,-73.92516,40.68634,8,8
+New York,Apartment,280.0,4,Entire home/apt,East Village,-73.98638,40.72685,83,83
+Oahu,Condominium,30.0,1,Shared room,Waikiki,-157.82848,21.28388,49,49
+New York,House,64.0,4,Entire home/apt,Hillcrest,-73.80324,40.71873,179,179
+New York,House,50.0,2,Private room,Astoria,-73.90735,40.76989,113,113
+The Big Island,House,399.0,15,Entire home/apt,Island of Hawaiʻi,-155.12106,19.46408,6,6
+Oahu,House,250.0,8,Entire home/apt,North Shore,-158.03732,21.67469,50,50
+New York,Apartment,120.0,2,Entire home/apt,Park Slope,-73.98603,40.6631,108,108
+New York,Apartment,150.0,3,Entire home/apt,Astoria,-73.9181,40.76396,45,45
+New York,Apartment,75.0,2,Entire home/apt,Washington Heights,-73.93771,40.84261,1,1
+Kauai,Apartment,299.0,7,Entire home/apt,Kauaʻi,-159.44572,21.87303,67,67
+New York,Townhouse,110.0,2,Entire home/apt,Bedford-Stuyvesant,-73.93678,40.68288,173,173
+Oahu,Condominium,77.0,2,Private room,Ko'olauloa,-157.99561,21.70217,241,241
+New York,Apartment,77.0,2,Private room,Crown Heights,-73.93995,40.67599,101,101
+The Big Island,Loft,115.0,2,Entire home/apt,North Kohala,-155.83107,20.22868,150,150
+New York,Apartment,100.0,2,Entire home/apt,Inwood,-73.9262,40.86496,15,15
+New York,Apartment,180.0,3,Entire home/apt,0,-73.99782,40.73293,2,2
+The Big Island,Cottage,84.0,2,Entire home/apt,Island of Hawaiʻi,-154.97038,19.37529,48,48
+Kauai,Condominium,239.0,4,Entire home/apt,Kauaʻi,-159.45878,21.87711,101,101
+The Big Island,Bungalow,140.0,8,Entire home/apt,Kailua/Kona,-155.90776,19.49818,59,59
+Oahu,Guesthouse,124.0,3,Entire home/apt,Kailua,-157.74379,21.39782,64,64
+Oahu,Apartment,99.0,2,Private room,North Shore,-158.05243,21.66324,129,129
+Oahu,Condominium,170.0,5,Entire home/apt,Ko'olauloa,-157.99543,21.69992,94,94
+New York,Apartment,150.0,2,Entire home/apt,Hell's Kitchen,-73.9895,40.76663,3,3
+New York,Apartment,45.0,2,Entire home/apt,East Harlem,-73.93324,40.79846,0,0
+New York,House,35.0,1,Private room,Sunset Park,-74.01714,40.64009,0,0
+New York,Apartment,90.0,2,Private room,0,-73.9537,40.65713,0,0
+Oahu,House,145.0,4,Entire home/apt,Ko'olauloa,-157.91973,21.64754,145,145
+New York,Apartment,400.0,4,Entire home/apt,0,-74.00455,40.74703,161,161
+New York,Apartment,80.0,1,Private room,Chinatown,-73.99403,40.71137,48,48
+New York,Apartment,210.0,4,Entire home/apt,East Village,-73.98811,40.72917,165,165
+The Big Island,House,145.0,3,Entire home/apt,Kailua/Kona,-155.882,19.44303,30,30
+New York,Apartment,235.0,5,Entire home/apt,East Williamsburg,-73.94643,40.7111,91,91
+New York,Apartment,135.0,2,Entire home/apt,Upper East Side,-73.94962,40.77936,95,95
+New York,Apartment,230.0,2,Entire home/apt,Alphabet City,-73.9795,40.7257,45,45
+Oahu,House,190.0,6,Entire home/apt,Ewa,-157.99245,21.31449,92,92
+Oahu,Condominium,599.0,8,Entire home/apt,Makakilo/Kapolei/Honokai Hale,-158.1217,21.33616,4,4
+New York,Apartment,100.0,2,Private room,Fort Greene,-73.97875,40.68834,102,102
+The Big Island,Townhouse,198.0,6,Entire home/apt,Island of Hawaiʻi,-155.85925,19.94608,138,138
+New York,Apartment,85.0,3,Private room,Hamilton Heights,-73.94392,40.82537,420,420
+New York,Apartment,215.0,3,Entire home/apt,Hell's Kitchen,-73.99241,40.76575,32,32
+New York,Apartment,100.0,2,Private room,Williamsburg,-73.96367,40.71217,32,32
+New York,Apartment,40.0,2,Private room,Lefferts Garden,-73.95936,40.65627,48,48
+New York,Apartment,195.0,6,Entire home/apt,Windsor Terrace,-73.97947,40.64865,171,171
+New York,Apartment,117.0,4,Entire home/apt,Upper West Side,-73.97414,40.79228,0,0
+New York,Apartment,200.0,2,Entire home/apt,East Village,-73.98405,40.73023,3,3
+New York,Apartment,60.0,1,Private room,Prospect Heights,-73.96514,40.67824,0,0
+New York,Apartment,99.0,2,Private room,Upper West Side,-73.9624,40.7952,258,258
+New York,Apartment,145.0,2,Entire home/apt,Kips Bay,-73.98146,40.73951,2,2
+New York,Apartment,55.0,2,Private room,Bedford-Stuyvesant,-73.93183,40.68699,71,71
+New York,Apartment,95.0,3,Private room,Long Island City,-73.94712,40.74741,126,126
+Kauai,Apartment,249.0,6,Entire home/apt,Central Business District,-159.32053,22.06449,3,3
+New York,Apartment,95.0,1,Private room,Williamsburg,-73.94084,40.71577,10,10
+New York,Apartment,78.0,2,Private room,Upper West Side,-73.97502,40.78936,171,171
+New York,Loft,145.0,3,Entire home/apt,Bedford-Stuyvesant,-73.93141,40.68306,219,219
+New York,Apartment,130.0,2,Entire home/apt,Astoria,-73.92493,40.77029,36,36
+New York,Apartment,62.0,4,Private room,Crown Heights,-73.94993,40.66585,40,40
+New York,Apartment,185.0,2,Entire home/apt,East Village,-73.98316,40.72982,15,15
+New York,Apartment,61.0,1,Private room,East Harlem,-73.95211,40.78744,159,159
+The Big Island,House,175.0,6,Entire home/apt,Island of Hawaiʻi,-155.87575,19.31694,51,51
+The Big Island,House,110.0,8,Entire home/apt,Island of Hawaiʻi,-155.21657,19.4274,21,21
+New York,Apartment,250.0,5,Entire home/apt,Hell's Kitchen,-74.00644,40.73226,3,3
+Oahu,Farm stay,175.0,3,Entire home/apt,North Shore,-158.05093,21.66184,76,76
+New York,Apartment,75.0,2,Entire home/apt,Upper East Side,-73.94768,40.77828,28,28
+Oahu,Condominium,500.0,6,Entire home/apt,Makakilo/Kapolei/Honokai Hale,-158.12301,21.33528,68,68
+New York,Apartment,165.0,3,Entire home/apt,Brooklyn Heights,-73.99396,40.70224,124,124
+New York,Apartment,75.0,2,Private room,Williamsburg,-73.93793,40.70429,0,0
+New York,Apartment,260.0,3,Entire home/apt,Nolita,-73.99469,40.72102,112,112
+New York,Apartment,300.0,3,Entire home/apt,Chinatown,-73.98975,40.71788,37,37
+New York,Apartment,199.0,2,Entire home/apt,Hudson Square,-74.0049,40.72861,122,122
+New York,Apartment,58.0,1,Private room,Bedford-Stuyvesant,-73.9501,40.68586,40,40
+New York,Condominium,300.0,2,Entire home/apt,Nolita,-73.9944,40.72184,88,88
+Oahu,Apartment,97.0,3,Entire home/apt,Waikiki,-157.83355,21.28496,96,96
+Kauai,House,1000.0,6,Entire home/apt,Kuliouou/Kalani Iki,-159.48517,22.21416,4,4
+New York,House,259.0,2,Private room,Clinton Hill,-73.96713,40.68963,89,89
+New York,Apartment,185.0,2,Private room,Williamsburg,-73.96411,40.71698,55,55
+Maui,Condominium,177.0,2,Entire home/apt,Napili/Honokowai,-156.67752,20.97515,37,37
+New York,Loft,125.0,2,Private room,Financial District,-74.00952,40.70457,83,83
+Oahu,House,384.0,8,Entire home/apt,Kailua,-157.72285,21.37126,127,127
+Kauai,House,75.0,2,Private room,Kauaʻi,-159.47583,22.22235,155,155
+Kauai,Apartment,96.0,2,Entire home/apt,Kauaʻi,-159.47668,22.22111,212,212
+New York,Apartment,151.0,2,Entire home/apt,Hell's Kitchen,-73.99039,40.76387,12,12
+New York,Loft,136.0,2,Entire home/apt,Greenwich Village,-74.00125,40.72937,43,43
+Oahu,Condominium,147.0,4,Entire home/apt,Waikiki,-157.8269,21.27855,142,142
+The Big Island,House,189.0,4,Entire home/apt,Island of Hawaiʻi,-154.93097,19.39376,61,61
+New York,Apartment,169.0,4,Entire home/apt,Park Slope,-73.98754,40.66832,127,127
+New York,Apartment,72.0,2,Private room,Crown Heights,-73.96359,40.67736,0,0
+Oahu,House,525.0,12,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.80855,21.29373,11,11
+New York,Apartment,120.0,2,Entire home/apt,West Village,-74.00649,40.73015,27,27
+The Big Island,House,89.0,2,Private room,Kailua/Kona,-155.87272,19.44949,91,91
+New York,Apartment,70.0,2,Private room,Brooklyn Navy Yard,-73.97296,40.69634,134,134
+New York,Apartment,200.0,2,Entire home/apt,Roosevelt Island,-73.95815,40.76985,17,17
+Oahu,House,85.0,2,Private room,North Shore,-158.05491,21.65628,141,141
+Oahu,House,500.0,6,Entire home/apt,North Shore,-158.07724,21.62495,23,23
+The Big Island,Cottage,95.0,4,Entire home/apt,Island of Hawaiʻi,-154.94919,19.4425,149,149
+New York,Apartment,130.0,5,Entire home/apt,Tribeca,-74.01171,40.71655,2,2
+Kauai,Apartment,115.0,4,Entire home/apt,Kauaʻi,-159.47621,22.22149,152,152
+New York,Townhouse,198.0,5,Entire home/apt,Gowanus,-73.99648,40.67376,92,92
+The Big Island,Condominium,143.0,7,Entire home/apt,Kailua/Kona,-155.9606,19.56696,2,2
+Oahu,Guest suite,159.0,5,Entire home/apt,Ko'olauloa,-157.8525,21.55567,123,123
+New York,Apartment,500.0,4,Entire home/apt,Greenpoint,-73.95376,40.72203,231,231
+New York,Apartment,125.0,1,Private room,East Village,-73.98854,40.7254,2,2
+New York,Apartment,65.0,2,Private room,Bedford-Stuyvesant,-73.94774,40.68242,258,258
+New York,Apartment,341.0,6,Entire home/apt,Lower East Side,-73.9867,40.7208,124,124
+New York,Apartment,200.0,2,Entire home/apt,Hell's Kitchen,-73.99198,40.76017,30,30
+Oahu,Condominium,114.0,2,Entire home/apt,0,-157.82133,21.27299,161,161
+New York,Apartment,97.0,8,Entire home/apt,East Flatbush,-73.93376,40.64944,52,52
+New York,Apartment,210.0,4,Entire home/apt,Lower East Side,-73.9867,40.71526,44,44
+Maui,Condominium,179.0,2,Entire home/apt,Maui,-156.50749,20.79501,65,65
+New York,Apartment,32.0,2,Private room,Crown Heights,-73.96073,40.66746,0,0
+New York,Apartment,150.0,4,Entire home/apt,Park Slope,-73.98116,40.66936,36,36
+New York,Apartment,80.0,2,Private room,Upper West Side,-73.96495,40.80179,90,90
+New York,Apartment,190.0,2,Entire home/apt,Williamsburg,-73.93782,40.71475,1,1
+Oahu,Condominium,229.0,6,Entire home/apt,Waikiki,-157.83263,21.28713,108,108
+New York,Apartment,95.0,4,Private room,Lower East Side,-73.98435,40.7175,226,226
+Oahu,Condominium,99.0,4,Entire home/apt,Waikiki,-157.82002,21.27606,62,62
+New York,Apartment,150.0,2,Entire home/apt,Williamsburg,-73.93734,40.7137,120,120
+New York,Condominium,33.0,2,Private room,Flushing,-73.82004,40.75717,128,128
+New York,Condominium,150.0,2,Entire home/apt,Williamsburg,-73.96048,40.71479,95,95
+New York,Apartment,230.0,2,Entire home/apt,Times Square/Theatre District,-73.98435,40.76295,1,1
+New York,Apartment,105.0,2,Private room,Williamsburg,-73.94214,40.7137,0,0
+Oahu,Apartment,165.0,2,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.81985,21.26064,0,0
+New York,Apartment,132.0,3,Entire home/apt,Karlín,-73.93666,40.68321,111,111
+New York,Apartment,160.0,6,Entire home/apt,Williamsburg,-73.95828,40.72141,4,4
+New York,House,45.0,2,Private room,Carroll Gardens,-73.99708,40.67678,0,0
+New York,Apartment,95.0,2,Private room,Harlem,-73.94896,40.80627,20,20
+New York,Apartment,70.0,1,Private room,Park Slope,-73.97724,40.67173,1,1
+New York,Apartment,130.0,1,Entire home/apt,Upper West Side,-73.97809,40.79159,3,3
+New York,Apartment,75.0,2,Entire home/apt,0,-73.90351,40.70365,48,48
+New York,Apartment,500.0,4,Entire home/apt,West Village,-74.00836,40.73283,3,3
+Oahu,House,480.0,6,Entire home/apt,Kailua,-157.74249,21.40555,10,10
+New York,House,105.0,5,Entire home/apt,Flushing,-73.81785,40.75348,183,183
+Maui,Apartment,265.0,6,Entire home/apt,Napili/Honokowai,-156.68224,20.96411,27,27
+New York,Apartment,145.0,2,Entire home/apt,Crown Heights,-73.9614,40.67566,195,195
+Oahu,House,99.0,2,Private room,North Shore,-158.10356,21.58669,10,10
+New York,Apartment,46.0,1,Private room,Bushwick,-73.94001,40.69985,0,0
+New York,Apartment,64.0,1,Private room,Kips Bay,-73.98323,40.74025,4,4
+New York,Apartment,295.0,4,Entire home/apt,Nolita,-73.99429,40.72131,89,89
+New York,Apartment,105.0,2,Entire home/apt,Williamsburg,-73.94464,40.72008,31,31
+Maui,Condominium,834.0,6,Entire home/apt,Kapalua,-156.66299,21.00087,2,2
+Oahu,House,238.0,6,Entire home/apt,Waikiki,-157.82211,21.27555,0,0
+Oahu,Condominium,175.0,4,Entire home/apt,Waikiki,-157.82374,21.27899,155,155
+New York,Apartment,150.0,2,Entire home/apt,Washington Heights,-73.94261,40.83206,3,3
+New York,Apartment,115.0,2,Entire home/apt,Crown Heights,-73.95265,40.67191,1,1
+New York,Apartment,84.0,2,Entire home/apt,Park Slope,-73.98793,40.66934,148,148
+Maui,Condominium,540.0,5,Entire home/apt,Kapalua,-156.65512,20.99777,2,2
+Maui,Condominium,169.0,7,Entire home/apt,Kihei/Wailea,-156.44634,20.72437,71,71
+New York,Apartment,175.0,6,Entire home/apt,Greenwood Heights,-73.95851,40.68356,0,0
+The Big Island,House,66.0,4,Entire home/apt,Island of Hawaiʻi,-154.99436,19.5186,115,115
+New York,Apartment,100.0,1,Private room,Williamsburg,-73.95615,40.72004,42,42
+The Big Island,House,40.0,4,Private room,Island of Hawaiʻi,-154.97336,19.59483,91,91
+New York,Apartment,48.0,2,Private room,Flatbush,-73.9596,40.65452,55,55
+New York,Apartment,80.0,2,Private room,0,-73.96496,40.69489,12,12
+New York,Apartment,300.0,6,Entire home/apt,0,-73.9825,40.73912,0,0
+New York,Apartment,155.0,2,Private room,Hell's Kitchen,-73.98954,40.7614,155,155
+New York,Apartment,245.0,4,Private room,Hell's Kitchen,-73.98945,40.76207,146,146
+Kauai,Resort,345.0,8,Private room,Kauaʻi,-159.32076,22.05995,4,4
+New York,Apartment,60.0,1,Private room,Greenwich Village,-74.00008,40.73256,0,0
+Oahu,Apartment,125.0,4,Entire home/apt,Ko'olauloa,-157.92248,21.64387,153,153
+New York,Loft,150.0,4,Entire home/apt,Clinton Hill,-73.9589,40.68956,1,1
+New York,Apartment,135.0,2,Private room,Lower East Side,-73.98592,40.72082,6,6
+New York,Apartment,85.0,2,Shared room,Upper West Side,-73.97238,40.78768,29,29
+New York,Apartment,55.0,2,Private room,Williamsburg,-73.9417,40.71591,2,2
+Kauai,Resort,295.0,4,Private room,Kauaʻi,-159.31974,22.06005,2,2
+New York,Apartment,65.0,2,Private room,Harlem,-73.95213,40.81398,126,126
+New York,Apartment,100.0,2,Entire home/apt,Williamsburg,-73.95136,40.70711,5,5
+New York,Apartment,105.0,3,Entire home/apt,Alphabet City,-73.98048,40.72866,90,90
+Kauai,Bed and breakfast,226.0,2,Private room,Kauaʻi,-159.36793,22.04892,13,13
+Maui,Hotel,87.0,2,Private room,Molokaʻi,-156.99483,21.07811,108,108
+New York,Apartment,68.0,2,Entire home/apt,Lower East Side,-73.94735,40.79074,7,7
+New York,Apartment,70.0,5,Private room,Harlem,-73.9437,40.81073,67,67
+The Big Island,House,139.0,6,Entire home/apt,Island of Hawaiʻi,-155.81156,20.02293,70,70
+The Big Island,Farm stay,55.0,4,Entire home/apt,Island of Hawaiʻi,-154.92967,19.41166,78,78
+New York,Townhouse,87.0,4,Entire home/apt,0,-73.88891,40.73456,118,118
+New York,Apartment,140.0,2,Entire home/apt,Upper West Side,-73.98061,40.77088,2,2
+Oahu,Condominium,160.0,6,Entire home/apt,Waikiki,-157.83366,21.28569,97,97
+Oahu,House,60.0,2,Private room,North Shore,-158.02898,21.68145,308,308
+Oahu,House,550.0,10,Entire home/apt,Waianae Coast,-158.21991,21.47622,14,14
+New York,Apartment,50.0,1,Private room,Bushwick,-73.92372,40.69683,0,0
+New York,Apartment,110.0,2,Entire home/apt,Astoria,-73.94089,40.75226,9,9
+New York,Apartment,95.0,2,Private room,Upper West Side,-73.96389,40.79855,175,175
+The Big Island,Resort,158.0,6,Private room,Napili/Honokowai,-155.96112,19.55482,5,5
+Oahu,Apartment,110.0,4,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.82244,21.27259,141,141
+New York,Townhouse,125.0,4,Entire home/apt,Bedford-Stuyvesant,-73.93806,40.68435,16,16
+The Big Island,Cabin,35.0,3,Private room,Island of Hawaiʻi,-154.91298,19.43804,15,15
+New York,Apartment,125.0,1,Private room,Noho,-73.99555,40.7256,3,3
+New York,Apartment,150.0,4,Entire home/apt,Midtown,-73.98364,40.74603,1,1
+New York,Apartment,100.0,3,Private room,0,-73.99107,40.71574,12,12
+New York,Apartment,69.0,2,Entire home/apt,Lower East Side,-73.9458,40.78999,4,4
+New York,Apartment,125.0,3,Entire home/apt,Astoria,-73.92714,40.76448,0,0
+New York,Apartment,99.0,3,Entire home/apt,Hell's Kitchen,-73.98341,40.76812,86,86
+New York,Apartment,130.0,3,Entire home/apt,Astoria,-73.93117,40.75588,6,6
+New York,Apartment,99.0,4,Entire home/apt,Flatbush,-73.95527,40.65349,2,2
+New York,Apartment,199.0,3,Entire home/apt,Little Italy,-73.99706,40.71955,208,208
+New York,Apartment,155.0,2,Private room,Chelsea,-74.00119,40.74314,17,17
+New York,Apartment,105.0,2,Entire home/apt,Chelsea,-74.00287,40.75039,0,0
+Maui,Apartment,157.0,6,Entire home/apt,Kihei/Wailea,-156.44638,20.72575,33,33
+New York,Apartment,125.0,4,Entire home/apt,Stuyvesant Heights,-73.93687,40.67958,102,102
+New York,Condominium,95.0,2,Private room,Morrisania,-73.90156,40.82417,182,182
+New York,Apartment,60.0,2,Private room,Williamsburg,-73.9528,40.70018,5,5
+Oahu,Condominium,79.0,3,Entire home/apt,Waianae Coast,-158.21248,21.46174,7,7
+Oahu,Apartment,90.0,6,Entire home/apt,Ala Moana/Kakaako,-157.85062,21.30094,16,16
+Kauai,Condominium,129.0,2,Entire home/apt,0,-159.46996,22.21592,117,117
+Maui,Condominium,115.0,2,Entire home/apt,Napili/Honokowai,-156.66421,20.98967,35,35
+New York,Apartment,140.0,3,Entire home/apt,Alphabet City,-73.98009,40.72475,0,0
+Oahu,House,150.0,2,Private room,North Shore,-158.05107,21.66414,93,93
+New York,Apartment,99.0,2,Private room,Lower East Side,-73.98385,40.72143,11,11
+New York,Apartment,221.0,3,Entire home/apt,Flatiron District,-73.98593,40.73947,92,92
+New York,Apartment,70.0,2,Entire home/apt,The Rockaways,-73.81066,40.58881,62,62
+The Big Island,House,90.0,2,Entire home/apt,Island of Hawaiʻi,-154.93328,19.39404,14,14
+New York,Apartment,80.0,2,Entire home/apt,Hamilton Heights,-73.94694,40.81899,1,1
+New York,Apartment,240.0,6,Entire home/apt,Harlem,-73.95128,40.80156,2,2
+New York,Apartment,420.0,4,Entire home/apt,Midtown,-73.98021,40.76387,3,3
+New York,Apartment,67.0,2,Entire home/apt,Kips Bay,-73.9803,40.74086,1,1
+New York,Apartment,85.0,2,Private room,Crown Heights,-73.94884,40.67689,8,8
+New York,Apartment,150.0,2,Entire home/apt,Williamsburg,-73.95352,40.71607,9,9
+New York,Apartment,150.0,3,Entire home/apt,East Village,-73.98639,40.72822,10,10
+Maui,Condominium,190.0,7,Entire home/apt,Kihei/Wailea,-156.44725,20.72346,71,71
+New York,Apartment,65.0,1,Private room,Carroll Gardens,-73.99607,40.67705,3,3
+New York,House,50.0,2,Private room,0,-73.94038,40.67346,61,61
+New York,Apartment,60.0,2,Private room,0,-73.95951,40.69695,149,149
+New York,Loft,105.0,2,Entire home/apt,Bedford-Stuyvesant,-73.93944,40.69588,5,5
+Maui,Apartment,262.0,4,Entire home/apt,Kihei/Wailea,-156.45868,20.75806,108,108
+Kauai,Condominium,400.0,2,Entire home/apt,0,-159.44708,21.87114,23,23
+Kauai,Townhouse,312.0,6,Entire home/apt,0,-159.4837,22.21751,31,31
+New York,Apartment,139.0,3,Entire home/apt,Midtown,-73.98345,40.76704,16,16
+New York,Apartment,170.0,2,Entire home/apt,Midtown,-73.98442,40.75245,3,3
+The Big Island,Bungalow,125.0,2,Entire home/apt,Island of Hawaiʻi,-154.9245,19.39931,0,0
+New York,Townhouse,100.0,1,Private room,Astoria,-73.92894,40.76211,1,1
+Oahu,Apartment,375.0,6,Entire home/apt,Waikiki,-157.82145,21.27229,141,141
+The Big Island,Condominium,482.0,4,Entire home/apt,Island of Hawaiʻi,-155.88686,19.91931,0,0
+New York,Apartment,179.0,2,Private room,Chelsea,-74.00138,40.75284,237,237
+New York,Townhouse,155.0,4,Entire home/apt,Bedford-Stuyvesant,-73.93038,40.68121,170,170
+The Big Island,Condominium,190.0,4,Entire home/apt,Kihei/Wailea,-155.96521,19.57103,0,0
+Oahu,Condominium,135.0,2,Entire home/apt,Waikiki,-157.8256,21.27864,136,136
+Oahu,House,890.0,9,Entire home/apt,Waimanalo,-157.69918,21.33934,28,28
+New York,Apartment,250.0,3,Entire home/apt,Upper East Side,-73.94872,40.77613,1,1
+Oahu,House,850.0,8,Entire home/apt,Makiki/Lower Punchbowl/Tantalus,-157.83414,21.30861,35,35
+Kauai,Resort,430.0,6,Private room,Kauaʻi,-159.31904,22.06207,2,2
+New York,Apartment,109.0,6,Entire home/apt,Ditmars / Steinway,-73.90728,40.77469,182,182
+New York,House,28.0,1,Private room,Soundview,-73.86514,40.82939,87,87
+New York,House,495.0,4,Entire home/apt,East Village,-73.98956,40.73345,57,57
+The Big Island,Apartment,120.0,2,Entire home/apt,Kailua/Kona,-155.99162,19.63593,171,171
+New York,Apartment,560.0,7,Entire home/apt,Upper West Side,-73.97314,40.78689,87,87
+Oahu,House,111.0,4,Private room,Kailua,-157.7464,21.40158,49,49
+New York,Apartment,99.0,2,Private room,Midtown East,-73.91325,40.76615,5,5
+Kauai,Condominium,247.0,4,Entire home/apt,Kauaʻi,-159.4823,22.22784,34,34
+The Big Island,House,60.0,2,Private room,Hamakua Coast,-155.57305,20.11835,145,145
+Oahu,House,275.0,6,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.79147,21.28846,38,38
+Maui,Condominium,225.0,3,Entire home/apt,Kihei/Wailea,-156.45773,20.7471,49,49
+The Big Island,Townhouse,350.0,8,Entire home/apt,0,-155.88047,19.91602,12,12
+Oahu,Condominium,138.0,4,Entire home/apt,Waikiki,-157.82454,21.27631,81,81
+New York,Apartment,68.0,2,Entire home/apt,Hamilton Heights,-73.9453,40.82725,9,9
+The Big Island,Condominium,192.0,4,Entire home/apt,0,-155.87969,19.91485,27,27
+Oahu,House,150.0,8,Entire home/apt,North Shore,-158.05936,21.64974,46,46
+Kauai,Condominium,115.0,3,Entire home/apt,0,-159.32769,22.05253,69,69
+New York,Apartment,30.0,3,Private room,Mount Eden,-73.91382,40.84058,262,262
+The Big Island,Guesthouse,80.0,4,Entire home/apt,Hilo,-155.10389,19.8003,147,147
+New York,Apartment,79.0,2,Private room,0,-73.94003,40.79802,154,154
+Oahu,Cottage,189.0,6,Entire home/apt,Kailua,-157.74216,21.40129,53,53
+New York,Apartment,45.0,1,Private room,Flatbush,-73.95305,40.65336,1,1
+Oahu,Apartment,155.0,3,Entire home/apt,Kailua,-157.71911,21.39473,12,12
+New York,Apartment,195.0,5,Entire home/apt,Financial District,-74.0088,40.70838,218,218
+New York,Apartment,120.0,7,Entire home/apt,Williamsburg,-73.95726,40.71006,1,1
+New York,Apartment,112.0,2,Private room,Chelsea,-74.00184,40.7411,31,31
+The Big Island,Condominium,109.0,6,Entire home/apt,Island of Hawaiʻi,-155.79154,19.93311,46,46
+Maui,House,399.0,6,Entire home/apt,Lahaina,-156.68897,20.93447,80,80
+Oahu,Apartment,40.0,1,Private room,Manoa,-157.82638,21.29826,28,28
+New York,Apartment,32.0,1,Private room,Bedford-Stuyvesant,-73.92373,40.67754,16,16
+New York,Apartment,175.0,4,Entire home/apt,Fort Greene,-73.97813,40.68601,0,0
+Maui,Apartment,175.0,2,Entire home/apt,Paia,-156.37736,20.91115,27,27
+Maui,House,199.0,2,Entire home/apt,Hana,-155.98991,20.75688,142,142
+Maui,Condominium,256.0,4,Entire home/apt,Kaanapali,-156.68939,20.94595,5,5
+New York,Apartment,113.0,1,Entire home/apt,West Village,-74.00686,40.73746,65,65
+Oahu,Villa,695.0,12,Entire home/apt,Ko'olauloa,-158.01657,21.69298,8,8
+The Big Island,Condominium,203.0,4,Entire home/apt,0,-155.87825,19.91656,19,19
+Maui,Apartment,115.0,4,Entire home/apt,Kihei/Wailea,-156.446,20.71799,85,85
+New York,Apartment,400.0,4,Entire home/apt,East Village,-73.9832,40.72871,28,28
+New York,Apartment,55.0,2,Private room,0,-73.97274,40.69402,3,3
+Kauai,Condominium,190.0,4,Entire home/apt,Kauaʻi,-159.48315,22.22836,74,74
+Oahu,House,250.0,4,Entire home/apt,0,-158.10113,21.59316,57,57
+New York,Apartment,250.0,4,Entire home/apt,Midtown East,-73.97004,40.75606,30,30
+Oahu,Condominium,155.0,4,Entire home/apt,North Shore,-158.13783,21.58261,1,1
+New York,Apartment,100.0,2,Private room,Bedford-Stuyvesant,-73.93541,40.69646,0,0
+Oahu,Hotel,95.0,2,Private room,Waikiki,-157.83206,21.28755,55,55
+The Big Island,Condominium,140.0,2,Entire home/apt,Kailua/Kona,-155.98418,19.61764,63,63
+Oahu,House,495.0,8,Entire home/apt,Kuliouou/Kalani Iki,-158.0615,21.65427,18,18
+New York,Apartment,98.0,2,Private room,Williamsburg,-73.96326,40.71216,76,76
+Oahu,Apartment,175.0,4,Entire home/apt,Diamond Head/Kapahulu/St. Louis Heights,-157.82081,21.26193,32,32

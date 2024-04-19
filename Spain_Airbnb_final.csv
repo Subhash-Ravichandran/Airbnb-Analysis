@@ -1,0 +1,620 @@
+city,property_type,price,accommodates,room_type,host_neighbourhood,Latitudes,Longitudes,number_of_reviews,number_of_reviews
+Barcelona,Apartment,50.0,2,Private room,Dreta de l'Eixample,2.16942,41.40082,0,0
+Barcelona,Apartment,85.0,6,Entire home/apt,Vila de Gràcia,2.15836,41.41582,51,51
+Barcelona,Apartment,20.0,2,Private room,el Fort Pienc,2.17963,41.40087,1,1
+Barcelona,Apartment,15.0,2,Private room,La Sagrada Família,2.17519,41.41035,0,0
+Barcelona,Apartment,31.0,5,Entire home/apt,El Clot,2.19057,41.41254,2,2
+Barcelona,Condominium,40.0,2,Private room,El Gòtic,2.17778,41.38049,122,122
+Barcelona,Apartment,169.0,8,Entire home/apt,Vila de Gràcia,2.18146,41.39716,77,77
+Barcelona,Condominium,40.0,3,Private room,Vila de Gràcia,2.15533,41.40686,191,191
+Barcelona,Apartment,89.0,4,Entire home/apt,Sants-Montjuïc,2.14596,41.38475,104,104
+Barcelona,Apartment,91.0,6,Entire home/apt,La Sagrada Família,2.17831,41.37724,0,0
+Barcelona,Apartment,91.0,4,Entire home/apt,La Sagrada Família,2.17774,41.37783,1,1
+Barcelona,Apartment,40.0,2,Private room,Vila de Gràcia,2.15759,41.40349,0,0
+Barcelona,Apartment,84.0,4,Entire home/apt,El Poble-sec,2.16622,41.3719,130,130
+Barcelona,Apartment,85.0,6,Entire home/apt,Dreta de l'Eixample,2.15573,41.37249,43,43
+Barcelona,Apartment,25.0,2,Private room,Sant Pere/Santa Caterina,2.17561,41.38701,108,108
+Barcelona,Apartment,130.0,7,Entire home/apt,El Poble-sec,2.15566,41.37479,129,129
+Barcelona,Apartment,130.0,5,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15255,41.39193,1,1
+Barcelona,Apartment,65.0,4,Private room,La Nova Esquerra de l'Eixample,2.15395,41.38005,57,57
+Barcelona,Apartment,31.0,2,Private room,0,2.20085,41.42112,23,23
+Barcelona,Apartment,35.0,3,Private room,El Raval,2.16851,41.3791,54,54
+Barcelona,Apartment,60.0,2,Entire home/apt,Vila de Gràcia,2.15884,41.40462,6,6
+Barcelona,Apartment,55.0,4,Entire home/apt,El Gòtic,2.17877,41.37903,7,7
+Barcelona,Apartment,40.0,2,Private room,Glòries - El Parc,2.183,41.39142,4,4
+Barcelona,Apartment,25.0,1,Private room,Vila de Gràcia,2.16126,41.39796,0,0
+Barcelona,Apartment,90.0,6,Entire home/apt,Dreta de l'Eixample,2.15375,41.37587,20,20
+Barcelona,Apartment,38.0,2,Private room,Porta,2.17935,41.43038,12,12
+Barcelona,Apartment,58.0,5,Entire home/apt,Vila de Gràcia,2.15761,41.39922,213,213
+Barcelona,Apartment,155.0,4,Entire home/apt,Dreta de l'Eixample,2.17434,41.39137,23,23
+Barcelona,Serviced apartment,599.0,8,Entire home/apt,Dreta de l'Eixample,2.16424,41.39139,4,4
+Barcelona,Apartment,95.0,1,Private room,Les Corts,2.12933,41.38665,17,17
+Barcelona,Apartment,87.0,5,Entire home/apt,Sant Gervasi - Galvany,2.14733,41.39932,95,95
+Barcelona,Apartment,199.0,6,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.16963,41.39726,165,165
+Barcelona,Apartment,255.0,6,Entire home/apt,Dreta de l'Eixample,2.16365,41.39416,126,126
+Barcelona,Apartment,59.0,5,Entire home/apt,La Sagrada Família,2.17502,41.40995,212,212
+Barcelona,Loft,115.0,4,Entire home/apt,Vila de Gràcia,2.15413,41.39982,1,1
+Barcelona,Apartment,527.0,6,Entire home/apt,Sant Gervasi - Galvany,2.16663,41.37513,90,90
+Barcelona,Apartment,30.0,2,Private room,0,2.18116,41.38719,9,9
+Barcelona,Apartment,49.0,2,Private room,Camp d'en Grassot i Gràcia Nova,2.1643,41.40211,79,79
+Barcelona,Apartment,70.0,5,Entire home/apt,El Born,2.16666,41.38432,1,1
+Barcelona,Apartment,150.0,6,Entire home/apt,La Sagrada Família,2.175,41.40604,133,133
+Barcelona,Loft,61.0,2,Entire home/apt,Sarrià,2.16896,41.417,188,188
+Barcelona,Apartment,25.0,1,Private room,0,2.19001,41.42083,1,1
+Barcelona,Apartment,39.0,2,Private room,0,2.17534,41.3843,93,93
+Barcelona,Apartment,420.0,7,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15128,41.39294,0,0
+Barcelona,Apartment,30.0,2,Private room,Vila de Gràcia,2.15738,41.40113,28,28
+Barcelona,Apartment,295.0,4,Entire home/apt,Dreta de l'Eixample,2.1653,41.39294,27,27
+Barcelona,Apartment,805.0,6,Entire home/apt,El Gòtic,2.21275,41.41111,0,0
+Barcelona,Apartment,50.0,1,Private room,Glòries - El Parc,2.18338,41.39087,4,4
+Barcelona,Apartment,300.0,6,Entire home/apt,Dreta de l'Eixample,2.16524,41.39478,34,34
+Barcelona,Apartment,18.0,1,Private room,Dreta de l'Eixample,2.16316,41.39533,3,3
+Barcelona,Apartment,63.0,4,Entire home/apt,El Poble-sec,2.1651,41.37144,320,320
+Barcelona,Apartment,75.0,2,Entire home/apt,Les Corts,2.14449,41.39264,5,5
+Barcelona,Apartment,90.0,6,Entire home/apt,Diagonal Mar - La Mar Bella,2.21291,41.40308,67,67
+Barcelona,Apartment,67.0,2,Private room,El Raval,2.17304,41.37805,66,66
+Barcelona,Apartment,40.0,2,Private room,Provençals del Poblenou,2.20314,41.40951,66,66
+Barcelona,Apartment,45.0,2,Private room,La Sagrada Família,2.17588,41.40439,16,16
+Barcelona,Apartment,40.0,2,Private room,El Poble-sec,2.15691,41.37475,132,132
+Barcelona,Apartment,125.0,5,Entire home/apt,Dreta de l'Eixample,2.15942,41.41089,12,12
+Barcelona,Apartment,130.0,4,Entire home/apt,La Vila Olímpica,2.17623,41.3921,20,20
+Barcelona,Apartment,100.0,2,Private room,0,2.17231,41.37749,3,3
+Barcelona,Apartment,250.0,2,Private room,La Sagrada Família,2.17728,41.40604,2,2
+Barcelona,Serviced apartment,159.0,4,Entire home/apt,Sant Antoni,2.15962,41.39244,0,0
+Barcelona,Apartment,40.0,2,Private room,0,2.16685,41.38371,2,2
+Barcelona,Apartment,100.0,4,Entire home/apt,El Poble-sec,2.1524,41.37977,0,0
+Barcelona,Apartment,320.0,8,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15307,41.3866,6,6
+Barcelona,Apartment,145.0,4,Entire home/apt,Dreta de l'Eixample,2.1633,41.392,207,207
+Barcelona,Apartment,22.0,1,Private room,El Poble-sec,2.16953,41.37295,58,58
+Barcelona,Apartment,25.0,1,Private room,Sant Martí de Provençals,2.1962,41.41737,34,34
+Barcelona,Serviced apartment,129.0,6,Entire home/apt,Dreta de l'Eixample,2.17481,41.39243,71,71
+Barcelona,House,230.0,10,Entire home/apt,Sants-Montjuïc,2.14759,41.35324,42,42
+Barcelona,Apartment,38.0,2,Private room,0,2.1564,41.37864,37,37
+0,Townhouse,24.0,1,Private room,El Poble-sec,2.15659,41.37207,0,0
+Barcelona,Apartment,69.0,2,Private room,Dreta de l'Eixample,2.17533,41.39454,15,15
+Barcelona,Apartment,27.0,2,Private room,Sants-Montjuïc,2.12421,41.3784,128,128
+Barcelona,Apartment,38.0,3,Entire home/apt,La Barceloneta,2.19006,41.37787,1,1
+Barcelona,Serviced apartment,76.0,2,Entire home/apt,El Gòtic,2.18198,41.38189,1,1
+Barcelona,Apartment,29.0,1,Private room,Glòries - El Parc,2.18951,41.3918,18,18
+Barcelona,Apartment,200.0,6,Entire home/apt,Dreta de l'Eixample,2.16589,41.39002,72,72
+Barcelona,Apartment,24.0,2,Private room,0,2.18177,41.38667,25,25
+Barcelona,Apartment,50.0,2,Private room,Sant Antoni,2.15988,41.3767,66,66
+Barcelona,Apartment,20.0,1,Private room,0,2.1823,41.40208,6,6
+Barcelona,Apartment,100.0,5,Entire home/apt,La Sagrada Família,2.17648,41.41089,38,38
+Barcelona,Apartment,130.0,5,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.17532,41.38977,397,397
+Barcelona,Apartment,38.0,3,Entire home/apt,La Barceloneta,2.18864,41.3815,1,1
+Barcelona,Serviced apartment,195.0,4,Entire home/apt,Dreta de l'Eixample,2.14969,41.39367,5,5
+Barcelona,Apartment,150.0,6,Entire home/apt,El Gòtic,2.17518,41.37998,117,117
+Barcelona,Apartment,18.0,1,Private room,La Sagrada Família,2.17505,41.40975,35,35
+Barcelona,Apartment,32.0,2,Private room,0,2.17228,41.39785,27,27
+Barcelona,Boat,35.0,2,Private room,0,2.22733,41.41004,24,24
+Barcelona,Apartment,62.0,6,Entire home/apt,Sarrià,2.14984,41.4025,1,1
+Barcelona,Apartment,23.0,2,Private room,Sants-Montjuïc,2.12841,41.37419,23,23
+Barcelona,Apartment,85.0,5,Entire home/apt,El Clot,2.19013,41.40625,226,226
+Barcelona,House,31.0,2,Private room,0,2.15739,41.42255,63,63
+Barcelona,Other,15.0,1,Private room,0,2.13237,41.37549,3,3
+Barcelona,Apartment,18.0,1,Private room,0,2.1633,41.37391,115,115
+Barcelona,Apartment,15.0,1,Private room,0,2.18227,41.3859,15,15
+Barcelona,Villa,95.0,2,Private room,0,2.11732,41.41753,89,89
+Barcelona,Apartment,39.0,1,Private room,L'Antiga Esquerra de l'Eixample,2.1509,41.39106,67,67
+Barcelona,Apartment,209.0,10,Entire home/apt,La Barceloneta,2.16296,41.37339,25,25
+Barcelona,Serviced apartment,599.0,4,Entire home/apt,Dreta de l'Eixample,2.1644,41.38926,26,26
+Barcelona,Apartment,60.0,4,Entire home/apt,La Sagrada Família,2.17178,41.40631,97,97
+Barcelona,Apartment,35.0,2,Private room,0,2.17689,41.39044,48,48
+Barcelona,Apartment,30.0,2,Private room,Dreta de l'Eixample,2.17652,41.39574,2,2
+Barcelona,Apartment,101.0,4,Entire home/apt,Vila de Gràcia,2.15555,41.39696,2,2
+Barcelona,Apartment,43.0,4,Entire home/apt,0,2.17934,41.38052,15,15
+Barcelona,Apartment,60.0,4,Entire home/apt,La Sagrada Família,2.17784,41.40775,88,88
+Barcelona,Apartment,40.0,2,Private room,El Born,2.18067,41.38542,135,135
+Barcelona,Tiny house,110.0,3,Entire home/apt,Sant Antoni,2.16651,41.37247,83,83
+Barcelona,Apartment,60.0,2,Private room,Dreta de l'Eixample,2.16991,41.39598,28,28
+Barcelona,Apartment,45.0,2,Private room,el Fort Pienc,2.17944,41.39602,7,7
+Barcelona,Apartment,59.0,4,Entire home/apt,El Raval,2.17377,41.37333,10,10
+Barcelona,Apartment,38.0,1,Private room,Sants-Montjuïc,2.13318,41.37437,49,49
+Barcelona,Condominium,50.0,4,Private room,La Sagrada Família,2.17632,41.38277,0,0
+Barcelona,Apartment,18.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.14478,41.38712,27,27
+Barcelona,Apartment,242.0,7,Entire home/apt,Dreta de l'Eixample,2.16365,41.39012,12,12
+Barcelona,Apartment,98.0,4,Entire home/apt,La Sagrada Família,2.1734,41.40151,35,35
+Barcelona,Apartment,50.0,4,Entire home/apt,Dreta de l'Eixample,2.2045,41.3978,7,7
+Barcelona,Condominium,55.0,4,Entire home/apt,El Camp de l'Arpa del Clot,2.18146,41.41484,0,0
+Barcelona,Apartment,40.0,2,Private room,Camp d'en Grassot i Gràcia Nova,2.16932,41.40323,18,18
+Barcelona,Apartment,30.0,1,Private room,Sant Gervasi - Galvany,2.14992,41.39578,2,2
+Barcelona,Apartment,19.0,2,Private room,el Fort Pienc,2.1801,41.3926,46,46
+Barcelona,Apartment,268.0,10,Entire home/apt,Dreta de l'Eixample,2.16745,41.39611,1,1
+Barcelona,Apartment,30.0,2,Private room,Dreta de l'Eixample,2.1918,41.39423,45,45
+Barcelona,Apartment,494.0,10,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.17427,41.3953,55,55
+Barcelona,Apartment,60.0,2,Private room,0,2.15199,41.379,0,0
+Barcelona,Apartment,30.0,2,Private room,0,2.13445,41.36859,74,74
+Barcelona,Apartment,150.0,2,Entire home/apt,0,2.16747,41.40354,4,4
+Barcelona,Apartment,60.0,1,Private room,0,2.14606,41.3708,4,4
+Barcelona,Apartment,108.0,7,Entire home/apt,La Sagrada Família,2.17724,41.40955,8,8
+Barcelona,Apartment,400.0,8,Entire home/apt,Diagonal Mar - La Mar Bella,2.20132,41.39454,14,14
+Barcelona,Apartment,165.0,10,Entire home/apt,0,2.16414,41.39654,20,20
+Barcelona,Apartment,60.0,2,Private room,0,2.15955,41.38006,20,20
+Barcelona,Apartment,60.0,4,Entire home/apt,0,2.1805,41.38044,35,35
+Barcelona,Apartment,130.0,2,Private room,0,2.15993,41.37338,0,0
+Barcelona,Apartment,15.0,2,Private room,La Sagrada Família,2.18156,41.40431,124,124
+Barcelona,Apartment,99.0,6,Entire home/apt,0,2.17062,41.38947,7,7
+Barcelona,Serviced apartment,31.0,1,Private room,Dreta de l'Eixample,2.16109,41.39727,0,0
+Barcelona,Apartment,450.0,4,Entire home/apt,La Nova Esquerra de l'Eixample,2.15649,41.38545,26,26
+Barcelona,Apartment,500.0,6,Entire home/apt,La Nova Esquerra de l'Eixample,2.15576,41.3856,17,17
+Barcelona,Apartment,500.0,6,Entire home/apt,La Nova Esquerra de l'Eixample,2.17109,41.38767,19,19
+Barcelona,Apartment,90.0,4,Entire home/apt,El Born,2.18081,41.38741,2,2
+Barcelona,Apartment,70.0,5,Entire home/apt,el Fort Pienc,2.18007,41.39427,1,1
+Barcelona,Apartment,60.0,6,Entire home/apt,El Camp de l'Arpa del Clot,2.16481,41.37671,7,7
+Barcelona,Serviced apartment,60.0,3,Entire home/apt,El Raval,2.17611,41.37962,0,0
+Barcelona,Apartment,20.0,1,Private room,0,2.16653,41.38154,100,100
+Barcelona,Apartment,100.0,3,Private room,La Sagrada Família,2.17074,41.39056,5,5
+Barcelona,Bed and breakfast,45.0,2,Private room,Sants-Montjuïc,2.15144,41.38256,44,44
+Barcelona,Apartment,52.0,2,Private room,El Poblenou,2.19603,41.39933,22,22
+Barcelona,Apartment,14.0,2,Private room,0,2.15881,41.39925,47,47
+Barcelona,Loft,100.0,3,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.1588,41.38829,257,257
+Barcelona,Apartment,15.0,2,Private room,La Sagrada Família,2.181,41.40318,99,99
+Barcelona,Apartment,29.0,3,Private room,Camp d'en Grassot i Gràcia Nova,2.16632,41.40419,59,59
+Barcelona,Apartment,106.0,4,Entire home/apt,Dreta de l'Eixample,2.16073,41.39542,35,35
+Barcelona,Apartment,74.0,4,Entire home/apt,Vallcarca i els Penitents,2.15816,41.38974,0,0
+Barcelona,Apartment,200.0,7,Entire home/apt,Sant Gervasi - Galvany,2.14977,41.39483,32,32
+Barcelona,Apartment,25.0,2,Private room,El Poble-sec,2.16187,41.37292,42,42
+Barcelona,Apartment,25.0,2,Private room,0,2.15207,41.40124,6,6
+Barcelona,Apartment,40.0,2,Private room,el Fort Pienc,2.18269,41.40006,13,13
+Barcelona,Apartment,19.0,2,Private room,El Clot,2.187,41.41361,0,0
+Barcelona,Apartment,70.0,2,Private room,Vila de Gràcia,2.16072,41.406,8,8
+Barcelona,Condominium,75.0,4,Entire home/apt,0,2.17851,41.40943,8,8
+Barcelona,Apartment,25.0,2,Private room,0,2.13769,41.3646,87,87
+Barcelona,Apartment,65.0,2,Private room,0,2.18339,41.38499,202,202
+Barcelona,Other,55.0,4,Entire home/apt,0,2.19151,41.38024,2,2
+Barcelona,Apartment,26.0,2,Private room,0,2.17691,41.40525,32,32
+Barcelona,Apartment,32.0,3,Private room,L'Antiga Esquerra de l'Eixample,2.14387,41.38765,13,13
+Barcelona,Apartment,30.0,2,Private room,La Vila Olímpica,2.1966,41.39356,92,92
+Barcelona,Apartment,15.0,4,Entire home/apt,El Poble-sec,2.16837,41.37295,4,4
+Barcelona,Apartment,70.0,6,Entire home/apt,La Sagrada Família,2.1724,41.40648,76,76
+Barcelona,Apartment,14.0,1,Private room,el Fort Pienc,2.18628,41.39811,17,17
+Barcelona,Apartment,125.0,4,Entire home/apt,0,2.1539,41.39584,6,6
+Barcelona,Apartment,30.0,1,Private room,0,2.15266,41.40163,8,8
+Barcelona,Apartment,25.0,1,Private room,0,2.1617,41.39866,0,0
+Barcelona,Apartment,37.0,3,Private room,La Nova Esquerra de l'Eixample,2.15059,41.37897,49,49
+Barcelona,Apartment,22.0,1,Private room,L'Antiga Esquerra de l'Eixample,2.14983,41.38533,1,1
+Barcelona,Apartment,60.0,2,Private room,0,2.16472,41.40411,3,3
+Barcelona,Apartment,550.0,10,Entire home/apt,La Nova Esquerra de l'Eixample,2.15648,41.41896,14,14
+Barcelona,Apartment,17.0,1,Private room,Sant Antoni,2.15252,41.37667,25,25
+Barcelona,Apartment,84.0,3,Private room,La Nova Esquerra de l'Eixample,2.16278,41.38545,42,42
+Barcelona,Serviced apartment,66.0,2,Private room,el Fort Pienc,2.17911,41.39691,1,1
+Barcelona,Apartment,40.0,2,Private room,0,2.17323,41.38797,12,12
+Barcelona,Apartment,38.0,2,Private room,0,2.14085,41.37464,7,7
+Barcelona,Apartment,92.0,8,Entire home/apt,0,2.15476,41.379,40,40
+Barcelona,Apartment,46.0,4,Entire home/apt,RB of Greenwich,2.17489,41.38391,6,6
+Barcelona,Apartment,350.0,8,Entire home/apt,La Nova Esquerra de l'Eixample,2.15653,41.41861,15,15
+Barcelona,Apartment,30.0,1,Private room,El Clot,2.18479,41.40548,8,8
+Barcelona,Apartment,50.0,1,Private room,0,2.18328,41.38321,6,6
+Barcelona,Apartment,23.0,2,Private room,Carmel,2.1527,41.4258,61,61
+Barcelona,Apartment,99.0,2,Private room,0,2.1621,41.39583,0,0
+Barcelona,Apartment,45.0,4,Private room,0,2.17694,41.41944,7,7
+Barcelona,Apartment,46.0,4,Entire home/apt,El Gòtic,2.16478,41.37105,2,2
+Barcelona,Apartment,26.0,1,Private room,Dreta de l'Eixample,2.16481,41.39959,14,14
+Barcelona,Apartment,110.0,3,Private room,0,2.17337,41.43616,1,1
+Barcelona,Apartment,53.0,2,Entire home/apt,Sant Gervasi - Galvany,2.15994,41.39379,99,99
+Barcelona,Hostel,200.0,4,Private room,Sants-Montjuïc,2.13697,41.37756,3,3
+Barcelona,House,69.0,4,Private room,0,2.13675,41.41756,20,20
+Barcelona,Apartment,32.0,1,Private room,La Verneda i La Pau,2.20377,41.42283,0,0
+Barcelona,Apartment,69.0,4,Entire home/apt,el Fort Pienc,2.18482,41.39895,177,177
+Barcelona,Apartment,60.0,4,Entire home/apt,El Poble-sec,2.15567,41.37236,3,3
+Barcelona,Apartment,75.0,5,Entire home/apt,Dreta de l'Eixample,2.17156,41.39427,53,53
+Barcelona,Apartment,111.0,5,Entire home/apt,El Gòtic,2.1717,41.38569,16,16
+Barcelona,Apartment,140.0,10,Private room,Dreta de l'Eixample,2.15993,41.39162,21,21
+Barcelona,Apartment,175.0,2,Entire home/apt,La Barceloneta,2.18891,41.3751,0,0
+Barcelona,Apartment,53.0,6,Entire home/apt,El Gòtic,2.17371,41.40764,116,116
+Barcelona,Apartment,58.0,4,Entire home/apt,0,2.18237,41.38264,5,5
+Barcelona,Apartment,27.0,3,Entire home/apt,El Besòs i el Maresme,2.21819,41.41356,0,0
+Barcelona,Apartment,108.0,4,Entire home/apt,Vila de Gràcia,2.15801,41.3984,147,147
+Barcelona,Apartment,10.0,3,Private room,L'Antiga Esquerra de l'Eixample,2.14405,41.3859,6,6
+Barcelona,Apartment,17.0,2,Private room,El Besòs i el Maresme,2.21575,41.41429,42,42
+Barcelona,Apartment,67.0,4,Entire home/apt,Dreta de l'Eixample,2.17781,41.37897,34,34
+Barcelona,Apartment,55.0,2,Private room,El Born,2.18275,41.3848,76,76
+Barcelona,Apartment,26.0,1,Private room,0,2.21825,41.4141,30,30
+Barcelona,Apartment,52.0,5,Entire home/apt,El Baix Guinardó,2.13707,41.37615,10,10
+Barcelona,House,38.0,2,Private room,Torre Baró,2.18543,41.45542,1,1
+Barcelona,Apartment,25.0,1,Private room,Porta,2.17909,41.43897,1,1
+Barcelona,Other,25.0,2,Private room,La Sagrada Família,2.17263,41.40557,1,1
+Barcelona,Apartment,150.0,4,Entire home/apt,La Sagrada Família,2.16127,41.39879,6,6
+Barcelona,Loft,100.0,2,Entire home/apt,La Sagrada Família,2.17039,41.37302,30,30
+Barcelona,Apartment,15.0,2,Private room,0,2.19112,41.41492,42,42
+Barcelona,Apartment,60.0,2,Private room,Navas,2.18748,41.418,0,0
+Barcelona,Apartment,25.0,4,Entire home/apt,El Poble-sec,2.16834,41.37236,5,5
+Barcelona,Apartment,100.0,4,Entire home/apt,El Poble-sec,2.15002,41.38031,12,12
+Barcelona,Apartment,30.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.15105,41.38455,0,0
+Barcelona,Apartment,29.0,1,Private room,El Raval,2.17186,41.37953,0,0
+Barcelona,Apartment,40.0,1,Private room,La Teixonera,2.14653,41.42339,7,7
+Barcelona,Apartment,90.0,2,Entire home/apt,Vila de Gràcia,2.13676,41.38121,6,6
+Barcelona,Apartment,59.0,1,Private room,0,2.14745,41.38376,0,0
+Barcelona,Apartment,750.0,8,Entire home/apt,La Vila Olímpica,2.21403,41.40434,0,0
+Barcelona,Apartment,90.0,4,Entire home/apt,Dreta de l'Eixample,2.1645,41.37343,11,11
+Barcelona,Apartment,75.0,6,Entire home/apt,Sant Gervasi - Galvany,2.13911,41.40216,0,0
+Barcelona,Apartment,15.0,4,Entire home/apt,El Poble-sec,2.16658,41.37282,3,3
+Barcelona,Apartment,15.0,1,Private room,El Camp de l'Arpa del Clot,2.18496,41.41015,1,1
+Barcelona,Apartment,75.0,5,Entire home/apt,Dreta de l'Eixample,2.12439,41.37454,22,22
+Barcelona,House,35.0,2,Private room,0,2.17232,41.41188,1,1
+Barcelona,Farm stay,100.0,2,Private room,0,2.12807,41.40666,0,0
+Barcelona,Apartment,50.0,2,Private room,El Gòtic,2.1795,41.3791,10,10
+Barcelona,Apartment,120.0,4,Entire home/apt,El Poble-sec,2.16033,41.37128,257,257
+Barcelona,Apartment,67.0,2,Entire home/apt,El Born,2.18094,41.38717,1,1
+Barcelona,Apartment,80.0,5,Entire home/apt,Vila de Gràcia,2.14344,41.37483,37,37
+Barcelona,Apartment,140.0,6,Entire home/apt,Dreta de l'Eixample,2.15849,41.40913,30,30
+Barcelona,Apartment,470.0,6,Entire home/apt,La Nova Esquerra de l'Eixample,2.16855,41.37393,34,34
+Barcelona,Apartment,98.0,4,Entire home/apt,Sant Antoni,2.15565,41.37386,35,35
+Barcelona,Apartment,29.0,2,Private room,El Raval,2.17343,41.38084,19,19
+Barcelona,Apartment,100.0,3,Entire home/apt,0,2.16375,41.37956,1,1
+Barcelona,Apartment,35.0,2,Private room,Sant Antoni,2.15374,41.37718,53,53
+Barcelona,Apartment,31.0,2,Private room,Sant Pere/Santa Caterina,2.17862,41.38659,6,6
+Barcelona,Apartment,100.0,6,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.162,41.38621,132,132
+Barcelona,Apartment,180.0,6,Entire home/apt,Sarrià,2.13539,41.38778,7,7
+Barcelona,Apartment,34.0,3,Entire home/apt,Vallcarca i els Penitents,2.16192,41.38878,4,4
+Barcelona,Apartment,15.0,2,Private room,El Bon Pastor,2.20417,41.43574,13,13
+Barcelona,Apartment,55.0,4,Entire home/apt,La Nova Esquerra de l'Eixample,2.17461,41.42355,2,2
+Barcelona,Apartment,100.0,2,Entire home/apt,Sant Gervasi - Galvany,2.17762,41.40782,3,3
+Barcelona,Apartment,50.0,2,Private room,El Raval,2.16731,41.37874,27,27
+Barcelona,Apartment,100.0,2,Private room,0,2.11271,41.41055,0,0
+Barcelona,Apartment,30.0,1,Private room,0,2.1708,41.37868,0,0
+Barcelona,Serviced apartment,180.0,5,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.17542,41.42309,28,28
+Barcelona,Apartment,28.0,2,Private room,0,2.17513,41.37837,70,70
+Barcelona,Apartment,110.0,10,Entire home/apt,Vila de Gràcia,2.13862,41.40219,6,6
+Barcelona,Apartment,110.0,10,Entire home/apt,Vila de Gràcia,2.16011,41.40502,5,5
+Barcelona,Apartment,50.0,2,Private room,El Raval,2.16422,41.38119,4,4
+Barcelona,Apartment,22.0,2,Private room,0,2.17344,41.37609,64,64
+Barcelona,Apartment,110.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.14838,41.38453,1,1
+Barcelona,Apartment,80.0,2,Private room,La Nova Esquerra de l'Eixample,2.15819,41.38308,2,2
+Barcelona,Apartment,110.0,2,Entire home/apt,El Gòtic,2.17745,41.38273,23,23
+Barcelona,Condominium,175.0,6,Entire home/apt,0,2.20727,41.39763,3,3
+Barcelona,Apartment,25.0,4,Entire home/apt,Vila de Gràcia,2.15491,41.40252,0,0
+Barcelona,Apartment,82.0,2,Entire home/apt,Dreta de l'Eixample,2.16739,41.39268,40,40
+Barcelona,Apartment,56.0,4,Private room,Sant Gervasi - Galvany,2.13806,41.40144,21,21
+Barcelona,Apartment,83.0,5,Entire home/apt,0,2.15611,41.37384,10,10
+Barcelona,Loft,50.0,2,Entire home/apt,La Nova Esquerra de l'Eixample,2.14587,41.37808,1,1
+Barcelona,Apartment,45.0,2,Entire home/apt,Sant Antoni,2.16311,41.37766,2,2
+Barcelona,Apartment,70.0,4,Entire home/apt,Adelfas,2.16088,41.39817,0,0
+Barcelona,Apartment,45.0,3,Private room,La Vila Olímpica,2.19584,41.39595,8,8
+Barcelona,Apartment,100.0,2,Entire home/apt,Adelfas,2.1586,41.38186,0,0
+Barcelona,Apartment,80.0,3,Entire home/apt,Adelfas,2.19552,41.39343,0,0
+Barcelona,Apartment,2000.0,1,Private room,El Raval,2.17262,41.37539,0,0
+Barcelona,Apartment,85.0,4,Entire home/apt,Dreta de l'Eixample,2.16187,41.39228,1,1
+Barcelona,Apartment,44.0,2,Private room,El Poblenou,2.19975,41.40125,15,15
+Barcelona,Apartment,75.0,2,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15076,41.4069,1,1
+Barcelona,Serviced apartment,115.0,6,Entire home/apt,La Sagrada Família,2.17574,41.40557,29,29
+Barcelona,Apartment,18.0,1,Private room,Navas,2.1805,41.41756,50,50
+Barcelona,Apartment,80.0,7,Entire home/apt,La Nova Esquerra de l'Eixample,2.15482,41.38046,13,13
+Barcelona,Loft,50.0,2,Private room,El Poblenou,2.19918,41.39715,24,24
+Barcelona,Apartment,40.0,3,Private room,Sant Antoni,2.16078,41.38334,40,40
+Barcelona,Apartment,79.0,3,Private room,Dreta de l'Eixample,2.16673,41.38789,34,34
+Barcelona,Apartment,68.0,2,Private room,0,2.17696,41.37818,49,49
+Barcelona,Apartment,60.0,2,Entire home/apt,Adelfas,2.19012,41.38033,0,0
+Barcelona,Apartment,47.0,2,Private room,El Born,2.18358,41.38484,23,23
+Barcelona,Apartment,55.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.14306,41.38186,16,16
+Barcelona,Guesthouse,50.0,2,Private room,El Poble-sec,2.14741,41.37974,2,2
+Barcelona,Apartment,90.0,4,Entire home/apt,El Gòtic,2.17051,41.39397,0,0
+Barcelona,Apartment,50.0,6,Entire home/apt,Sant Antoni,2.1788,41.40387,0,0
+Barcelona,Apartment,45.0,2,Entire home/apt,El Gòtic,2.1737,41.3846,2,2
+Barcelona,Apartment,59.0,4,Entire home/apt,Sant Gervasi - la Bonanova,2.13589,41.40416,6,6
+Barcelona,Apartment,150.0,3,Entire home/apt,Dreta de l'Eixample,2.17445,41.3973,22,22
+Barcelona,Apartment,71.0,3,Entire home/apt,0,2.18163,41.4073,2,2
+Barcelona,Apartment,70.0,6,Entire home/apt,Sants-Montjuïc,2.15466,41.37391,2,2
+Barcelona,Apartment,103.0,4,Entire home/apt,0,2.19103,41.39184,0,0
+Barcelona,Serviced apartment,17.0,1,Private room,Sant Gervasi - la Bonanova,2.13289,41.41021,5,5
+Barcelona,Loft,72.0,3,Entire home/apt,Dreta de l'Eixample,2.17372,41.39858,10,10
+Barcelona,Serviced apartment,160.0,4,Entire home/apt,La Nova Esquerra de l'Eixample,2.16664,41.39064,0,0
+Barcelona,Apartment,35.0,2,Private room,El Besòs i el Maresme,2.20945,41.41948,8,8
+Barcelona,Apartment,29.0,2,Private room,Guinardó,2.17877,41.41463,24,24
+Barcelona,Apartment,58.0,4,Entire home/apt,El Gòtic,2.1728,41.39382,2,2
+Barcelona,Apartment,120.0,5,Entire home/apt,Sants-Montjuïc,2.13627,41.37637,14,14
+Barcelona,Apartment,49.0,2,Entire home/apt,El Gòtic,2.16417,41.39902,1,1
+Barcelona,Apartment,94.0,6,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.14504,41.40303,23,23
+Barcelona,Loft,70.0,3,Private room,0,2.18038,41.38683,3,3
+Barcelona,Apartment,20.0,2,Private room,El Besòs i el Maresme,2.21656,41.41263,11,11
+Barcelona,Apartment,45.0,1,Private room,0,2.15149,41.38471,6,6
+Barcelona,Apartment,55.0,2,Private room,0,2.1697,41.38471,13,13
+Barcelona,Apartment,80.0,3,Entire home/apt,Sants-Montjuïc,2.14544,41.37094,0,0
+Barcelona,Apartment,35.0,3,Private room,el Fort Pienc,2.18066,41.39332,21,21
+Barcelona,Apartment,190.0,8,Entire home/apt,Diagonal Mar - La Mar Bella,2.21416,41.40968,1,1
+Barcelona,Apartment,65.0,2,Private room,El Gòtic,2.1746,41.38634,2,2
+Barcelona,Apartment,40.0,2,Private room,El Clot,2.18758,41.41355,41,41
+Barcelona,Casa particular (Cuba),53.0,2,Private room,0,2.17579,41.379,6,6
+Barcelona,Apartment,80.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.1454,41.39273,11,11
+Barcelona,Apartment,80.0,5,Entire home/apt,El Camp de l'Arpa del Clot,2.1749,41.40102,37,37
+Barcelona,Apartment,32.0,2,Private room,El Raval,2.17466,41.3781,0,0
+Barcelona,Apartment,30.0,1,Private room,0,2.21576,41.41612,1,1
+Barcelona,Apartment,45.0,1,Private room,0,2.17668,41.3872,19,19
+Barcelona,House,65.0,2,Private room,El Besòs i el Maresme,2.2145,41.41214,0,0
+Barcelona,Apartment,60.0,2,Private room,Sants-Montjuïc,2.17317,41.38848,15,15
+Barcelona,Apartment,50.0,2,Private room,La Nova Esquerra de l'Eixample,2.16108,41.37541,0,0
+Barcelona,Apartment,150.0,3,Entire home/apt,Dreta de l'Eixample,2.1747,41.39243,4,4
+Barcelona,Apartment,53.0,2,Private room,La Nova Esquerra de l'Eixample,2.15698,41.38266,19,19
+Barcelona,Apartment,63.0,4,Entire home/apt,Adelfas,2.16624,41.38319,0,0
+Barcelona,Apartment,79.0,6,Entire home/apt,0,2.17636,41.40547,0,0
+Barcelona,Apartment,22.0,2,Private room,0,2.16097,41.41465,6,6
+Barcelona,Apartment,27.0,2,Private room,Vila de Gràcia,2.15555,41.39634,0,0
+Barcelona,Apartment,55.0,4,Entire home/apt,Verdum - Los Roquetes,2.17331,41.39985,0,0
+Barcelona,Apartment,22.0,1,Private room,0,2.0978,41.33371,5,5
+Barcelona,Apartment,27.0,1,Private room,El Born,2.17952,41.38427,1,1
+Barcelona,Apartment,129.0,4,Entire home/apt,Truxton Circle,2.15063,41.40447,0,0
+Barcelona,Apartment,49.0,2,Private room,El Raval,2.16621,41.38395,15,15
+Barcelona,Apartment,100.0,4,Entire home/apt,el Fort Pienc,2.18089,41.39684,0,0
+Barcelona,Serviced apartment,135.0,6,Entire home/apt,El Born,2.20117,41.40255,4,4
+Barcelona,Apartment,25.0,2,Private room,Sants-Montjuïc,2.145,41.37794,2,2
+Barcelona,Apartment,40.0,1,Entire home/apt,El Raval,2.17585,41.38406,0,0
+Barcelona,Apartment,100.0,5,Entire home/apt,El Raval,2.1663,41.38394,3,3
+Barcelona,Apartment,41.0,2,Entire home/apt,Dreta de l'Eixample,2.17855,41.38164,0,0
+Barcelona,Apartment,130.0,5,Entire home/apt,Dreta de l'Eixample,2.17557,41.38123,2,2
+Barcelona,Apartment,35.0,2,Private room,El Born,2.1818,41.38763,15,15
+Barcelona,Apartment,80.0,4,Entire home/apt,Dreta de l'Eixample,2.17552,41.37998,3,3
+Barcelona,Apartment,80.0,4,Entire home/apt,Dreta de l'Eixample,2.17539,41.38126,1,1
+Barcelona,Apartment,35.0,2,Private room,0,2.14869,41.39592,0,0
+Barcelona,Loft,85.0,3,Entire home/apt,La Vila Olímpica,2.19483,41.3942,2,2
+Barcelona,Apartment,65.0,2,Private room,0,2.18998,41.37773,9,9
+Barcelona,Apartment,120.0,7,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.14352,41.38702,0,0
+Barcelona,Apartment,36.0,2,Private room,Sant Pere/Santa Caterina,2.17964,41.38919,22,22
+Barcelona,Apartment,35.0,4,Entire home/apt,El Putget i Farró,2.14007,41.41128,0,0
+Barcelona,Apartment,55.0,6,Entire home/apt,Dreta de l'Eixample,2.17736,41.41175,0,0
+Barcelona,Apartment,36.0,2,Private room,Sant Pere/Santa Caterina,2.17968,41.38982,25,25
+Barcelona,Bed and breakfast,45.0,3,Private room,El Gòtic,2.17685,41.38023,8,8
+Barcelona,Apartment,28.0,1,Private room,La Barceloneta,2.19166,41.37976,40,40
+Barcelona,Apartment,130.0,6,Entire home/apt,Sarrià,2.14098,41.38121,0,0
+Barcelona,Loft,30.0,1,Entire home/apt,Sant Gervasi - Galvany,2.1386,41.39382,1,1
+Barcelona,Hostel,45.0,2,Private room,0,2.16758,41.39706,4,4
+Barcelona,Apartment,16.0,1,Private room,0,2.1493,41.38051,18,18
+Barcelona,Apartment,29.0,2,Private room,El Raval,2.1648,41.38121,20,20
+Barcelona,Apartment,700.0,7,Entire home/apt,La Nova Esquerra de l'Eixample,2.17146,41.39603,4,4
+Barcelona,Apartment,600.0,6,Entire home/apt,La Nova Esquerra de l'Eixample,2.17096,41.39726,5,5
+Barcelona,Apartment,95.0,6,Entire home/apt,La Sagrada Família,2.17282,41.40669,34,34
+Barcelona,Apartment,22.0,1,Private room,Turó de la Peira - Can Peguera,2.16997,41.43171,3,3
+Barcelona,Loft,45.0,2,Private room,0,2.15797,41.4057,25,25
+Barcelona,Apartment,200.0,4,Entire home/apt,0,2.16562,41.39629,5,5
+Barcelona,Apartment,25.0,2,Private room,Sant Antoni,2.15669,41.37672,259,259
+Barcelona,Serviced apartment,90.0,4,Entire home/apt,Dreta de l'Eixample,2.13978,41.38432,3,3
+Barcelona,Apartment,88.0,4,Private room,El Raval,2.17458,41.37919,12,12
+Barcelona,Apartment,50.0,5,Private room,El Raval,2.16585,41.37878,29,29
+Barcelona,Apartment,33.0,2,Private room,Dreta de l'Eixample,2.16219,41.39821,1,1
+Barcelona,Apartment,68.0,5,Entire home/apt,Sant Gervasi - Galvany,2.15486,41.37889,79,79
+Barcelona,Apartment,90.0,2,Private room,0,2.14395,41.38542,1,1
+Barcelona,Loft,78.0,3,Entire home/apt,El Raval,2.1731,41.38104,0,0
+Barcelona,Apartment,45.0,2,Private room,0,2.18031,41.38038,8,8
+Barcelona,Apartment,39.0,4,Entire home/apt,0,2.17403,41.37412,0,0
+Barcelona,Apartment,19.0,2,Private room,Verdum - Los Roquetes,2.17548,41.44656,23,23
+Barcelona,Apartment,290.0,6,Entire home/apt,Dreta de l'Eixample,2.16822,41.3919,0,0
+Barcelona,Apartment,35.0,3,Private room,Camp d'en Grassot i Gràcia Nova,2.16776,41.40431,9,9
+Barcelona,Apartment,45.0,4,Private room,Horta,2.14487,41.37748,0,0
+Barcelona,Apartment,35.0,2,Private room,La Vila Olímpica,2.19544,41.38928,7,7
+Barcelona,Apartment,60.0,2,Private room,0,2.20064,41.40262,6,6
+Barcelona,Apartment,120.0,4,Entire home/apt,La Sagrada Família,2.17659,41.4092,1,1
+Barcelona,Apartment,24.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.1495,41.39144,3,3
+Barcelona,Apartment,80.0,7,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.1674,41.4008,31,31
+Barcelona,Apartment,99.0,4,Entire home/apt,El Poblenou,2.19629,41.40417,11,11
+Barcelona,Apartment,35.0,2,Private room,El Raval,2.16855,41.38049,12,12
+Barcelona,Serviced apartment,69.0,5,Entire home/apt,La Nova Esquerra de l'Eixample,2.15338,41.37955,0,0
+Barcelona,Loft,250.0,6,Entire home/apt,el Fort Pienc,2.17815,41.39668,10,10
+Barcelona,Apartment,140.0,6,Entire home/apt,Sant Antoni,2.17401,41.39924,134,134
+Barcelona,Apartment,20.0,1,Private room,0,2.16568,41.41114,6,6
+Barcelona,Apartment,20.0,1,Private room,Vila de Gràcia,2.15919,41.40759,14,14
+Barcelona,Apartment,40.0,2,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.16058,41.41072,0,0
+Barcelona,Apartment,99.0,5,Entire home/apt,El Poblenou,2.20247,41.40666,0,0
+Barcelona,Apartment,95.0,4,Private room,La Barceloneta,2.18851,41.38118,11,11
+Barcelona,Apartment,41.0,4,Entire home/apt,La Barceloneta,2.19069,41.45017,0,0
+Barcelona,Apartment,50.0,2,Private room,El Poble-sec,2.16156,41.37286,8,8
+Barcelona,Apartment,40.0,2,Private room,El Raval,2.16423,41.3808,21,21
+Barcelona,Apartment,19.0,1,Private room,Camp d'en Grassot i Gràcia Nova,2.16663,41.40691,6,6
+Barcelona,Apartment,60.0,2,Private room,0,2.16462,41.37123,1,1
+Barcelona,Apartment,15.0,1,Private room,El Camp de l'Arpa del Clot,2.18253,41.41013,1,1
+Barcelona,Apartment,20.0,2,Private room,La Nova Esquerra de l'Eixample,2.15283,41.38402,18,18
+Barcelona,Apartment,30.0,2,Entire home/apt,La Teixonera,2.14545,41.42249,1,1
+Barcelona,Apartment,90.0,6,Entire home/apt,La Sagrada Família,2.16621,41.37133,2,2
+Barcelona,Apartment,53.0,3,Entire home/apt,La Nova Esquerra de l'Eixample,2.15829,41.38622,0,0
+Barcelona,Loft,37.0,4,Entire home/apt,El Raval,2.17133,41.37911,1,1
+Barcelona,Apartment,85.0,5,Entire home/apt,el Fort Pienc,2.17619,41.4105,5,5
+Barcelona,Apartment,95.0,2,Private room,Camp d'en Grassot i Gràcia Nova,2.1657,41.40467,6,6
+Barcelona,Apartment,47.0,6,Entire home/apt,El Besòs i el Maresme,2.21568,41.41098,0,0
+Barcelona,Apartment,34.0,2,Private room,El Raval,2.17499,41.37617,3,3
+Barcelona,Serviced apartment,1240.0,8,Entire home/apt,Dreta de l'Eixample,2.17189,41.3935,1,1
+Barcelona,Boutique hotel,89.0,2,Private room,0,2.17561,41.38786,5,5
+Barcelona,Boutique hotel,89.0,2,Private room,0,2.17705,41.38934,0,0
+Barcelona,Apartment,45.0,2,Private room,Dreta de l'Eixample,2.17194,41.39958,1,1
+Barcelona,Apartment,22.0,1,Private room,El Raval,2.16584,41.38316,0,0
+Barcelona,Apartment,65.0,3,Entire home/apt,La Vila Olímpica,2.17271,41.3777,0,0
+Barcelona,Guest suite,78.0,4,Private room,Castellana,2.17525,41.3776,12,12
+Barcelona,Condominium,220.0,7,Entire home/apt,0,2.17506,41.39353,0,0
+Barcelona,Apartment,292.0,8,Entire home/apt,0,2.15734,41.39161,7,7
+Barcelona,Apartment,40.0,1,Private room,Vila de Gràcia,2.15353,41.40185,0,0
+Barcelona,Apartment,60.0,3,Entire home/apt,Vallcarca i els Penitents,2.1558,41.40354,2,2
+Barcelona,Casa particular (Cuba),100.0,2,Private room,Vila de Gràcia,2.16139,41.40477,0,0
+Barcelona,Guest suite,25.0,2,Private room,Sants-Montjuïc,2.13166,41.37284,1,1
+Barcelona,Apartment,32.0,2,Private room,Diagonal Mar - La Mar Bella,2.21523,41.40802,7,7
+Barcelona,Apartment,85.0,5,Entire home/apt,Dreta de l'Eixample,2.1723,41.40404,0,0
+Barcelona,Loft,150.0,6,Entire home/apt,Vila de Gràcia,2.18134,41.39377,0,0
+Barcelona,Apartment,75.0,5,Entire home/apt,El Putget i Farró,2.14949,41.39934,4,4
+Barcelona,Condominium,120.0,2,Private room,0,2.16864,41.37824,0,0
+Barcelona,Apartment,80.0,2,Private room,La Barceloneta,2.18902,41.38096,6,6
+Barcelona,Apartment,105.0,4,Entire home/apt,el Fort Pienc,2.17543,41.40619,54,54
+Barcelona,Apartment,51.0,3,Private room,La Nova Esquerra de l'Eixample,2.15713,41.38538,7,7
+Barcelona,Apartment,250.0,8,Entire home/apt,0,2.13918,41.37656,0,0
+Barcelona,Apartment,75.0,5,Entire home/apt,Sant Antoni,2.16603,41.37575,275,275
+Barcelona,Aparthotel,219.0,4,Entire home/apt,0,2.17374,41.40361,1,1
+Barcelona,Apartment,50.0,5,Entire home/apt,La Nova Esquerra de l'Eixample,2.14553,41.37978,12,12
+Barcelona,Apartment,39.0,2,Private room,La Nova Esquerra de l'Eixample,2.15344,41.37972,5,5
+Barcelona,Aparthotel,149.0,4,Entire home/apt,0,2.16948,41.39093,6,6
+Barcelona,Apartment,30.0,1,Private room,Sant Gervasi - Galvany,2.14905,41.39667,2,2
+Barcelona,Apartment,35.0,1,Private room,0,2.1434,41.36919,0,0
+Barcelona,Apartment,76.0,6,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.17219,41.40276,0,0
+Barcelona,Apartment,130.0,4,Entire home/apt,Dreta de l'Eixample,2.17398,41.39148,20,20
+Barcelona,Condominium,150.0,4,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.19637,41.40491,0,0
+Barcelona,Apartment,80.0,4,Entire home/apt,Provençals del Poblenou,2.20393,41.40783,0,0
+Barcelona,Apartment,25.0,2,Private room,El Poble-sec,2.16969,41.37351,2,2
+Barcelona,Loft,150.0,4,Entire home/apt,Vila de Gràcia,2.16004,41.40437,0,0
+Barcelona,Serviced apartment,129.0,4,Entire home/apt,La Nova Esquerra de l'Eixample,2.15117,41.38058,46,46
+Barcelona,Apartment,45.0,1,Entire home/apt,Sants-Montjuïc,2.13564,41.37356,33,33
+Barcelona,Apartment,95.0,2,Entire home/apt,Sant Pere/Santa Caterina,2.17801,41.38826,0,0
+Barcelona,Apartment,115.0,6,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15624,41.38629,6,6
+Barcelona,Apartment,80.0,4,Entire home/apt,0,2.1295,41.38418,0,0
+Barcelona,Hostel,40.0,3,Private room,Sants-Montjuïc,2.13286,41.36674,1,1
+Barcelona,Casa particular (Cuba),3000.0,4,Entire home/apt,0,2.1397,41.37468,0,0
+Barcelona,Apartment,42.0,2,Private room,El Gòtic,2.17491,41.40634,14,14
+Barcelona,Apartment,35.0,2,Private room,Dreta de l'Eixample,2.165,41.39923,1,1
+Barcelona,Apartment,30.0,2,Private room,La Nova Esquerra de l'Eixample,2.15179,41.38118,0,0
+Barcelona,Apartment,160.0,6,Entire home/apt,Sant Antoni,2.17448,41.3826,1,1
+Barcelona,Apartment,220.0,5,Entire home/apt,La Nova Esquerra de l'Eixample,2.15288,41.37961,1,1
+Barcelona,Apartment,35.0,2,Private room,0,2.18388,41.41132,0,0
+Barcelona,Apartment,70.0,2,Entire home/apt,Sant Gervasi - Galvany,2.13371,41.37108,1,1
+Barcelona,Apartment,330.0,8,Entire home/apt,Sant Antoni,2.21544,41.40442,1,1
+Barcelona,Apartment,25.0,3,Private room,La Verneda i La Pau,2.20206,41.42322,38,38
+Barcelona,Apartment,16.0,1,Private room,0,2.15861,41.37051,0,0
+Barcelona,Apartment,40.0,2,Private room,0,2.18541,41.38394,13,13
+Barcelona,Apartment,140.0,6,Entire home/apt,La Sagrada Família,2.17424,41.40953,1,1
+Barcelona,Apartment,30.0,2,Private room,La Nova Esquerra de l'Eixample,2.14671,41.37972,3,3
+Barcelona,Apartment,72.0,5,Entire home/apt,Diagonal Mar - La Mar Bella,2.21503,41.40385,0,0
+Barcelona,Apartment,30.0,1,Private room,0,2.17976,41.40151,4,4
+Barcelona,Apartment,105.0,6,Entire home/apt,La Barceloneta,2.1254,41.37547,32,32
+Barcelona,Apartment,46.0,6,Entire home/apt,El Gòtic,2.17628,41.38043,0,0
+Barcelona,Apartment,10.0,10,Private room,La Maternitat i Sant Ramon,2.12242,41.37846,0,0
+Barcelona,Apartment,46.0,6,Entire home/apt,El Gòtic,2.1767,41.38028,0,0
+Barcelona,Boutique hotel,150.0,2,Private room,0,2.16764,41.38714,0,0
+Barcelona,Apartment,27.0,1,Private room,Dreta de l'Eixample,2.1867,41.392,0,0
+Barcelona,Apartment,168.0,13,Entire home/apt,Sant Pere/Santa Caterina,2.17625,41.38806,0,0
+Barcelona,Apartment,38.0,2,Private room,0,2.14567,41.37467,0,0
+Barcelona,Bed and breakfast,69.0,2,Private room,El Raval,2.16545,41.38328,2,2
+Barcelona,Condominium,45.0,5,Entire home/apt,0,2.17143,41.37435,0,0
+Barcelona,Apartment,35.0,3,Private room,Sant Antoni,2.15743,41.38023,6,6
+Barcelona,Apartment,262.0,6,Entire home/apt,Dreta de l'Eixample,2.14932,41.37821,1,1
+Barcelona,Apartment,57.0,3,Entire home/apt,Sant Pere/Santa Caterina,2.13334,41.36739,0,0
+Barcelona,Apartment,85.0,2,Private room,El Gòtic,2.17491,41.38084,8,8
+Barcelona,Apartment,55.0,2,Private room,0,2.15104,41.38667,4,4
+Barcelona,Apartment,55.0,2,Private room,Camp d'en Grassot i Gràcia Nova,2.16813,41.40639,0,0
+Barcelona,Apartment,65.0,3,Private room,El Raval,2.165,41.38294,2,2
+Barcelona,Apartment,60.0,3,Private room,El Raval,2.16954,41.37754,0,0
+Barcelona,Apartment,50.0,4,Private room,Dreta de l'Eixample,2.16816,41.38622,1,1
+Barcelona,Guest suite,180.0,2,Private room,El Born,2.17991,41.38497,0,0
+Barcelona,Apartment,42.0,4,Entire home/apt,El Gòtic,2.18216,41.41233,0,0
+Barcelona,Apartment,39.0,4,Entire home/apt,El Gòtic,2.17647,41.3811,1,1
+Barcelona,Apartment,600.0,12,Entire home/apt,La Vila Olímpica,2.19708,41.38937,1,1
+Barcelona,Apartment,150.0,6,Entire home/apt,El Gòtic,2.16619,41.38539,0,0
+Barcelona,Apartment,96.0,4,Entire home/apt,Vila de Gràcia,2.16248,41.37143,0,0
+Barcelona,Apartment,50.0,2,Private room,0,2.1848,41.38359,9,9
+Barcelona,Apartment,197.0,2,Entire home/apt,Dreta de l'Eixample,2.1529,41.38684,0,0
+Barcelona,Apartment,56.0,3,Entire home/apt,El Gòtic,2.12923,41.38724,0,0
+Barcelona,Bed and breakfast,25.0,2,Private room,0,2.1621,41.38468,0,0
+Barcelona,Apartment,30.0,2,Private room,El Raval,2.17168,41.38243,0,0
+Barcelona,Apartment,51.0,2,Private room,La Nova Esquerra de l'Eixample,2.15686,41.3829,0,0
+Barcelona,Apartment,300.0,3,Entire home/apt,0,2.16945,41.37182,0,0
+Barcelona,Apartment,120.0,2,Private room,Shoreditch,2.17172,41.39197,1,1
+Barcelona,Apartment,39.0,4,Entire home/apt,0,2.1781,41.38016,0,0
+Barcelona,Apartment,98.0,6,Entire home/apt,0,2.17854,41.41044,1,1
+Barcelona,Apartment,100.0,1,Private room,0,2.19404,41.40767,0,0
+Barcelona,Apartment,40.0,5,Entire home/apt,El Poble-sec,2.15006,41.43322,0,0
+Barcelona,Apartment,80.0,2,Private room,El Raval,2.17498,41.37804,1,1
+Barcelona,Apartment,120.0,8,Entire home/apt,Dreta de l'Eixample,2.17803,41.37924,2,2
+Barcelona,Guesthouse,16.0,1,Private room,Provençals del Poblenou,2.20658,41.4221,10,10
+Barcelona,Bed and breakfast,18.0,2,Private room,Sant Andreu de Palomar,2.19256,41.43924,2,2
+Barcelona,Serviced apartment,200.0,6,Entire home/apt,Vallcarca i els Penitents,2.15168,41.4073,0,0
+Barcelona,Apartment,23.0,1,Private room,La Vila Olímpica,2.19072,41.39212,0,0
+Barcelona,Apartment,30.0,2,Private room,Dreta de l'Eixample,2.17463,41.39844,2,2
+Barcelona,Apartment,300.0,4,Entire home/apt,Dreta de l'Eixample,2.17797,41.39271,0,0
+Barcelona,Apartment,32.0,2,Entire home/apt,El Gòtic,2.16757,41.37354,0,0
+Barcelona,Apartment,25.0,2,Private room,La Trinitat Vella,2.1894,41.45179,6,6
+Barcelona,Apartment,15.0,2,Private room,0,2.17548,41.4438,0,0
+Barcelona,Apartment,50.0,5,Entire home/apt,La Sagrada Família,2.17597,41.40204,0,0
+Barcelona,Apartment,37.0,2,Entire home/apt,0,2.16326,41.39322,0,0
+Barcelona,Apartment,89.0,8,Entire home/apt,Vila de Gràcia,2.14329,41.3712,0,0
+Barcelona,Apartment,57.0,2,Private room,0,2.16741,41.37992,1,1
+Barcelona,Apartment,129.0,9,Entire home/apt,Vila de Gràcia,2.16075,41.39643,0,0
+Barcelona,Condominium,10.0,2,Private room,0,2.17075,41.37559,0,0
+Barcelona,Apartment,400.0,4,Entire home/apt,Dreta de l'Eixample,2.16177,41.39261,1,1
+Barcelona,Apartment,24.0,1,Private room,0,2.17153,41.37676,1,1
+Barcelona,Apartment,80.0,4,Private room,El Raval,2.16684,41.38197,0,0
+Barcelona,Apartment,120.0,7,Entire home/apt,Sant Gervasi - la Bonanova,2.1438,41.37945,1,1
+Barcelona,Apartment,150.0,10,Entire home/apt,Dreta de l'Eixample,2.14369,41.37684,0,0
+Barcelona,Condominium,35.0,1,Private room,0,2.10189,41.37747,0,0
+Barcelona,Apartment,35.0,2,Private room,El Raval,2.16459,41.38401,0,0
+Barcelona,Apartment,75.0,3,Private room,0,2.14959,41.38251,0,0
+Barcelona,Apartment,20.0,1,Private room,El Congrés i els Indians,2.1833,41.42559,0,0
+Barcelona,Apartment,59.0,3,Private room,El Camp de l'Arpa del Clot,2.18568,41.41067,0,0
+Barcelona,Apartment,80.0,6,Entire home/apt,0,2.12294,41.37128,0,0
+Barcelona,Apartment,150.0,4,Entire home/apt,L'Eixample,2.15819,41.37534,0,0
+Barcelona,Apartment,37.0,3,Private room,0,2.19137,41.37849,0,0
+Barcelona,Apartment,42.0,2,Private room,El Raval,2.16607,41.3784,178,178
+Barcelona,Bed and breakfast,40.0,3,Private room,El Raval,2.17338,41.38057,0,0
+Barcelona,Apartment,18.0,2,Private room,el Fort Pienc,2.18139,41.4012,185,185
+Barcelona,Apartment,45.0,3,Private room,Vila de Gràcia,2.15749,41.40111,22,22
+Barcelona,Bed and breakfast,40.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.15268,41.39029,229,229
+Barcelona,Apartment,120.0,5,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.17357,41.38985,270,270
+Barcelona,Apartment,30.0,2,Private room,Vila de Gràcia,2.16201,41.40202,2,2
+Barcelona,Apartment,57.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.15547,41.38736,103,103
+Barcelona,Apartment,89.0,2,Entire home/apt,El Raval,2.16881,41.38484,2,2
+Barcelona,Apartment,49.0,2,Private room,0,2.16448,41.40378,3,3
+Barcelona,Apartment,127.0,4,Entire home/apt,Sultanahmet,2.17234,41.39896,8,8
+Barcelona,Apartment,130.0,4,Entire home/apt,Sultanahmet,2.1697,41.39779,62,62
+Barcelona,Apartment,80.0,2,Entire home/apt,Can Baro,2.16005,41.41757,85,85
+Barcelona,Apartment,60.0,2,Private room,Sant Andreu de Palomar,2.18584,41.42925,4,4
+Barcelona,Apartment,550.0,14,Entire home/apt,Dreta de l'Eixample,2.18268,41.40101,10,10
+Barcelona,Apartment,150.0,6,Entire home/apt,Dreta de l'Eixample,2.17632,41.38992,87,87
+Barcelona,Aparthotel,200.0,6,Private room,El Raval,2.17429,41.37949,18,18
+Barcelona,Apartment,75.0,2,Private room,0,2.1678,41.3964,0,0
+Barcelona,Apartment,60.0,4,Entire home/apt,Dreta de l'Eixample,2.16624,41.38972,12,12
+Barcelona,Apartment,128.0,2,Entire home/apt,Sant Antoni,2.17583,41.37649,52,52
+Barcelona,Apartment,85.0,2,Private room,El Raval,2.17544,41.38026,229,229
+Barcelona,Apartment,75.0,4,Entire home/apt,Dreta de l'Eixample,2.17556,41.39651,164,164
+Barcelona,Apartment,97.0,4,Entire home/apt,0,2.15593,41.40772,120,120
+Barcelona,Apartment,100.0,5,Entire home/apt,Les Corts (Nabe),2.15114,41.39751,10,10
+Barcelona,Apartment,96.0,6,Entire home/apt,Vila de Gràcia,2.14731,41.37872,123,123
+Barcelona,Loft,25.0,2,Entire home/apt,La Sagrada Família,2.17517,41.40227,87,87
+Barcelona,Apartment,30.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.14853,41.38583,0,0
+Barcelona,House,140.0,5,Entire home/apt,El Congrés i els Indians,2.18061,41.42255,23,23
+Barcelona,Apartment,35.0,2,Private room,0,2.19017,41.37572,31,31
+Barcelona,Apartment,70.0,4,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15241,41.38763,2,2
+Barcelona,Apartment,90.0,6,Entire home/apt,la Sagrada Família,2.1705,41.40248,174,174
+Barcelona,Apartment,705.0,4,Entire home/apt,Sant Gervasi - Galvany,2.16373,41.39035,63,63
+Barcelona,Apartment,80.0,2,Private room,Sarrià,2.12178,41.39184,0,0
+Barcelona,Apartment,60.0,3,Private room,0,2.17378,41.38047,265,265
+Barcelona,Apartment,30.0,2,Private room,Sants-Montjuïc,2.13395,41.37575,91,91
+Barcelona,Apartment,175.0,11,Entire home/apt,El Putget i Farró,2.1465,41.40914,273,273
+Barcelona,Townhouse,135.0,10,Entire home/apt,La Barceloneta,2.18867,41.38192,185,185
+Barcelona,Apartment,55.0,2,Private room,L'Antiga Esquerra de l'Eixample,2.15468,41.39078,94,94
+Barcelona,Apartment,26.0,1,Private room,El Poble-sec,2.16065,41.37281,56,56
+Barcelona,Apartment,85.0,2,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.16621,41.4075,152,152
+Barcelona,Apartment,55.0,3,Private room,El Raval,2.1709,41.38069,147,147
+Barcelona,Apartment,35.0,1,Private room,Sant Martí de Provençals,2.1996,41.4146,26,26
+Barcelona,Apartment,42.0,2,Private room,Sants-Montjuïc,2.12781,41.37583,2,2
+Barcelona,Apartment,300.0,6,Entire home/apt,La Vila Olímpica,2.19155,41.39222,3,3
+Barcelona,Apartment,27.0,1,Private room,0,2.17147,41.37966,150,150
+Barcelona,Apartment,45.0,2,Entire home/apt,El Baix Guinardó,2.1703,41.40799,9,9
+Barcelona,Apartment,50.0,4,Entire home/apt,La Sagrada Família,2.15756,41.40742,24,24
+Barcelona,Serviced apartment,125.0,6,Entire home/apt,El Poble-sec,2.16651,41.37365,103,103
+Barcelona,Apartment,45.0,2,Private room,0,2.17781,41.38502,2,2
+Barcelona,Apartment,23.0,2,Private room,El Congrés i els Indians,2.18174,41.42409,3,3
+Barcelona,Apartment,35.0,2,Private room,0,2.20689,41.41809,38,38
+Barcelona,Apartment,35.0,2,Private room,0,2.17542,41.4416,11,11
+Barcelona,Apartment,48.0,2,Private room,Glòries - El Parc,2.18364,41.39125,52,52
+Barcelona,Apartment,35.0,2,Private room,0,2.15994,41.43654,9,9
+Barcelona,Apartment,15.0,1,Private room,La Sagrada Família,2.18166,41.40325,0,0
+Barcelona,Condominium,999.0,4,Entire home/apt,El Born,2.17798,41.39824,3,3
+Barcelona,House,69.0,4,Private room,El Poblenou,2.20448,41.39857,61,61
+Barcelona,Apartment,40.0,2,Private room,0,2.15838,41.39955,2,2
+Barcelona,Apartment,300.0,12,Entire home/apt,Camp d'en Grassot i Gràcia Nova,2.17081,41.40506,138,138
+Barcelona,Apartment,200.0,6,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.15111,41.39275,5,5
+Barcelona,Apartment,27.0,2,Private room,0,2.17744,41.38716,11,11
+Barcelona,Apartment,45.0,3,Entire home/apt,0,2.12422,41.3748,164,164
+Barcelona,Apartment,80.0,4,Entire home/apt,Dreta de l'Eixample,2.16612,41.38817,82,82
+Barcelona,Apartment,115.0,4,Entire home/apt,Dreta de l'Eixample,2.16236,41.39078,132,132
+Barcelona,Apartment,54.0,3,Entire home/apt,Dreta de l'Eixample,2.16502,41.4,0,0
+Barcelona,Apartment,125.0,6,Entire home/apt,Vila de Gràcia,2.16375,41.40076,11,11
+Barcelona,Apartment,100.0,4,Private room,0,2.17607,41.37914,1,1
+Barcelona,Apartment,132.0,4,Entire home/apt,La Nova Esquerra de l'Eixample,2.15484,41.37964,98,98
+Barcelona,Serviced apartment,188.0,4,Entire home/apt,L'Antiga Esquerra de l'Eixample,2.14824,41.39453,3,3
+Barcelona,Apartment,81.0,4,Entire home/apt,La Sagrada Família,2.15958,41.38426,0,0
+Barcelona,Apartment,130.0,10,Entire home/apt,El Poble-sec,2.16211,41.39658,0,0
+Barcelona,Apartment,40.0,2,Private room,Dreta de l'Eixample,2.16676,41.40103,0,0
+Barcelona,Loft,143.0,4,Entire home/apt,la Sagrada Família,2.17199,41.40267,31,31
+Barcelona,Apartment,105.0,4,Entire home/apt,Dreta de l'Eixample,2.17905,41.40735,45,45
+Barcelona,Apartment,91.0,4,Entire home/apt,Eixample,2.16183,41.37471,11,11
+Barcelona,Condominium,12.0,1,Private room,0,2.14039,41.37357,4,4
+Barcelona,Apartment,17.0,1,Shared room,Vila de Gràcia,2.15765,41.39898,109,109
+Barcelona,Apartment,110.0,6,Entire home/apt,El Poble-sec,2.16447,41.37421,66,66
+Barcelona,Apartment,125.0,4,Entire home/apt,Sultanahmet,2.17086,41.39767,39,39
+Barcelona,Apartment,115.0,4,Entire home/apt,Vila de Gràcia,2.17954,41.40542,19,19
+Barcelona,Apartment,222.0,7,Entire home/apt,Sultanahmet,2.17019,41.39909,61,61
+Barcelona,Bed and breakfast,20.0,8,Shared room,El Poble-sec,2.15897,41.37482,22,22
+Barcelona,Apartment,41.0,2,Entire home/apt,El Raval,2.16915,41.38494,5,5
+Barcelona,Apartment,45.0,2,Private room,Guinardó,2.17833,41.41507,52,52

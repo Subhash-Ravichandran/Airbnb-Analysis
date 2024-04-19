@@ -1,0 +1,579 @@
+city,property_type,price,accommodates,room_type,host_neighbourhood,Latitudes,Longitudes,number_of_reviews,number_of_reviews
+Rio De Janeiro,Apartment,317.0,4,Entire home/apt,Jardim Botânico,-43.23074991429229,-22.96625355173965,0,0
+Rio De Janeiro,Apartment,119.0,4,Entire home/apt,Copacabana,-43.19084919446341,-22.98433936006781,70,70
+Rio De Janeiro,Apartment,858.0,5,Entire home/apt,0,-43.4311123147628,-23.00035792660916,0,0
+Rio De Janeiro,House,250.0,8,Private room,Catete,-43.18015675229857,-22.92638234778768,1,1
+Rio De Janeiro,Apartment,701.0,2,Private room,Lagoa,-43.20504708263344,-22.971950988341877,0,0
+Rio De Janeiro,Apartment,149.0,1,Private room,Tijuca,-43.247421907135774,-22.936203246553816,1,1
+Rio De Janeiro,Apartment,933.0,5,Entire home/apt,0,-43.1825954762751,-22.93054146036793,0,0
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,Santa Teresa,-43.1998455458952,-22.980051683700506,24,24
+Rio De Janeiro,Apartment,746.0,6,Entire home/apt,Recreio dos Bandeirantes,-43.45296045334386,-23.008710784460312,0,0
+Rio De Janeiro,Apartment,798.0,6,Entire home/apt,0,-43.17714541632985,-22.96270793328072,8,8
+Rio De Janeiro,Apartment,380.0,2,Entire home/apt,0,-43.24277868091869,-22.91500935448249,0,0
+Rio De Janeiro,Apartment,101.0,2,Private room,0,-43.37035220190699,-22.91636184358952,1,1
+Rio De Janeiro,Apartment,858.0,3,Entire home/apt,Ipanema,-43.20056249420509,-22.98034625363379,29,29
+Rio De Janeiro,Bed and breakfast,112.0,2,Private room,Barra da Tijuca,-43.35397067257831,-23.008991691724663,11,11
+Rio De Janeiro,House,101.0,1,Private room,0,-43.33496705036137,-22.94836549045056,0,0
+Rio De Janeiro,Bed and breakfast,138.0,2,Private room,0,-43.3089745798612,-23.004633399469007,9,9
+Rio De Janeiro,Apartment,351.0,4,Entire home/apt,Barra da Tijuca,-43.20577175003696,-22.98255730525777,32,32
+Rio De Janeiro,House,2499.0,11,Entire home/apt,0,-43.27502007153333,-22.99391888061395,0,0
+Rio De Janeiro,Apartment,149.0,4,Entire home/apt,Catete,-43.17888629206925,-22.93171589917869,0,0
+Rio De Janeiro,Apartment,298.0,3,Entire home/apt,Copacabana,-43.1779488969792,-22.963149303022146,0,0
+Rio De Janeiro,Apartment,1999.0,6,Entire home/apt,0,-43.20465630892734,-22.983108745795256,0,0
+Rio De Janeiro,Apartment,71.0,1,Private room,0,-43.17645081249057,-22.93848268819496,1,1
+Rio De Janeiro,Apartment,933.0,4,Entire home/apt,Barra da Tijuca,-43.36831676949888,-23.011117008024065,0,0
+Rio De Janeiro,Apartment,112.0,1,Private room,0,-43.17933175178738,-22.941321220162784,0,0
+Rio De Janeiro,Condominium,351.0,6,Entire home/apt,Barra da Tijuca,-43.32231287289854,-23.009702689174244,18,18
+Rio De Janeiro,Hostel,187.0,2,Private room,0,-43.189916447135005,-22.976504206582877,1,1
+Rio De Janeiro,Apartment,933.0,6,Entire home/apt,Barra da Tijuca,-43.32984175609327,-23.011124595436097,13,13
+Rio De Janeiro,Apartment,746.0,4,Entire home/apt,0,-43.1838890521465,-22.938257466286093,0,0
+Rio De Janeiro,Condominium,134.0,4,Entire home/apt,Bonsucesso,-43.24972983198035,-22.862647394041375,0,0
+Rio De Janeiro,Apartment,351.0,4,Entire home/apt,Copacabana,-43.17596611897592,-22.964922391816017,110,110
+Rio De Janeiro,Apartment,451.0,5,Entire home/apt,Barra da Tijuca,-43.343027190397,-23.00878356989572,34,34
+Rio De Janeiro,Apartment,172.0,4,Entire home/apt,São Cristóvão,-43.21872245840377,-22.89142169593252,0,0
+Rio De Janeiro,Apartment,701.0,4,Entire home/apt,0,-43.17974071338275,-22.9313871086666,0,0
+Rio De Janeiro,Apartment,395.0,6,Entire home/apt,0,-43.22076222600562,-22.96448811710617,9,9
+Rio De Janeiro,House,1999.0,8,Entire home/apt,Urca,-43.17823402580154,-22.917475613135107,0,0
+Rio De Janeiro,House,3726.0,10,Entire home/apt,0,-43.43656065280531,-23.01216083013239,0,0
+Rio De Janeiro,Apartment,149.0,2,Private room,Ipanema,-43.19841687233581,-22.98376501071312,2,2
+Rio De Janeiro,Apartment,298.0,5,Entire home/apt,Leblon,-43.22120070184858,-22.98416287210616,1,1
+Rio De Janeiro,Apartment,518.0,6,Entire home/apt,Leblon,-43.21889444085009,-22.980690335847203,11,11
+Rio De Janeiro,Apartment,306.0,5,Entire home/apt,Gávea,-43.192297491066334,-22.98581619981152,2,2
+Rio De Janeiro,Villa,209.0,5,Entire home/apt,Santa Teresa,-43.1899284846398,-22.920478977773985,7,7
+Rio De Janeiro,Apartment,351.0,6,Entire home/apt,Copacabana,-43.20246232850196,-22.98570388501864,4,4
+Rio De Janeiro,Condominium,933.0,8,Entire home/apt,0,-43.42564904825581,-23.00273936515431,0,0
+Rio De Janeiro,Other,250.0,4,Entire home/apt,Copacabana,-43.18908543651725,-22.980722086375625,2,2
+Rio De Janeiro,Apartment,548.0,4,Entire home/apt,0,-43.23045778723012,-22.98655048520364,2,2
+Rio De Janeiro,House,52.0,2,Private room,Laranjeiras,-43.19177327893577,-22.93691870901323,76,76
+Rio De Janeiro,Apartment,1000.0,4,Entire home/apt,0,-43.39842206377968,-22.970523926945454,0,0
+Rio De Janeiro,Apartment,246.0,2,Entire home/apt,0,-43.179580196689336,-22.941799837438328,0,0
+Rio De Janeiro,Loft,179.0,2,Entire home/apt,Catete,-43.178454975195,-22.92654173922,0,0
+Rio De Janeiro,Apartment,112.0,2,Entire home/apt,Lapa,-43.18273634800831,-22.9106385343457,33,33
+Rio De Janeiro,House,142.0,2,Private room,0,-43.30213630920409,-22.89369868524118,0,0
+Rio De Janeiro,Apartment,250.0,5,Entire home/apt,Copacabana,-43.2285561930115,-22.984126941422254,22,22
+Rio De Janeiro,Condominium,108.0,5,Private room,Barra da Tijuca,-43.32809919833523,-23.01165713674064,107,107
+Rio De Janeiro,Apartment,2499.0,8,Entire home/apt,0,-43.45405770602672,-23.015910719795656,0,0
+Rio De Janeiro,Apartment,3499.0,6,Entire home/apt,0,-43.182415799103794,-22.9680008638951,0,0
+Rio De Janeiro,Apartment,209.0,4,Entire home/apt,Barra da Tijuca,-43.36453026311119,-23.008791637258927,5,5
+Rio De Janeiro,House,399.0,5,Entire home/apt,0,-43.356043748726336,-22.93881029842621,1,1
+Rio De Janeiro,Apartment,131.0,6,Entire home/apt,0,-43.49085154894161,-23.02338692141779,31,31
+Rio De Janeiro,House,317.0,2,Private room,Botafogo,-43.19254931342515,-22.95295957541284,5,5
+Rio De Janeiro,Condominium,1000.0,8,Entire home/apt,Barra da Tijuca,-43.38281341435767,-22.98369162798043,1,1
+Rio De Janeiro,Serviced apartment,548.0,4,Entire home/apt,0,-43.47716330794789,-23.030647771247256,2,2
+Rio De Janeiro,Apartment,399.0,6,Entire home/apt,Ipanema,-43.20731407351492,-22.98217661277284,5,5
+Rio De Janeiro,Apartment,298.0,6,Entire home/apt,Barra da Tijuca,-43.34951832545693,-23.004059877448853,0,0
+Rio De Janeiro,Apartment,1600.0,6,Entire home/apt,0,-43.35843701660095,-22.98839563811481,0,0
+Rio De Janeiro,Condominium,3301.0,8,Entire home/apt,Barra da Tijuca,-43.33422634714254,-23.00756333438681,0,0
+Rio De Janeiro,Loft,239.0,2,Private room,0,-43.34708354191269,-22.89507854707165,1,1
+Rio De Janeiro,Apartment,351.0,7,Entire home/apt,Ipanema,-43.19423588543599,-22.984148254337534,14,14
+Rio De Janeiro,Apartment,60.0,1,Private room,0,-43.18471637510573,-22.91341606205436,0,0
+Rio De Janeiro,Apartment,399.0,2,Private room,0,-43.393534232339206,-22.969013331100093,5,5
+Rio De Janeiro,House,250.0,2,Private room,0,-43.4186896742968,-22.96840021041473,1,1
+Rio De Janeiro,House,112.0,1,Private room,0,-43.36534968594563,-22.930049818012783,0,0
+Rio De Janeiro,Apartment,1201.0,8,Entire home/apt,0,-43.24013084767151,-22.92176304215344,0,0
+Rio De Janeiro,Apartment,746.0,4,Entire home/apt,Barra da Tijuca,-43.30252917595476,-23.01558513917358,2,2
+Rio De Janeiro,Apartment,287.0,3,Entire home/apt,Tijuca,-43.20086736218796,-22.95565763906539,0,0
+Rio De Janeiro,Apartment,1701.0,2,Entire home/apt,0,-43.202238135410624,-22.9813700874583,0,0
+Rio De Janeiro,Apartment,48.0,2,Private room,Tijuca,-43.2533524829868,-22.944292537938367,0,0
+Rio De Janeiro,Apartment,101.0,2,Private room,Botafogo,-43.175214261015086,-22.95162577090241,47,47
+Rio De Janeiro,Apartment,679.0,4,Entire home/apt,Ipanema,-43.2023558879285,-22.98352041283106,1,1
+Rio De Janeiro,Apartment,317.0,2,Private room,Botafogo,-43.181236294754925,-22.950189284501317,3,3
+Rio De Janeiro,Condominium,351.0,2,Private room,0,-43.19321647887779,-22.957538646861146,1,1
+Rio De Janeiro,Apartment,2201.0,8,Entire home/apt,Barra da Tijuca,-43.31720122256538,-23.01212481214021,0,0
+Rio De Janeiro,House,5595.0,16,Entire home/apt,0,-43.32235641855684,-23.00826097306537,0,0
+Rio De Janeiro,Apartment,280.0,3,Entire home/apt,Ipanema,-43.1990101137809,-22.982413191528178,15,15
+Rio De Janeiro,Apartment,951.0,6,Entire home/apt,Recreio dos Bandeirantes,-43.46594355883066,-23.019530104675333,0,0
+Rio De Janeiro,Apartment,205.0,2,Entire home/apt,Copacabana,-43.18822800527058,-22.97000440296209,77,77
+Rio De Janeiro,House,56.0,3,Private room,0,-43.24723543198432,-22.935874631596256,0,0
+Rio De Janeiro,Apartment,90.0,2,Entire home/apt,Flamengo,-43.17674315889042,-22.92740812182348,81,81
+Rio De Janeiro,Apartment,351.0,2,Private room,Copacabana,-43.188744533153184,-22.975598903669955,0,0
+Rio De Janeiro,Apartment,127.0,2,Entire home/apt,Leblon,-43.17790211155288,-22.934426116531974,20,20
+Rio De Janeiro,Condominium,3544.0,10,Entire home/apt,0,-43.32005231206098,-23.010668604567265,1,1
+Rio De Janeiro,Apartment,112.0,4,Entire home/apt,0,-43.201524243404165,-22.816717211926136,128,128
+Rio De Janeiro,Loft,560.0,4,Entire home/apt,Copacabana,-43.19241087696823,-22.98247575844525,4,4
+Rio De Janeiro,Apartment,630.0,8,Entire home/apt,Barra da Tijuca,-43.31345955372205,-23.013440373155003,6,6
+Rio De Janeiro,Apartment,142.0,3,Entire home/apt,Catete,-43.177426080553545,-22.927577252718976,0,0
+Rio De Janeiro,House,701.0,5,Private room,Urca,-43.32473578931987,-23.001941778015905,2,2
+Rio De Janeiro,Earth house,67.0,2,Entire home/apt,0,-43.381851403866335,-22.9113895146494,1,1
+Rio De Janeiro,Apartment,1000.0,4,Entire home/apt,0,-43.38976309270332,-22.96986618034955,0,0
+Rio De Janeiro,Apartment,298.0,11,Entire home/apt,0,-43.18949500971648,-22.971126460836576,76,76
+Rio De Janeiro,Apartment,578.0,2,Private room,Copacabana,-43.18883106558784,-22.97404499063615,0,0
+Rio De Janeiro,Apartment,351.0,3,Entire home/apt,Leme,-43.16826706478497,-22.96280897382361,0,0
+Rio De Janeiro,Apartment,1044.0,6,Entire home/apt,0,-43.48464195562192,-23.023927670410306,0,0
+Rio De Janeiro,Apartment,933.0,5,Entire home/apt,0,-43.4146349556373,-22.98883478905928,0,0
+Rio De Janeiro,Apartment,988.0,4,Entire home/apt,0,-43.36022452992309,-22.93703117706552,0,0
+Rio De Janeiro,Apartment,168.0,2,Entire home/apt,Ipanema,-43.20997091078295,-22.985866684090063,227,227
+Rio De Janeiro,Loft,198.0,3,Entire home/apt,0,-43.17466893235061,-22.931361558208607,6,6
+Rio De Janeiro,Apartment,1529.0,6,Entire home/apt,0,-43.189661428857306,-22.922011056850103,0,0
+Rio De Janeiro,Townhouse,101.0,2,Private room,Copacabana,-43.19201873734328,-22.974614743860805,64,64
+Rio De Janeiro,Condominium,560.0,6,Entire home/apt,0,-43.37173007478097,-22.88659803097737,0,0
+Rio De Janeiro,Apartment,78.0,1,Private room,0,-43.22997794854019,-22.928597284586367,0,0
+Rio De Janeiro,Apartment,63.0,2,Private room,0,-43.18758268316908,-22.913687773590524,0,0
+Rio De Janeiro,House,179.0,2,Private room,0,-43.168716413260725,-22.9606496602252,0,0
+Rio De Janeiro,Apartment,1865.0,4,Entire home/apt,Recreio dos Bandeirantes,-43.48662201316989,-23.022882730052668,0,0
+Rio De Janeiro,Apartment,149.0,4,Entire home/apt,Ipanema,-43.210202657500574,-22.982871160304803,54,54
+Rio De Janeiro,Apartment,1306.0,4,Entire home/apt,0,-43.39714324266577,-22.973565284382087,0,0
+Rio De Janeiro,Apartment,1000.0,4,Entire home/apt,Copacabana,-43.19406487887688,-22.981423139099054,0,0
+Rio De Janeiro,Apartment,261.0,4,Entire home/apt,Leblon,-43.21649274666616,-22.98472365988908,5,5
+Rio De Janeiro,Apartment,373.0,4,Entire home/apt,0,-43.363386744558326,-22.979131216990595,2,2
+Rio De Janeiro,Apartment,149.0,4,Private room,Ipanema,-43.20125680079976,-22.982915687464345,3,3
+Rio De Janeiro,Apartment,317.0,4,Entire home/apt,0,-43.18131351174837,-22.943684656455243,0,0
+Rio De Janeiro,Loft,172.0,4,Entire home/apt,Copacabana,-43.19461538649248,-22.983002257608693,35,35
+Rio De Janeiro,Villa,451.0,3,Entire home/apt,Vila Isabel,-43.254614610762495,-22.9172028509369,0,0
+Rio De Janeiro,Apartment,2238.0,6,Entire home/apt,0,-43.46312213962931,-23.026058527674262,0,0
+Rio De Janeiro,Apartment,201.0,4,Entire home/apt,0,-43.19317787872534,-22.98846987088959,38,38
+Rio De Janeiro,Guesthouse,142.0,4,Entire home/apt,0,-43.24255553505414,-22.934620607988,6,6
+Rio De Janeiro,Apartment,560.0,2,Private room,Barra da Tijuca,-43.36575723779647,-23.01001003307048,1,1
+Rio De Janeiro,Apartment,104.0,6,Entire home/apt,0,-43.1918569821055,-22.97475787363863,22,22
+Rio De Janeiro,Apartment,1865.0,3,Entire home/apt,0,-43.39766652363983,-22.972342293273257,0,0
+Rio De Janeiro,Apartment,373.0,2,Entire home/apt,Leblon,-43.22016225270119,-22.984271127835317,0,0
+Rio De Janeiro,Apartment,1119.0,5,Entire home/apt,0,-43.392545662686615,-22.972063407633105,2,2
+Rio De Janeiro,House,116.0,1,Shared room,Ipanema,-43.40695512106908,-22.962923492008525,1,1
+Rio De Janeiro,Apartment,701.0,2,Entire home/apt,0,-43.37061948569106,-23.00184648597161,1,1
+Rio De Janeiro,Apartment,351.0,5,Entire home/apt,São Cristóvão,-43.228085475330346,-22.900619331797092,0,0
+Rio De Janeiro,House,164.0,3,Entire home/apt,0,-43.49193864130802,-22.988157720342432,3,3
+Rio De Janeiro,Apartment,298.0,2,Entire home/apt,Copacabana,-43.1863834979925,-22.968671225549844,0,0
+Rio De Janeiro,Serviced apartment,220.0,4,Entire home/apt,Copacabana,-43.20269959661778,-22.96022105453772,10,10
+Rio De Janeiro,House,5595.0,10,Entire home/apt,0,-43.47391922093498,-23.012075020670952,0,0
+0,Apartment,116.0,2,Private room,Copacabana,-43.190120109264726,-22.97566753024888,0,0
+Rio De Janeiro,Apartment,500.0,5,Entire home/apt,0,-43.3917485723414,-22.970026056556843,0,0
+Rio De Janeiro,Apartment,119.0,4,Entire home/apt,0,-43.18457642451702,-22.910698909393798,2,2
+Rio De Janeiro,Apartment,220.0,2,Entire home/apt,0,-43.18819141274573,-22.969051310784877,13,13
+Rio De Janeiro,Bed and breakfast,48.0,9,Shared room,0,-43.1703921056122,-22.9620268863854,5,5
+Rio De Janeiro,House,601.0,10,Entire home/apt,0,-43.39561933591232,-22.919394925427387,0,0
+Rio De Janeiro,House,119.0,6,Entire home/apt,0,-43.34953293121925,-22.89846031772599,0,0
+Rio De Janeiro,Apartment,899.0,8,Entire home/apt,0,-43.42097030256312,-22.99871658029596,0,0
+Rio De Janeiro,Apartment,86.0,2,Private room,Tijuca,-43.23426360206632,-22.92264558869159,40,40
+Rio De Janeiro,Apartment,11190.0,8,Entire home/apt,Copacabana,-43.19373213382171,-22.97691478494771,0,0
+Rio De Janeiro,Loft,257.0,2,Private room,0,-43.21985297459262,-22.98697841208972,6,6
+Rio De Janeiro,Apartment,1000.0,4,Entire home/apt,0,-43.38684937843143,-22.970984751475747,0,0
+Rio De Janeiro,Apartment,451.0,2,Private room,Recreio dos Bandeirantes,-43.45240425811524,-23.01727996865021,0,0
+Rio De Janeiro,Apartment,500.0,4,Entire home/apt,Barra da Tijuca,-43.32428278483234,-23.00534459728909,0,0
+Rio De Janeiro,Apartment,746.0,4,Entire home/apt,0,-43.27922913422733,-22.88440960003236,0,0
+Rio De Janeiro,Apartment,250.0,2,Private room,0,-43.1928538405128,-22.957082654587737,0,0
+Rio De Janeiro,Apartment,634.0,6,Entire home/apt,0,-43.180731577939234,-22.9340064370666,4,4
+Rio De Janeiro,Apartment,280.0,1,Private room,0,-43.39707095403066,-22.96499154663287,2,2
+Rio De Janeiro,Apartment,250.0,6,Entire home/apt,Leme,-43.17195520840645,-22.96129306836511,10,10
+Rio De Janeiro,Apartment,298.0,5,Entire home/apt,0,-43.47269480400845,-23.01598925251148,1,1
+Rio De Janeiro,Apartment,298.0,3,Private room,Copacabana,-43.176812676695214,-22.964460533574528,1,1
+Rio De Janeiro,Hostel,131.0,4,Private room,Copacabana,-43.18884440627417,-22.96870936391744,0,0
+Rio De Janeiro,Apartment,369.0,8,Entire home/apt,Copacabana,-43.19398459651786,-22.98203185975016,3,3
+Rio De Janeiro,Apartment,157.0,4,Entire home/apt,Leblon,-43.22308649148793,-22.978314631267907,56,56
+Rio De Janeiro,Apartment,798.0,2,Private room,Botafogo,-43.19207316019323,-22.94964100270776,0,0
+Rio De Janeiro,Apartment,201.0,2,Entire home/apt,Copacabana,-43.18832054700163,-22.96894327038813,0,0
+Rio De Janeiro,Apartment,261.0,8,Entire home/apt,Ipanema,-43.19096674991071,-22.985821676488733,6,6
+Rio De Janeiro,Apartment,179.0,2,Entire home/apt,Copacabana,-43.18708515155298,-22.97103230094075,14,14
+Rio De Janeiro,Apartment,261.0,5,Entire home/apt,Centro,-43.19298564538373,-22.97626728937996,0,0
+Rio De Janeiro,Apartment,250.0,4,Entire home/apt,0,-43.38706630315325,-22.96644661942321,4,4
+Rio De Janeiro,Apartment,75.0,2,Entire home/apt,0,-43.31241696422418,-22.8437129575907,4,4
+Rio De Janeiro,House,500.0,6,Entire home/apt,0,-43.55162493436799,-22.9904451673837,0,0
+Rio De Janeiro,Apartment,250.0,1,Private room,0,-43.41843647118928,-22.9703870513959,0,0
+Rio De Janeiro,Apartment,131.0,4,Entire home/apt,0,-43.184717879371945,-22.957738202813637,8,8
+Rio De Janeiro,Apartment,399.0,7,Entire home/apt,Copacabana,-43.17875081156532,-22.964617829612656,30,30
+Rio De Janeiro,Apartment,116.0,2,Private room,Ipanema,-43.20070227223089,-22.98521721608299,116,116
+Rio De Janeiro,Apartment,250.0,6,Entire home/apt,0,-43.3831067284662,-22.972537658219263,5,5
+Rio De Janeiro,Loft,276.0,4,Entire home/apt,Barra da Tijuca,-43.30223274973709,-23.01572464812697,22,22
+Rio De Janeiro,Guesthouse,142.0,2,Entire home/apt,Gávea,-43.23561955660127,-22.980457717563556,1,1
+Rio De Janeiro,Apartment,67.0,2,Private room,Botafogo,-43.18574483607384,-22.948858918144374,7,7
+Rio De Janeiro,Apartment,459.0,5,Entire home/apt,0,-43.17678206762648,-22.93408989604882,0,0
+Rio De Janeiro,Apartment,179.0,2,Entire home/apt,Flamengo,-43.17260649652285,-22.927833288976863,6,6
+Rio De Janeiro,Apartment,201.0,6,Entire home/apt,0,-43.17891807417986,-22.96429123105572,12,12
+Rio De Janeiro,Apartment,60.0,2,Private room,Copacabana,-43.18364483691549,-22.965623291833747,69,69
+Rio De Janeiro,Apartment,101.0,8,Entire home/apt,0,-43.185196066971,-22.970194525506763,46,46
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,0,-43.32853022489558,-23.011038238562968,2,2
+Rio De Janeiro,Apartment,250.0,9,Entire home/apt,Lapa,-43.18800413289652,-22.91397733868619,2,2
+Rio De Janeiro,Apartment,138.0,2,Private room,0,-43.19853373911537,-22.98223425028271,6,6
+Rio De Janeiro,Loft,172.0,4,Entire home/apt,Copacabana,-43.18774737406539,-22.97508859688288,22,22
+Rio De Janeiro,Apartment,175.0,3,Entire home/apt,0,-43.39573210119065,-22.961232291647896,28,28
+Rio De Janeiro,Apartment,134.0,3,Entire home/apt,0,-43.33076847586037,-23.005036413240408,1,1
+Rio De Janeiro,Apartment,93.0,2,Entire home/apt,Lapa,-43.184613548819904,-22.912102434375207,124,124
+Rio De Janeiro,Aparthotel,351.0,2,Private room,0,-43.188756774363775,-22.95364609257584,3,3
+Rio De Janeiro,Apartment,45.0,1,Private room,0,-43.18626151607529,-22.968458869372075,1,1
+Rio De Janeiro,Apartment,90.0,2,Entire home/apt,Lapa,-43.18801158197427,-22.91465474219368,41,41
+Rio De Janeiro,Apartment,399.0,7,Entire home/apt,Leblon,-43.2167104358964,-22.984457092984496,78,78
+Rio De Janeiro,Apartment,548.0,2,Entire home/apt,Ipanema,-43.35499632022474,-23.011040795968057,0,0
+Rio De Janeiro,Loft,298.0,4,Entire home/apt,Leblon,-43.22694156300586,-22.984971035527924,14,14
+Rio De Janeiro,Apartment,1000.0,6,Entire home/apt,0,-43.22575981948327,-22.98631175143224,0,0
+Rio De Janeiro,Apartment,1660.0,6,Entire home/apt,Copacabana,-43.18995048713185,-22.97885504951214,1,1
+Rio De Janeiro,House,149.0,2,Private room,Gávea,-43.23625576846143,-22.97875630104889,1,1
+Rio De Janeiro,Apartment,242.0,6,Entire home/apt,0,-43.19525670637708,-22.985936611499543,16,16
+Rio De Janeiro,Apartment,347.0,4,Entire home/apt,Flamengo,-43.17530478765498,-22.929580623026727,1,1
+Rio De Janeiro,Apartment,701.0,6,Entire home/apt,Copacabana,-43.18578145837536,-22.973252153929337,3,3
+Rio De Janeiro,Apartment,1201.0,4,Entire home/apt,0,-43.190867685144376,-22.97584281532173,0,0
+Rio De Janeiro,Apartment,101.0,3,Private room,Santa Teresa,-43.18596306657469,-22.917714827319703,0,0
+Rio De Janeiro,Apartment,298.0,10,Entire home/apt,Del Castilho,-43.39128811764257,-22.967063649280615,29,29
+Rio De Janeiro,Apartment,310.0,5,Entire home/apt,Copacabana,-43.22343545489181,-22.984243488941598,32,32
+Rio De Janeiro,Apartment,101.0,3,Private room,Copacabana,-43.19098126398924,-22.976176504117603,2,2
+Rio De Janeiro,Apartment,500.0,4,Entire home/apt,0,-43.21846371641134,-22.92230068103729,0,0
+Rio De Janeiro,Loft,149.0,2,Entire home/apt,Santa Teresa,-43.18623763804232,-22.92034085089729,10,10
+Rio De Janeiro,Apartment,250.0,4,Entire home/apt,0,-43.35928361563548,-22.97147838667731,3,3
+Rio De Janeiro,Loft,179.0,3,Private room,0,-43.24450035243397,-22.92780402745229,0,0
+Rio De Janeiro,House,149.0,1,Private room,Grajaú,-43.25762887864307,-22.92651347983792,0,0
+Rio De Janeiro,Apartment,149.0,4,Entire home/apt,0,-43.17738727369248,-22.965127230450918,45,45
+Rio De Janeiro,Bed and breakfast,295.0,4,Private room,0,-43.310834130410186,-22.98728343548051,0,0
+Rio De Janeiro,House,179.0,2,Private room,Méier,-43.27850583750903,-22.901822681908264,0,0
+Rio De Janeiro,House,280.0,6,Entire home/apt,0,-43.17497935352334,-22.91878701623584,0,0
+Rio De Janeiro,Serviced apartment,1000.0,4,Entire home/apt,Flamengo,-43.21778416058226,-22.983816116800234,2,2
+Rio De Janeiro,Apartment,261.0,2,Private room,Copacabana,-43.17431210427382,-22.96235480525756,40,40
+Rio De Janeiro,Apartment,101.0,1,Private room,0,-43.393156888160256,-22.97052913712613,25,25
+Rio De Janeiro,Apartment,119.0,2,Private room,Tijuca,-43.23802106959854,-22.92477818422221,0,0
+Rio De Janeiro,Apartment,213.0,2,Private room,Recreio dos Bandeirantes,-43.200996074358265,-22.98475671168834,1,1
+Rio De Janeiro,Apartment,1999.0,4,Entire home/apt,0,-43.386025806121175,-22.967550163112072,0,0
+Rio De Janeiro,Apartment,190.0,5,Entire home/apt,Copacabana,-43.19129998462068,-22.979469535604892,24,24
+Rio De Janeiro,Apartment,71.0,2,Private room,0,-43.190458778122746,-22.976553790512785,18,18
+Rio De Janeiro,Apartment,280.0,4,Entire home/apt,0,-43.17626099130814,-22.93686304975977,21,21
+Rio De Janeiro,Apartment,172.0,3,Entire home/apt,0,-43.18334268601122,-22.915303227027348,6,6
+Rio De Janeiro,Apartment,149.0,2,Private room,Copacabana,-43.18379962209925,-22.97074979113192,5,5
+Rio De Janeiro,Apartment,119.0,4,Entire home/apt,Lapa,-43.17465551590793,-22.907119954309604,4,4
+Rio De Janeiro,Apartment,93.0,2,Private room,Copacabana,-43.19289118221461,-22.98024751679101,144,144
+Rio De Janeiro,Apartment,134.0,2,Entire home/apt,Ipanema,-43.20303596334958,-22.98116265720219,24,24
+Rio De Janeiro,Serviced apartment,601.0,8,Entire home/apt,Ipanema,-43.20396556253349,-22.97874838432402,2,2
+Rio De Janeiro,Apartment,224.0,1,Private room,0,-43.17475739253271,-22.932397564673835,3,3
+Rio De Janeiro,Apartment,131.0,2,Private room,Copacabana,-43.18169203502355,-22.967251622070783,69,69
+Rio De Janeiro,Apartment,321.0,3,Entire home/apt,0,-43.30694704021649,-23.009072925696568,1,1
+Rio De Janeiro,House,119.0,4,Private room,0,-43.18978902444573,-22.918187895407428,10,10
+Rio De Janeiro,Boutique hotel,86.0,2,Private room,0,-43.38685995636604,-22.968553576373854,3,3
+Rio De Janeiro,Condominium,850.0,6,Entire home/apt,Botafogo,-43.18810142586044,-22.95195417372592,13,13
+Rio De Janeiro,Apartment,1250.0,6,Entire home/apt,Copacabana,-43.18773342918093,-22.976748748799693,34,34
+Rio De Janeiro,Apartment,298.0,6,Entire home/apt,Copacabana,-43.18899327109758,-22.979091504554468,95,95
+Rio De Janeiro,Apartment,291.0,6,Entire home/apt,Copacabana,-43.1853585947234,-22.96688899227961,0,0
+Rio De Janeiro,Hostel,149.0,2,Private room,Maracanã,-43.23087208227381,-22.91506000867233,0,0
+Rio De Janeiro,Apartment,30.0,6,Shared room,0,-43.18146500943758,-22.96579936104836,1,1
+Rio De Janeiro,Apartment,86.0,4,Entire home/apt,0,-43.18121332876767,-22.964553213888863,0,0
+Rio De Janeiro,Apartment,351.0,5,Entire home/apt,Ipanema,-43.1984941188805,-22.98174186842633,0,0
+Rio De Janeiro,Apartment,149.0,6,Entire home/apt,Vila Clementino,-43.42810251850948,-23.00884822358248,44,44
+Rio De Janeiro,Apartment,164.0,3,Entire home/apt,Copacabana,-43.18483787150524,-22.96802273935993,2,2
+Rio De Janeiro,Apartment,310.0,3,Entire home/apt,Ipanema,-43.20085213746528,-22.981858614190504,2,2
+Rio De Janeiro,Apartment,1119.0,4,Entire home/apt,Laranjeiras,-43.18226159855448,-22.936218406687715,0,0
+Rio De Janeiro,Apartment,6002.0,6,Entire home/apt,Leblon,-43.187812921418406,-22.97494289268332,0,0
+Rio De Janeiro,Apartment,325.0,4,Entire home/apt,0,-43.19235654948744,-22.982149572273705,1,1
+Rio De Janeiro,Apartment,201.0,4,Private room,0,-43.40026088647492,-22.96582085696907,0,0
+Rio De Janeiro,Apartment,619.0,4,Entire home/apt,Opéra - Grands Boulevards,-43.22784574381933,-22.976462304901503,1,1
+Rio De Janeiro,Apartment,131.0,3,Entire home/apt,Copacabana,-43.18718456816157,-22.967091594195264,16,16
+Rio De Janeiro,Apartment,82.0,3,Entire home/apt,Laranjeiras,-43.17957097915109,-22.934684245400756,0,0
+Rio De Janeiro,Condominium,250.0,2,Private room,0,-43.39751500160934,-22.96790919221629,2,2
+Rio De Janeiro,House,71.0,2,Entire home/apt,Parada de Lucas,-43.29676263073681,-22.816388006091728,0,0
+Rio De Janeiro,Apartment,250.0,3,Entire home/apt,0,-43.22808916689376,-22.984893625479053,3,3
+Rio De Janeiro,Apartment,231.0,4,Entire home/apt,Flamengo,-43.19014247542373,-22.984062698107213,2,2
+Rio De Janeiro,House,1000.0,4,Private room,0,-43.39925910373475,-22.963649715409364,0,0
+Rio De Janeiro,Apartment,798.0,4,Private room,0,-43.3784512685221,-22.967368557701523,0,0
+Rio De Janeiro,House,1999.0,10,Shared room,0,-43.37717041763941,-22.958386205584063,1,1
+Rio De Janeiro,Apartment,149.0,5,Entire home/apt,Copacabana,-43.18923945702505,-22.980694673782537,47,47
+Rio De Janeiro,Apartment,119.0,4,Entire home/apt,Leblon,-43.19468776411647,-22.98429235594679,5,5
+Rio De Janeiro,Apartment,78.0,2,Private room,Laranjeiras,-43.179986361692464,-22.934147737102347,0,0
+Rio De Janeiro,Apartment,298.0,2,Private room,Ipanema,-43.20482124326665,-22.98101328072026,2,2
+Rio De Janeiro,Condominium,1701.0,12,Entire home/apt,Barra da Tijuca,-43.344495885394124,-23.009052932155523,1,1
+Rio De Janeiro,Serviced apartment,160.0,2,Entire home/apt,Botafogo,-43.18290485401979,-22.953429842875952,17,17
+Rio De Janeiro,Apartment,90.0,5,Private room,Flamengo,-43.17373209549835,-22.94022647963295,32,32
+Rio De Janeiro,Apartment,201.0,2,Private room,Leblon,-43.21954175082818,-22.981946093764247,23,23
+Rio De Janeiro,Apartment,351.0,6,Entire home/apt,Copacabana,-43.17434177324787,-22.963813564505323,3,3
+Rio De Janeiro,House,298.0,6,Entire home/apt,0,-43.48059256763556,-22.977772875785774,0,0
+Rio De Janeiro,Apartment,776.0,4,Entire home/apt,Copacabana,-43.18834471025182,-22.976773857668213,3,3
+Rio De Janeiro,Apartment,97.0,3,Entire home/apt,0,-43.17862215898904,-22.96608814297593,5,5
+Rio De Janeiro,House,1865.0,12,Entire home/apt,Barra da Tijuca,-43.35434051966628,-23.00821011766656,0,0
+Rio De Janeiro,Apartment,145.0,2,Entire home/apt,Barra da Tijuca,-43.31949536808822,-23.006591934107966,2,2
+Rio De Janeiro,Apartment,149.0,3,Entire home/apt,0,-43.18662928619766,-22.968132232886543,95,95
+Rio De Janeiro,Apartment,541.0,4,Entire home/apt,Ipanema,-43.1887439193746,-22.97616534733188,0,0
+Rio De Janeiro,Bed and breakfast,168.0,2,Private room,Santa Teresa,-43.18941884593226,-22.92386338355972,143,143
+Rio De Janeiro,Apartment,175.0,3,Entire home/apt,Copacabana,-43.17576132873204,-22.952301437846344,0,0
+Rio De Janeiro,Apartment,351.0,1,Private room,0,-43.21830263650278,-22.96519427083948,0,0
+Rio De Janeiro,Apartment,325.0,4,Entire home/apt,Ipanema,-43.21103431782641,-22.98385851223473,11,11
+Rio De Janeiro,Condominium,690.0,8,Entire home/apt,Barra da Tijuca,-43.3294077147465,-23.011459700518376,4,4
+Rio De Janeiro,Apartment,201.0,6,Entire home/apt,0,-43.23529129295523,-22.97917147515013,3,3
+Rio De Janeiro,Apartment,179.0,4,Entire home/apt,Copacabana,-43.17568838612593,-22.96029524923354,113,113
+Rio De Janeiro,Apartment,2611.0,6,Private room,Tijuca,-43.22026380561493,-22.92322624540684,0,0
+Rio De Janeiro,Apartment,201.0,3,Entire home/apt,Copacabana,-43.1872931684858,-22.974836112866804,12,12
+Rio De Janeiro,Apartment,671.0,6,Entire home/apt,Barra da Tijuca,-43.34366862122735,-23.01010957402265,24,24
+Rio De Janeiro,House,97.0,5,Private room,0,-43.20475237067608,-22.80369559925885,17,17
+Rio De Janeiro,Apartment,298.0,4,Private room,0,-43.1829877915535,-22.900572329666712,1,1
+Rio De Janeiro,Condominium,228.0,6,Entire home/apt,Flamengo,-43.17459193170093,-22.937286676508734,111,111
+Rio De Janeiro,Apartment,351.0,8,Entire home/apt,Copacabana,-43.192394114527616,-22.97494827925532,0,0
+Rio De Janeiro,Apartment,101.0,3,Entire home/apt,Copacabana,-43.19027208242078,-22.97185923441976,15,15
+Rio De Janeiro,Serviced apartment,500.0,4,Entire home/apt,0,-43.32757785990409,-23.01140230361176,4,4
+Rio De Janeiro,Apartment,108.0,4,Entire home/apt,Recreio dos Bandeirantes,-43.49321846774024,-23.02083419067571,19,19
+Rio De Janeiro,Apartment,142.0,4,Entire home/apt,Santa Teresa,-43.19058945671261,-22.924244403860055,19,19
+Rio De Janeiro,Apartment,119.0,2,Entire home/apt,0,-43.1862050026487,-22.915795156390477,12,12
+Rio De Janeiro,House,5502.0,16,Entire home/apt,Barra da Tijuca,-43.41976199613926,-22.997687616294844,0,0
+Rio De Janeiro,Apartment,246.0,4,Entire home/apt,Copacabana,-43.18636131559526,-22.970618835546944,4,4
+Rio De Janeiro,Serviced apartment,101.0,2,Entire home/apt,Copacabana,-43.17652688267036,-22.961961218731403,92,92
+Rio De Janeiro,Apartment,250.0,2,Private room,0,-43.38677907854566,-22.966354670980976,0,0
+Rio De Janeiro,House,3730.0,8,Entire home/apt,Ipanema,-43.20674159191011,-22.98318927930252,7,7
+Rio De Janeiro,Other,451.0,3,Entire home/apt,Lapa,-43.17961475035171,-22.964090783531653,0,0
+Rio De Janeiro,Apartment,216.0,4,Entire home/apt,Copacabana,-43.17539500582481,-22.964594415650225,0,0
+Rio De Janeiro,Apartment,138.0,4,Entire home/apt,Jardim Botânico,-43.18504057858179,-22.950313507664287,0,0
+Rio De Janeiro,Apartment,1802.0,8,Entire home/apt,Copacabana,-43.190186599650126,-22.983047230789303,1,1
+Rio De Janeiro,Apartment,250.0,3,Private room,Irajá,-43.32314337963672,-22.85196551436599,2,2
+Rio De Janeiro,Apartment,1499.0,6,Entire home/apt,0,-43.19521073777903,-22.98515768125023,1,1
+Rio De Janeiro,Apartment,560.0,4,Entire home/apt,Santa Teresa,-43.18590238415861,-22.922411743082236,0,0
+Rio De Janeiro,Apartment,500.0,1,Private room,0,-43.17680548663649,-22.93678229766353,2,2
+Rio De Janeiro,Apartment,201.0,3,Entire home/apt,Copacabana,-43.19046130165236,-22.976698329213757,14,14
+Rio De Janeiro,Apartment,291.0,2,Private room,Barra da Tijuca,-43.37196105024481,-23.01139250924476,0,0
+Rio De Janeiro,Apartment,201.0,5,Entire home/apt,0,-43.26501071031305,-22.92155058709969,0,0
+Rio De Janeiro,Apartment,175.0,6,Entire home/apt,Leblon,-43.17245273478108,-22.96426756070825,91,91
+Rio De Janeiro,Apartment,142.0,2,Private room,0,-43.18981895850035,-22.98359323820537,5,5
+Rio De Janeiro,Apartment,4498.0,4,Entire home/apt,Copacabana,-43.19213713094674,-22.97142409732532,0,0
+Rio De Janeiro,Apartment,701.0,6,Entire home/apt,Leblon,-43.22306805247676,-22.98414420140097,27,27
+Rio De Janeiro,Apartment,392.0,4,Entire home/apt,Copacabana,-43.185466986809175,-22.972320634618416,7,7
+Rio De Janeiro,Apartment,399.0,4,Entire home/apt,Ipanema,-43.2094657780822,-22.985709707060657,12,12
+Rio De Janeiro,Hostel,601.0,4,Private room,0,-43.2383038770407,-22.932416660150533,0,0
+Rio De Janeiro,Loft,149.0,2,Entire home/apt,Santa Teresa,-43.17758290670382,-22.918236838685864,0,0
+Rio De Janeiro,Apartment,41.0,1,Private room,Lapa,-43.17390114597928,-22.911671245286293,0,0
+Rio De Janeiro,Apartment,399.0,2,Entire home/apt,Ipanema,-43.20292557199069,-22.98157988991893,4,4
+Rio De Janeiro,Apartment,298.0,2,Private room,0,-43.34070126558797,-22.92720713050604,0,0
+Rio De Janeiro,Apartment,220.0,3,Entire home/apt,Leme,-43.17306842860139,-22.96099670681764,56,56
+Rio De Janeiro,Apartment,101.0,2,Entire home/apt,Copacabana,-43.189304204978704,-22.978756685779924,35,35
+Rio De Janeiro,Apartment,250.0,5,Entire home/apt,Recreio dos Bandeirantes,-43.51122148081966,-23.019182606226934,1,1
+Rio De Janeiro,Apartment,101.0,2,Entire home/apt,Laranjeiras,-43.18210077303726,-22.9344642155179,4,4
+Rio De Janeiro,Apartment,500.0,6,Entire home/apt,Copacabana,-43.18414288760948,-22.970608091218523,1,1
+Rio De Janeiro,Apartment,108.0,2,Entire home/apt,0,-43.413896463087376,-22.97404368109086,26,26
+Rio De Janeiro,Apartment,198.0,4,Entire home/apt,Ipanema,-43.17458410281832,-22.963580574787592,1,1
+Rio De Janeiro,House,1444.0,16,Entire home/apt,Ipanema,-43.18265182495336,-22.93988056399624,0,0
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,Copacabana,-43.1854607821627,-22.96905050322832,0,0
+Rio De Janeiro,Apartment,377.0,2,Entire home/apt,Leblon,-43.22797132429346,-22.98667769766149,0,0
+Rio De Janeiro,Apartment,104.0,1,Private room,Catumbi,-43.19306782705259,-22.916146943684616,0,0
+Rio De Janeiro,Apartment,101.0,2,Private room,0,-43.208941782382105,-22.919290089687333,1,1
+Rio De Janeiro,Condominium,201.0,1,Private room,0,-43.32005393936848,-23.0087700339068,2,2
+Rio De Janeiro,Apartment,67.0,2,Entire home/apt,0,-43.19112038902159,-22.983219377528822,24,24
+Rio De Janeiro,Apartment,101.0,3,Entire home/apt,Catete,-43.17823418639687,-22.925439862942348,2,2
+Rio De Janeiro,Apartment,127.0,2,Private room,Lapa,-43.1742493081525,-22.91219053052872,43,43
+Rio De Janeiro,Apartment,168.0,4,Entire home/apt,Ipanema,-43.20362663891892,-22.983508564264493,0,0
+Rio De Janeiro,Apartment,246.0,6,Entire home/apt,0,-43.18076965018176,-22.969865695516564,4,4
+Rio De Janeiro,Apartment,201.0,3,Entire home/apt,Leblon,-43.22393926567802,-22.98140315231524,19,19
+Rio De Janeiro,House,71.0,2,Private room,0,-43.38317917864104,-22.943987570940173,2,2
+Rio De Janeiro,Condominium,250.0,4,Entire home/apt,Copacabana,-43.17968350439843,-22.965476099031008,0,0
+Rio De Janeiro,Apartment,351.0,5,Entire home/apt,Ipanema,-43.19369643242798,-22.985192888934357,2,2
+Rio De Janeiro,Serviced apartment,160.0,4,Entire home/apt,Santa Teresa,-43.179866419091326,-22.91883814648638,75,75
+Rio De Janeiro,Apartment,187.0,4,Entire home/apt,Copacabana,-43.19072719492715,-22.982918380828945,35,35
+Rio De Janeiro,Apartment,548.0,2,Entire home/apt,Leme,-43.172436514896255,-22.96285368052704,0,0
+Rio De Janeiro,House,101.0,3,Private room,Grajaú,-43.254812622976,-22.919667645231225,0,0
+Rio De Janeiro,Serviced apartment,298.0,4,Entire home/apt,Humaitá,-43.1997376615213,-22.95792977662092,1,1
+Rio De Janeiro,Apartment,451.0,10,Entire home/apt,Copacabana,-43.19108109985895,-22.97805931377289,0,0
+Rio De Janeiro,Serviced apartment,369.0,3,Entire home/apt,Vidigal,-43.18822533645001,-22.973207953474823,3,3
+Rio De Janeiro,Apartment,668.0,6,Entire home/apt,0,-43.22165332153727,-22.982693396483548,0,0
+Rio De Janeiro,Apartment,201.0,2,Private room,Barra da Tijuca,-43.35856376288552,-22.989971108927783,1,1
+Rio De Janeiro,Loft,149.0,2,Entire home/apt,Ipanema,-43.21183832660308,-22.986408245066123,1,1
+Rio De Janeiro,House,500.0,12,Entire home/apt,0,-43.41899665288906,-23.003707685043462,8,8
+Rio De Janeiro,Apartment,97.0,3,Entire home/apt,Vila Mariana,-43.18298112387927,-22.96827522014027,2,2
+Rio De Janeiro,Condominium,41.0,1,Private room,Engenho Novo,-43.2718506152968,-22.913544431538625,0,0
+Rio De Janeiro,Apartment,280.0,4,Entire home/apt,0,-43.16990793229011,-22.961917625695435,5,5
+Rio De Janeiro,Apartment,56.0,2,Private room,0,-43.2212814243648,-22.92322135594837,2,2
+Rio De Janeiro,Apartment,145.0,2,Entire home/apt,0,-43.191166017041695,-22.974201594007827,12,12
+Rio De Janeiro,Apartment,798.0,10,Entire home/apt,Copacabana,-43.175123885006016,-22.96484718482345,1,1
+Rio De Janeiro,Apartment,228.0,4,Entire home/apt,Ipanema,-43.19004729936756,-22.983369242870747,8,8
+Rio De Janeiro,Apartment,160.0,4,Entire home/apt,Copacabana,-43.18400960598312,-22.967481487141654,112,112
+Rio De Janeiro,Apartment,179.0,2,Entire home/apt,Copacabana,-43.19176042857255,-22.984208552942004,56,56
+Rio De Janeiro,Loft,2007.0,14,Private room,Ipanema,-43.19647519526836,-22.9816385135248,0,0
+Rio De Janeiro,Apartment,380.0,6,Entire home/apt,0,-43.35145315428824,-22.991557299870923,1,1
+Rio De Janeiro,Apartment,399.0,2,Entire home/apt,0,-43.16787185909529,-22.960606359512926,0,0
+Rio De Janeiro,Apartment,500.0,6,Entire home/apt,Copacabana,-43.18540182712648,-22.97155338624361,4,4
+Other (International),Bed and breakfast,791.0,3,Private room,Barra de Guaratiba,-43.565773011893135,-23.063062210623134,0,0
+Rio De Janeiro,Apartment,201.0,2,Private room,Leblon,-43.225294376011504,-22.983461878374587,0,0
+Rio De Janeiro,Serviced apartment,149.0,4,Entire home/apt,Cosme Velho,-43.192172060911446,-22.97816322890879,1,1
+Rio De Janeiro,Serviced apartment,231.0,4,Entire home/apt,0,-43.32660113166177,-23.01059878382915,4,4
+Rio De Janeiro,Apartment,500.0,2,Private room,0,-43.168843584669325,-22.96303373226786,0,0
+Rio De Janeiro,Apartment,101.0,4,Entire home/apt,0,-43.187835684525936,-22.913318358563096,0,0
+Rio De Janeiro,Apartment,671.0,8,Entire home/apt,0,-43.19348797580616,-22.98565659450063,1,1
+Rio De Janeiro,Apartment,4103.0,4,Entire home/apt,Leblon,-43.22293867729065,-22.98159983616068,0,0
+Rio De Janeiro,Apartment,179.0,3,Entire home/apt,Vila Mariana,-43.20249709494274,-22.98062600140178,0,0
+Rio De Janeiro,Condominium,798.0,5,Entire home/apt,0,-43.24124566410823,-22.920462054999827,0,0
+Rio De Janeiro,Apartment,220.0,5,Entire home/apt,0,-43.23199809418035,-22.983423936897665,54,54
+Rio De Janeiro,Apartment,500.0,4,Entire home/apt,0,-43.21865932885744,-22.89137664124726,0,0
+Rio De Janeiro,Apartment,701.0,12,Entire home/apt,0,-43.30306676334505,-23.015204158417465,6,6
+Rio De Janeiro,House,500.0,4,Private room,0,-43.372876631869616,-22.831651503313893,0,0
+Rio De Janeiro,Apartment,119.0,2,Private room,Copacabana,-43.19352248330092,-22.97786798080593,63,63
+Rio De Janeiro,Apartment,1119.0,6,Entire home/apt,0,-43.24819712420408,-22.91967003844231,0,0
+Rio De Janeiro,Apartment,548.0,6,Entire home/apt,Jardim Botânico,-43.22167425187253,-22.9641787347926,4,4
+Rio De Janeiro,Apartment,119.0,2,Private room,Tijuca,-43.21744851663849,-22.920937445649315,0,0
+Rio De Janeiro,Apartment,601.0,4,Entire home/apt,Gávea,-43.22633480140057,-22.97351196220028,0,0
+Rio De Janeiro,Apartment,951.0,8,Entire home/apt,Lagoa,-43.20198128494685,-22.961310128349428,0,0
+Rio De Janeiro,Apartment,750.0,8,Entire home/apt,0,-43.19125726164982,-22.977083052562325,0,0
+Rio De Janeiro,Apartment,1999.0,4,Entire home/apt,Flamengo,-43.17680652295373,-22.943141334834984,0,0
+Rio De Janeiro,House,1100.0,10,Entire home/apt,0,-43.35305406070436,-22.96014461777141,0,0
+Rio De Janeiro,Apartment,1306.0,6,Entire home/apt,0,-43.384890842035055,-22.97028849992462,0,0
+Rio De Janeiro,Apartment,250.0,4,Entire home/apt,Copacabana,-43.18807897048011,-22.966199032846383,3,3
+Rio De Janeiro,Apartment,601.0,6,Entire home/apt,0,-43.21228514556785,-22.91199201947122,0,0
+Rio De Janeiro,Apartment,160.0,4,Entire home/apt,0,-43.19203099225543,-22.965611895048283,1,1
+Rio De Janeiro,Apartment,701.0,3,Private room,0,-43.23839830996877,-22.91611118195069,0,0
+Rio De Janeiro,Apartment,280.0,4,Entire home/apt,Barra da Tijuca,-43.32427114566512,-23.00683607538989,13,13
+Rio De Janeiro,Apartment,1865.0,8,Entire home/apt,0,-43.38414113962708,-22.966008685832477,0,0
+Rio De Janeiro,House,149.0,3,Entire home/apt,Lapa,-43.18136289087773,-22.915254577724543,20,20
+Rio De Janeiro,Apartment,824.0,4,Entire home/apt,Copacabana,-43.18443509903109,-22.96555633033624,0,0
+Rio De Janeiro,Condominium,160.0,2,Entire home/apt,0,-43.41475104690912,-22.972346265020736,1,1
+Rio De Janeiro,Apartment,86.0,4,Private room,Santa Teresa,-43.18567356705788,-22.91888291225681,0,0
+Rio De Janeiro,Apartment,328.0,2,Private room,0,-43.31315291150412,-23.01290276363715,0,0
+Rio De Janeiro,Apartment,500.0,4,Entire home/apt,Flamengo,-43.17764486134304,-22.939532711204407,4,4
+Rio De Janeiro,Apartment,239.0,2,Private room,0,-43.26714695477693,-22.89056733605081,0,0
+Rio De Janeiro,Apartment,418.0,5,Entire home/apt,Copacabana,-43.22267354102435,-22.98309431737578,2,2
+Rio De Janeiro,Apartment,149.0,2,Entire home/apt,Copacabana,-43.193566035844455,-22.98451387004615,5,5
+Rio De Janeiro,Apartment,250.0,2,Entire home/apt,Gávea,-43.23698186313212,-22.97683593752365,1,1
+Rio De Janeiro,House,101.0,2,Private room,Santa Teresa,-43.19380835331095,-22.915358985852382,0,0
+Rio De Janeiro,Villa,41.0,1,Private room,Andaraí,-43.24694348253448,-22.928687490237493,0,0
+Rio De Janeiro,Apartment,239.0,4,Entire home/apt,0,-43.18975294741321,-22.974542260494506,67,67
+Rio De Janeiro,Apartment,250.0,4,Entire home/apt,Copacabana,-43.18959971426915,-22.98152745375921,0,0
+Rio De Janeiro,Loft,220.0,4,Entire home/apt,Copacabana,-43.17911901714794,-22.964758322115088,4,4
+Rio De Janeiro,Apartment,93.0,3,Private room,Centro,-43.17648100350555,-22.91588752729169,0,0
+Rio De Janeiro,House,2999.0,10,Entire home/apt,0,-43.35204976203463,-22.93901557252204,0,0
+Rio De Janeiro,Apartment,698.0,4,Entire home/apt,Barra da Tijuca,-43.32658650309711,-23.00960435293922,0,0
+Rio De Janeiro,Apartment,295.0,3,Entire home/apt,0,-43.192401935888654,-22.985061210067524,0,0
+Rio De Janeiro,Apartment,500.0,5,Entire home/apt,0,-43.20230152392792,-22.97935864518836,0,0
+Rio De Janeiro,Apartment,515.0,4,Entire home/apt,Leme,-43.173415987510296,-22.965422950425285,15,15
+Rio De Janeiro,Condominium,500.0,6,Entire home/apt,Catete,-43.17917148540948,-22.928545087819728,0,0
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,Leblon,-43.226299421988685,-22.98434608761522,1,1
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,Copacabana,-43.18122480226719,-22.96933797591784,0,0
+Rio De Janeiro,Apartment,500.0,4,Entire home/apt,Copacabana,-43.187856507045566,-22.96667503355081,1,1
+Rio De Janeiro,Apartment,216.0,4,Entire home/apt,Flamengo,-43.17736559344502,-22.934892525536696,2,2
+Rio De Janeiro,Condominium,250.0,5,Entire home/apt,Lapa,-43.185134822836375,-22.91427460134011,0,0
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,Botafogo,-43.18625226121471,-22.97051095277177,0,0
+Rio De Janeiro,Apartment,981.0,6,Entire home/apt,Ipanema,-43.200836728464765,-22.98213533255516,0,0
+Rio De Janeiro,Apartment,119.0,4,Entire home/apt,0,-43.47282451720555,-23.02797981428597,0,0
+Rio De Janeiro,Apartment,265.0,6,Entire home/apt,Flamengo,-43.17854113746737,-22.93431636872765,0,0
+Rio De Janeiro,Apartment,791.0,8,Entire home/apt,0,-43.18059581291919,-22.91626746762345,1,1
+Rio De Janeiro,Serviced apartment,250.0,4,Private room,Copacabana,-43.18555320399866,-22.96900027778002,1,1
+Rio De Janeiro,Condominium,500.0,7,Entire home/apt,Barra da Tijuca,-43.37118095485536,-23.001051968022303,0,0
+Rio De Janeiro,Apartment,351.0,6,Entire home/apt,Copacabana,-43.39057377606943,-22.968501598218552,0,0
+Rio De Janeiro,Apartment,250.0,3,Entire home/apt,Leme,-43.17083635806168,-22.96270333534132,1,1
+Rio De Janeiro,Apartment,201.0,5,Entire home/apt,Copacabana,-43.181273988604175,-22.96448298680193,0,0
+Rio De Janeiro,Apartment,224.0,2,Entire home/apt,Copacabana,-43.1819181446616,-22.96776638572468,24,24
+Rio De Janeiro,Apartment,1201.0,7,Entire home/apt,0,-43.18988253059425,-22.97518519124278,0,0
+Rio De Janeiro,Apartment,261.0,4,Entire home/apt,Laranjeiras,-43.18305558212906,-22.93644635375004,1,1
+Rio De Janeiro,Serviced apartment,459.0,3,Entire home/apt,Barra da Tijuca,-43.35433174362467,-23.010713029226924,1,1
+Rio De Janeiro,Apartment,127.0,3,Private room,Tijuca,-43.23208916164074,-22.93181130274821,3,3
+Rio De Janeiro,Apartment,201.0,5,Entire home/apt,Maracanã,-43.21799581527157,-22.914875022919023,3,3
+Rio De Janeiro,Apartment,257.0,4,Entire home/apt,Flamengo,-43.174889220604925,-22.92426936319266,10,10
+Rio De Janeiro,Apartment,164.0,4,Entire home/apt,Copacabana,-43.200373532313,-22.984446544659807,93,93
+Rio De Janeiro,Apartment,560.0,1,Private room,Ipanema,-43.1998704851129,-22.98191338947123,0,0
+Rio De Janeiro,Apartment,298.0,4,Entire home/apt,Barra da Tijuca,-43.32084825593519,-23.01218384099668,16,16
+Rio De Janeiro,Apartment,145.0,2,Private room,Botafogo,-43.22438875495487,-22.96221540823626,0,0
+Rio De Janeiro,Apartment,1201.0,6,Entire home/apt,Copacabana,-43.19515331594631,-22.98279303424604,0,0
+Rio De Janeiro,Apartment,112.0,3,Entire home/apt,Praça da Bandeira,-43.21412005341833,-22.912422342892768,0,0
+Rio De Janeiro,Apartment,474.0,5,Entire home/apt,0,-43.203627046607,-22.98263899033797,16,16
+Rio De Janeiro,Apartment,149.0,1,Private room,0,-43.18351446845545,-22.931686079449907,0,0
+Rio De Janeiro,Apartment,101.0,4,Entire home/apt,Estacio,-43.2063933581498,-22.914730794351065,1,1
+Rio De Janeiro,Apartment,160.0,3,Private room,Leblon,-43.22685597814176,-22.979161638502973,11,11
+Rio De Janeiro,Apartment,101.0,3,Entire home/apt,Copacabana,-43.18528474231668,-22.97025862376159,1,1
+Rio De Janeiro,House,172.0,7,Entire home/apt,0,-43.595116683044736,-22.901330765550263,0,0
+Other (International),House,392.0,8,Entire home/apt,Barra de Guaratiba,-43.567711135204846,-23.064334319655416,0,0
+Rio De Janeiro,Apartment,108.0,2,Entire home/apt,Barra da Tijuca,-43.32724684631953,-23.00335454176576,23,23
+Rio De Janeiro,Apartment,149.0,2,Private room,Ipanema,-43.19839655849066,-22.98211845185002,10,10
+Rio De Janeiro,Apartment,399.0,2,Private room,0,-43.18186279488744,-22.96502572399953,0,0
+Rio De Janeiro,Apartment,392.0,5,Entire home/apt,Copacabana,-43.19026723485284,-22.986312099814512,0,0
+Rio De Janeiro,Serviced apartment,500.0,4,Entire home/apt,Copacabana,-43.21377423630173,-22.985618348594446,0,0
+Rio De Janeiro,Apartment,78.0,1,Shared room,Estacio,-43.206200975012464,-22.915819208931,0,0
+Rio De Janeiro,Condominium,1999.0,8,Entire home/apt,0,-43.23146921874229,-22.985403065027803,0,0
+Rio De Janeiro,Apartment,138.0,2,Entire home/apt,Flamengo,-43.17814619979946,-22.936829208830687,1,1
+Rio De Janeiro,Apartment,45.0,2,Private room,Recreio dos Bandeirantes,-43.45692219929574,-23.014966906587578,0,0
+Rio De Janeiro,Apartment,399.0,1,Private room,São Conrado,-43.24980158667629,-22.99315142808293,0,0
+Rio De Janeiro,Apartment,78.0,1,Private room,Barra da Tijuca,-43.34844489853658,-23.00125311517097,0,0
+Rio De Janeiro,Apartment,250.0,2,Private room,Catumbi,-43.19621497828868,-22.918042755925818,0,0
+Rio De Janeiro,Apartment,78.0,3,Private room,Vila Isabel,-43.25423837247646,-22.91570091893697,0,0
+Rio De Janeiro,House,601.0,6,Entire home/apt,0,-43.19190490176507,-22.91938531021508,0,0
+Rio De Janeiro,Apartment,78.0,2,Private room,Centro,-43.18672444219647,-22.9072681760141,0,0
+Rio De Janeiro,Apartment,119.0,4,Entire home/apt,Lapa,-43.178301250158434,-22.91175745031393,35,35
+Rio De Janeiro,Casa particular (Cuba),56.0,1,Private room,Copacabana,-43.187826726539946,-22.968618498940213,2,2
+Rio De Janeiro,Apartment,261.0,4,Entire home/apt,0,-43.216320091075,-22.984207572947607,4,4
+Rio De Janeiro,Apartment,511.0,4,Entire home/apt,Leme,-43.19135498589402,-22.980414061629297,0,0
+Rio De Janeiro,Apartment,142.0,2,Private room,Ipanema,-43.19885392330072,-22.9843177448412,0,0
+Rio De Janeiro,Apartment,1119.0,4,Entire home/apt,0,-43.18034743148759,-22.965736374477085,0,0
+Rio De Janeiro,Apartment,164.0,4,Entire home/apt,0,-43.34792542922518,-22.92591120255145,0,0
+Rio De Janeiro,Condominium,451.0,10,Entire home/apt,Copacabana,-43.18670238782581,-22.96818693185744,0,0
+Rio De Janeiro,House,500.0,6,Entire home/apt,0,-43.3089920906442,-23.000267657501187,0,0
+Rio De Janeiro,Guest suite,1201.0,4,Private room,Ipanema,-43.19491003294829,-22.98679889511544,0,0
+Rio De Janeiro,Apartment,798.0,4,Entire home/apt,0,-43.39617818638937,-22.96772854125836,3,3
+Rio De Janeiro,Apartment,2301.0,6,Entire home/apt,Copacabana,-43.18314519761167,-22.97184937684447,0,0
+Rio De Janeiro,Apartment,601.0,2,Entire home/apt,Copacabana,-43.194110591711386,-22.983884115391252,0,0
+Rio De Janeiro,Apartment,149.0,3,Entire home/apt,Copacabana,-43.191698939340746,-22.977490594170355,0,0
+Rio De Janeiro,Apartment,71.0,1,Private room,Flamengo,-43.174561567332894,-22.937471050205005,0,0
+Rio De Janeiro,Hostel,933.0,2,Private room,Santa Teresa,-43.19106890468637,-22.925010251668844,0,0
+Rio De Janeiro,Apartment,601.0,3,Entire home/apt,Copacabana,-43.19143423249984,-22.97988904527634,0,0
+Rio De Janeiro,Apartment,3544.0,6,Entire home/apt,0,-43.19337185431951,-22.98561033208582,0,0
+Rio De Janeiro,Tiny house,127.0,4,Entire home/apt,Lapa,-43.17837180976206,-22.91607271423973,0,0
+Rio De Janeiro,Apartment,131.0,4,Entire home/apt,Tijuca,-43.231450171626776,-22.92706116427369,0,0
+Rio De Janeiro,Apartment,90.0,1,Private room,0,-43.41459583605654,-22.97258551817903,0,0
+Rio De Janeiro,Apartment,466.0,4,Entire home/apt,0,-43.18612140980205,-22.956530256713208,0,0
+Rio De Janeiro,House,75.0,2,Private room,0,-43.240942939170125,-22.898493891099463,0,0
+Rio De Janeiro,Apartment,601.0,6,Entire home/apt,Tijuca,-43.22350821808652,-22.92243301881654,0,0
+Rio De Janeiro,Apartment,1499.0,6,Entire home/apt,Copacabana,-43.18821833384025,-22.96837082707984,0,0
+Rio De Janeiro,Apartment,201.0,4,Entire home/apt,Recreio dos Bandeirantes,-43.51224099268608,-23.02419318876795,0,0
+Rio De Janeiro,Apartment,298.0,2,Private room,0,-43.334599802734886,-22.93592510827873,0,0
+Rio De Janeiro,Apartment,746.0,1,Private room,0,-43.44788140018425,-23.01054142728607,0,0
+Rio De Janeiro,House,168.0,16,Private room,Santa Teresa,-43.19478262863695,-22.92854412444802,65,65
+Rio De Janeiro,Apartment,101.0,2,Private room,0,-43.2589993628205,-22.877996653610207,0,0
+Rio De Janeiro,Apartment,209.0,4,Entire home/apt,Botafogo,-43.18311802407714,-22.944907761773145,55,55
+Rio De Janeiro,Apartment,119.0,5,Entire home/apt,0,-43.17933302853201,-22.912516786694592,59,59
+Rio De Janeiro,Apartment,205.0,3,Entire home/apt,Copacabana,-43.189715788928034,-22.9687851177226,4,4
+Rio De Janeiro,Guest suite,168.0,2,Private room,Ipanema,-43.20766538065688,-22.981098379281597,15,15
+Rio De Janeiro,Apartment,112.0,4,Entire home/apt,Copacabana,-43.17495677528599,-22.96375497300735,18,18
+Rio De Janeiro,Apartment,78.0,1,Private room,Copacabana,-43.18622068579519,-22.97155572586783,38,38
+Rio De Janeiro,Condominium,261.0,2,Entire home/apt,Ipanema,-43.20874666398996,-22.984881706786496,110,110
+Rio De Janeiro,Apartment,500.0,5,Entire home/apt,Barra da Tijuca,-43.32962169487895,-23.011748074828937,3,3
+Rio De Janeiro,House,149.0,1,Private room,Copacabana,-43.257535143699705,-22.994424168863947,0,0
+Rio De Janeiro,Serviced apartment,250.0,4,Entire home/apt,Ipanema,-43.19914945166575,-22.986221877558727,85,85
+Rio De Janeiro,Apartment,127.0,4,Entire home/apt,Lapa,-43.18497779513123,-22.91404061811117,1,1
+Rio De Janeiro,Apartment,1399.0,6,Entire home/apt,0,-43.1913291489288,-22.98060647760853,0,0
+Rio De Janeiro,Apartment,421.0,4,Entire home/apt,Copacabana,-43.1921492247861,-22.98516807281203,2,2
+Rio De Janeiro,Loft,131.0,2,Entire home/apt,Copacabana,-43.1893698671319,-22.98142549935892,120,120
+Rio De Janeiro,Apartment,250.0,2,Entire home/apt,Copacabana,-43.17487359186984,-22.965717412570328,8,8
+Rio De Janeiro,Apartment,149.0,8,Entire home/apt,Del Castilho,-43.26695062891928,-22.87535477564589,4,4
+Rio De Janeiro,Apartment,1201.0,4,Entire home/apt,Leblon,-43.22493379425124,-22.98262471839025,0,0
+Rio De Janeiro,House,649.0,4,Private room,Botafogo,-43.19527492250779,-22.952226638860164,0,0
+Rio De Janeiro,Apartment,250.0,2,Private room,0,-43.18539442074947,-22.96782230672513,3,3
+Rio De Janeiro,House,373.0,3,Private room,0,-43.34985884309783,-22.901240859120584,0,0
+Rio De Janeiro,Apartment,627.0,4,Entire home/apt,0,-43.183055580810034,-22.966597231660884,0,0
+Rio De Janeiro,Apartment,280.0,2,Entire home/apt,Barra da Tijuca,-43.1692965156276,-22.96391203034684,8,8
+Rio De Janeiro,Apartment,101.0,2,Entire home/apt,Santa Teresa,-43.18070885752972,-22.921838779943485,6,6
+Rio De Janeiro,Apartment,172.0,4,Entire home/apt,Laranjeiras,-43.191228426649324,-22.93854896835188,6,6
+Rio De Janeiro,Apartment,149.0,2,Private room,Humaitá,-43.20185859128582,-22.95975324850045,3,3
+Rio De Janeiro,Serviced apartment,3253.0,13,Entire home/apt,Ipanema,-43.20256262652219,-22.9863327988552,39,39
+Rio De Janeiro,Apartment,242.0,2,Entire home/apt,Copacabana,-43.19288647832656,-22.98525512891079,7,7
+Rio De Janeiro,Apartment,295.0,4,Entire home/apt,0,-43.19144219127161,-22.93776591171072,18,18
+Rio De Janeiro,Apartment,351.0,4,Entire home/apt,0,-43.22718325535556,-22.98536600315653,68,68
+Rio De Janeiro,Apartment,209.0,3,Entire home/apt,Copacabana,-43.18762322712818,-22.973476307102757,64,64
+Rio De Janeiro,Apartment,254.0,3,Entire home/apt,Leblon,-43.22646361977887,-22.982480566105338,6,6
+Rio De Janeiro,Apartment,380.0,4,Entire home/apt,Leblon,-43.221427297607,-22.982019663050377,1,1
+Rio De Janeiro,Apartment,201.0,1,Private room,Santa Teresa,-43.1990506005056,-22.934702609506576,1,1
+Rio De Janeiro,Apartment,578.0,4,Entire home/apt,Copacabana,-43.19227750435189,-22.9850441757955,79,79
+Rio De Janeiro,House,131.0,2,Private room,Laranjeiras,-43.19422109364074,-22.942947850019745,47,47
+Rio De Janeiro,Apartment,1529.0,6,Entire home/apt,Copacabana,-43.18073167675713,-22.967602566301853,0,0
+Rio De Janeiro,Apartment,280.0,3,Entire home/apt,0,-43.18677729197896,-22.91433026699405,0,0
+Rio De Janeiro,Apartment,261.0,2,Entire home/apt,Leblon,-43.22620317989102,-22.983939895931087,101,101
+Rio De Janeiro,Serviced apartment,119.0,1,Private room,Copacabana,-43.19017673407163,-22.96554937276806,6,6
+Rio De Janeiro,Apartment,336.0,6,Entire home/apt,Flamengo,-43.20359812683914,-22.9606390215596,1,1
+Rio De Janeiro,Apartment,280.0,3,Private room,Tijuca,-43.240687342821936,-22.93398200734629,1,1
+Rio De Janeiro,Apartment,86.0,2,Entire home/apt,Copacabana,-43.18988836219794,-22.974900031194963,91,91
+Rio De Janeiro,Apartment,194.0,3,Entire home/apt,Lapa,-43.18818960438212,-22.97290870496596,12,12
+Rio De Janeiro,Apartment,298.0,2,Private room,0,-43.21860860011489,-22.96368944052264,0,0
+Rio De Janeiro,Apartment,93.0,2,Private room,0,-43.18303005916341,-22.91708439783365,1,1
+Rio De Janeiro,Apartment,601.0,5,Entire home/apt,Leblon,-43.22194982909297,-22.98362152345008,4,4
+Rio De Janeiro,Apartment,101.0,2,Private room,Copacabana,-43.19008521494207,-22.975486285711717,17,17
+Rio De Janeiro,Apartment,201.0,2,Private room,Copacabana,-43.18883359835319,-22.974949853421453,21,21
+Rio De Janeiro,Serviced apartment,250.0,4,Entire home/apt,Barra da Tijuca,-43.35713332585941,-23.00981234873527,36,36
+Rio De Janeiro,Apartment,187.0,4,Entire home/apt,Copacabana,-43.17930699462975,-22.963560904332823,6,6
+Rio De Janeiro,Apartment,153.0,2,Entire home/apt,0,-43.17557404295421,-22.938719402532804,0,0
+Rio De Janeiro,Apartment,101.0,4,Entire home/apt,Centro,-43.18826350057249,-22.916629528368336,1,1
+Rio De Janeiro,Apartment,451.0,6,Entire home/apt,Barra da Tijuca,-43.30898060561674,-23.01516910450516,40,40
+Rio De Janeiro,Apartment,97.0,2,Private room,Copacabana,-43.19052018844617,-22.98073361968456,45,45
+Rio De Janeiro,Apartment,201.0,4,Entire home/apt,Ipanema,-43.20084120164455,-22.98504997058126,101,101
+Rio De Janeiro,Apartment,179.0,4,Entire home/apt,Copacabana,-43.19298460413519,-22.982136743865308,9,9
+Rio De Janeiro,Guest suite,347.0,2,Entire home/apt,Ipanema,-43.17739595940224,-22.96610000356921,2,2
+Rio De Janeiro,Loft,138.0,4,Entire home/apt,Copacabana,-43.17206189898937,-22.96207566549646,43,43
+Rio De Janeiro,Apartment,895.0,6,Entire home/apt,Copacabana,-43.20499653688999,-22.9844112936756,2,2
+Rio De Janeiro,Apartment,101.0,2,Private room,Copacabana,-43.18850615382097,-22.973129014011548,13,13
+Rio De Janeiro,Apartment,1891.0,10,Entire home/apt,Copacabana,-43.18586737856383,-22.96876072460609,0,0
+Rio De Janeiro,Apartment,145.0,4,Entire home/apt,Copacabana,-43.18829729959148,-22.97433634246824,23,23
+Rio De Janeiro,Apartment,298.0,6,Entire home/apt,Ipanema,-43.19931834008216,-22.981942430356344,15,15
+Rio De Janeiro,Apartment,78.0,2,Private room,Ipanema,-43.1987408663964,-22.984820262121534,73,73
+Rio De Janeiro,Apartment,701.0,10,Entire home/apt,0,-43.29146044688672,-22.90510560134033,0,0
+Rio De Janeiro,Apartment,1000.0,4,Entire home/apt,Ipanema,-43.199271780650776,-22.979186033760865,3,3
+Rio De Janeiro,Apartment,190.0,3,Entire home/apt,Copacabana,-43.18822162768543,-22.970112700305062,114,114
+Rio De Janeiro,Apartment,1790.0,6,Entire home/apt,Botafogo,-43.19279186042643,-22.95052251259201,0,0
+Rio De Janeiro,Apartment,1499.0,8,Entire home/apt,Ipanema,-43.17822730311397,-22.96539812985642,0,0
+Rio De Janeiro,Apartment,157.0,2,Entire home/apt,Copacabana,-43.19556815835065,-22.982738721442143,227,227
+Rio De Janeiro,House,86.0,2,Private room,Todos os Santos,-43.28815453293831,-22.900517430354583,1,1
+Rio De Janeiro,Apartment,190.0,5,Entire home/apt,Ipanema,-43.208947252933214,-22.984064324510875,149,149
+Rio De Janeiro,Apartment,149.0,5,Entire home/apt,Ipanema,-43.19568749147897,-22.985071907544643,86,86
+Rio De Janeiro,Apartment,179.0,2,Private room,0,-43.21372343354956,-22.921080278212028,1,1
+Rio De Janeiro,House,1701.0,16,Entire home/apt,Copacabana,-43.19298277926956,-22.98032332188258,0,0
+Rio De Janeiro,Condominium,190.0,2,Entire home/apt,0,-43.38501244953872,-22.9697111164902,5,5
+Rio De Janeiro,Apartment,48.0,1,Private room,Copacabana,-43.17888410382214,-22.966203750575392,12,12
+Rio De Janeiro,Apartment,500.0,6,Entire home/apt,Leme,-43.19500310634185,-22.95282123080277,2,2
+Rio De Janeiro,Loft,175.0,2,Entire home/apt,0,-43.2063321958324,-22.95966265720807,21,21

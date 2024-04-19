@@ -1,0 +1,583 @@
+city,property_type,price,accommodates,room_type,host_neighbourhood,Latitudes,Longitudes,number_of_reviews,number_of_reviews
+Sydney,House,64.0,2,Private room,Coogee,151.25541,-33.92398,8,8
+Sydney,Apartment,181.0,2,Entire home/apt,Surry Hills,151.21554,-33.88029,64,64
+Sydney,Apartment,185.0,2,Entire home/apt,Darlinghurst,151.21346,-33.87603,109,109
+Sydney,Apartment,36.0,2,Private room,0,151.26969,-33.79629,4,4
+Sydney,Apartment,117.0,2,Entire home/apt,0,151.29792,-33.71472,61,61
+Sydney,House,250.0,2,Entire home/apt,Lilyfield/Rozelle,151.17956,-33.86296,0,0
+Sydney,House,999.0,6,Entire home/apt,Greenwich,151.18563,-33.8289,0,0
+Sydney,Guesthouse,129.0,2,Entire home/apt,0,151.15036,-33.90318,146,146
+Sydney,House,399.0,8,Entire home/apt,North Bondi,151.27448,-33.8872,139,139
+Sydney,Guest suite,45.0,5,Entire home/apt,Balgowlah,151.26108,-33.7975,104,104
+Sydney,Apartment,85.0,2,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.22559,-33.87604,2,2
+Sydney,House,500.0,8,Entire home/apt,0,151.31572,-33.65212,3,3
+Sydney,House,65.0,2,Private room,Marrickville,151.15851,-33.89931,84,84
+Sydney,Apartment,119.0,2,Entire home/apt,Neutral Bay,151.22133,-33.87521,9,9
+Sydney,Cabin,109.0,2,Entire home/apt,0,151.15761,-34.08087,230,230
+Sydney,Apartment,461.0,3,Entire home/apt,Woollahra,151.23526,-33.88944,35,35
+Sydney,Apartment,161.0,3,Entire home/apt,Neutral Bay,151.21478,-33.84297,41,41
+Sydney,House,75.0,2,Private room,0,151.2009,-33.90987,2,2
+Sydney,House,125.0,1,Private room,Lilyfield/Rozelle,151.16994,-33.86771,12,12
+Sydney,Apartment,124.0,4,Entire home/apt,0,151.00818,-33.81861,0,0
+Sydney,House,650.0,8,Entire home/apt,Woolloomooloo,151.21842,-33.86943,0,0
+Sydney,Townhouse,171.0,4,Private room,Darlington,151.1965,-33.88848,3,3
+Sydney,House,55.0,1,Private room,Bondi Beach,151.26826,-33.89172,1,1
+Sydney,Chalet,242.0,2,Entire home/apt,Bondi,151.26907,-33.89605,0,0
+Sydney,Apartment,151.0,2,Entire home/apt,0,151.32223,-33.662,2,2
+Sydney,Apartment,165.0,2,Entire home/apt,Waterloo,151.21181,-33.90087,0,0
+Sydney,Apartment,53.0,2,Private room,Pyrmont,151.1943,-33.87351,0,0
+Sydney,Apartment,225.0,7,Entire home/apt,0,151.26982,-33.89741,27,27
+Sydney,Condominium,171.0,4,Entire home/apt,Bondi Junction,151.25656,-33.89333,12,12
+Sydney,Apartment,139.0,2,Entire home/apt,Bondi Beach,151.27247,-33.88875,32,32
+Sydney,Apartment,125.0,2,Entire home/apt,0,151.20677,-33.8671,70,70
+Sydney,Apartment,70.0,2,Entire home/apt,Waterloo,151.20691,-33.89836,0,0
+Sydney,Apartment,65.0,2,Private room,Waterloo,151.20377,-33.90017,21,21
+Sydney,House,80.0,2,Private room,Redfern,151.21378,-33.89373,73,73
+Sydney,Condominium,85.0,2,Private room,Manly,151.29282,-33.80031,52,52
+Sydney,Apartment,70.0,2,Private room,Bondi Beach,151.27036,-33.89275,0,0
+Sydney,Apartment,200.0,4,Entire home/apt,Newtown/Enmore,151.1971,-33.8708,66,66
+Sydney,House,999.0,10,Entire home/apt,0,151.30735,-33.6907,3,3
+Sydney,Guest suite,60.0,2,Private room,Arncliffe,151.15274,-33.937,469,469
+Sydney,Apartment,569.0,2,Private room,0,151.21532,-33.89307,0,0
+Sydney,Apartment,200.0,4,Entire home/apt,Chatswood,151.20904,-33.86252,25,25
+Sydney,Apartment,370.0,8,Entire home/apt,Haymarket,151.21355,-33.87546,46,46
+Sydney,Apartment,139.0,2,Entire home/apt,Mosman,151.23757,-33.83325,67,67
+Sydney,Apartment,209.0,5,Entire home/apt,Haymarket,151.21367,-33.87702,4,4
+Sydney,Bed and breakfast,139.0,4,Private room,0,151.23946,-33.53785,30,30
+Sydney,Apartment,230.0,2,Entire home/apt,Potts Point,151.21476,-33.87586,10,10
+Sydney,Townhouse,80.0,2,Private room,Paddington,151.23062,-33.88743,35,35
+Sydney,Apartment,161.0,2,Entire home/apt,Wollstonecraft/Waverton,151.20637,-33.86903,48,48
+Sydney,Apartment,188.0,6,Entire home/apt,0,151.07343,-33.84673,105,105
+0,Apartment,254.0,4,Entire home/apt,Waverly,151.25337,-33.90298,1,1
+Sydney,House,50.0,2,Private room,Bondi,151.26186,-33.8964,0,0
+Sydney,House,151.0,2,Private room,0,151.30006,-33.76212,0,0
+Sydney,Apartment,199.0,5,Entire home/apt,Darlinghurst,151.22801,-33.87621,1,1
+Sydney,Serviced apartment,205.0,3,Entire home/apt,Manly,151.28492,-33.79762,97,97
+Sydney,Apartment,119.0,2,Entire home/apt,Potts Point,151.22488,-33.87049,206,206
+Sydney,Apartment,125.0,2,Entire home/apt,0,151.22674,-33.87226,92,92
+Sydney,Apartment,699.0,8,Entire home/apt,0,151.27924,-33.77183,0,0
+Sydney,Apartment,38.0,1,Private room,Bondi,151.27023,-33.89507,0,0
+Sydney,Apartment,45.0,2,Private room,Monterey,151.15248,-33.96822,123,123
+Sydney,House,100.0,2,Private room,Surry Hills,151.21272,-33.88189,68,68
+Sydney,House,50.0,2,Private room,Newtown/Enmore,151.17393,-33.89695,0,0
+Sydney,Apartment,45.0,2,Private room,Zetland,151.21019,-33.9073,0,0
+Sydney,House,181.0,5,Entire home/apt,0,151.20925,-33.74605,0,0
+Sydney,Apartment,100.0,2,Entire home/apt,Neutral Bay,151.21491,-33.84125,130,130
+Sydney,Apartment,550.0,10,Entire home/apt,North Sydney,151.20197,-33.84212,73,73
+Sydney,Apartment,149.0,4,Entire home/apt,Central Business District,151.20828,-33.86397,221,221
+Sydney,Apartment,90.0,2,Private room,Mosman,151.23421,-33.82085,58,58
+Sydney,House,471.0,6,Entire home/apt,Balgowlah,151.26172,-33.80093,2,2
+Sydney,Apartment,100.0,2,Private room,North Bondi,151.28483,-33.88969,2,2
+Sydney,House,1105.0,8,Entire home/apt,Abbotsford,151.24345,-33.83772,0,0
+Sydney,Apartment,171.0,4,Entire home/apt,Central Business District,151.21345,-33.87552,4,4
+Sydney,Apartment,390.0,6,Entire home/apt,Bronte,151.26412,-33.90304,139,139
+Sydney,Apartment,151.0,2,Entire home/apt,Surry Hills,151.21088,-33.88515,9,9
+Sydney,House,689.0,14,Entire home/apt,Avalon,151.31642,-33.62564,72,72
+Sydney,House,350.0,8,Entire home/apt,Surry Hills,151.2154,-33.88424,1,1
+Sydney,Townhouse,75.0,2,Private room,Redfern,151.20036,-33.89368,17,17
+Sydney,Apartment,43.0,1,Private room,Randwick,151.24591,-33.91446,94,94
+Sydney,Apartment,350.0,5,Entire home/apt,Tamarama,151.27248,-33.89868,2,2
+Sydney,Apartment,115.0,2,Entire home/apt,Kingsford,151.23721,-33.93316,2,2
+Sydney,Guest suite,88.0,7,Entire home/apt,0,150.95347,-33.76119,123,123
+Sydney,House,399.0,4,Entire home/apt,Rose Bay/Dover Heights,151.27395,-33.87128,0,0
+Sydney,House,2000.0,5,Entire home/apt,North Bondi,151.27836,-33.88816,0,0
+Sydney,Apartment,225.0,1,Private room,0,151.25417,-33.87964,2,2
+Sydney,Apartment,135.0,2,Private room,0,151.18622,-33.92391,3,3
+Sydney,Apartment,240.0,2,Entire home/apt,Randwick,151.24573,-33.91571,2,2
+Sydney,House,300.0,5,Entire home/apt,Surry Hills,151.21271,-33.88871,1,1
+Sydney,Townhouse,119.0,2,Private room,Glebe,151.18334,-33.88081,0,0
+Sydney,House,999.0,6,Entire home/apt,Bronte,151.26372,-33.90277,3,3
+Sydney,Loft,225.0,6,Entire home/apt,Rosebery,151.20181,-33.91585,100,100
+Sydney,Apartment,171.0,4,Entire home/apt,North Bondi,151.27247,-33.88472,3,3
+Sydney,Apartment,169.0,3,Entire home/apt,Bondi Beach,151.2729,-33.8949,87,87
+Sydney,Apartment,350.0,2,Entire home/apt,0,151.28247,-33.79309,2,2
+Sydney,Apartment,171.0,5,Entire home/apt,Malabar,151.25151,-33.96629,144,144
+Sydney,Cabin,109.0,2,Entire home/apt,Petersham,151.1561,-33.89618,80,80
+Sydney,Apartment,100.0,2,Entire home/apt,Kensington,151.22424,-33.91078,47,47
+Sydney,House,280.0,4,Entire home/apt,Manly,151.27912,-33.79106,4,4
+Sydney,Townhouse,380.0,8,Entire home/apt,Millers Point,151.20532,-33.86119,31,31
+Sydney,Apartment,119.0,1,Private room,Darlinghurst,151.22814,-33.8771,43,43
+Sydney,House,1200.0,12,Entire home/apt,Mosman,151.32905,-33.61089,0,0
+Sydney,Townhouse,181.0,6,Entire home/apt,Newtown/Enmore,151.17563,-33.90135,34,34
+Sydney,Townhouse,296.0,10,Entire home/apt,Brighton-Le-Sands,151.00705,-33.9544,1,1
+Sydney,House,260.0,8,Entire home/apt,0,151.15653,-34.084,40,40
+Sydney,Condominium,175.0,2,Private room,0,151.21538,-33.87897,1,1
+Sydney,Apartment,151.0,2,Entire home/apt,Central Business District,151.21023,-33.87815,47,47
+Sydney,House,36.0,1,Private room,0,151.07671,-33.79841,41,41
+Sydney,Apartment,300.0,8,Entire home/apt,Pyrmont,151.19396,-33.87175,3,3
+Sydney,Apartment,100.0,2,Entire home/apt,Zetland,151.20954,-33.90502,1,1
+Sydney,House,500.0,8,Entire home/apt,Bondi Beach,151.26919,-33.88709,2,2
+Sydney,House,151.0,5,Private room,Petersham,151.15609,-33.89753,55,55
+Sydney,House,135.0,2,Private room,0,151.04927,-33.81454,5,5
+Sydney,Apartment,161.0,4,Entire home/apt,Avalon,151.31776,-33.62716,47,47
+Sydney,House,118.0,2,Entire home/apt,0,151.32562,-33.63131,37,37
+Sydney,Apartment,119.0,4,Entire home/apt,0,151.24527,-33.92244,4,4
+Sydney,Townhouse,55.0,2,Private room,Hurstville,151.10714,-33.97051,16,16
+Sydney,Apartment,50.0,2,Private room,0,151.25062,-33.92619,0,0
+Sydney,Apartment,129.0,4,Private room,Bondi Junction,151.25213,-33.89164,12,12
+Sydney,Apartment,50.0,1,Private room,0,151.13956,-33.93171,1,1
+Sydney,Apartment,100.0,4,Entire home/apt,0,151.07851,-33.82516,115,115
+Sydney,Apartment,100.0,3,Private room,Manly,151.2868,-33.79024,0,0
+Sydney,Apartment,159.0,5,Entire home/apt,Haymarket,151.07253,-33.84753,109,109
+Sydney,Apartment,161.0,4,Entire home/apt,Bondi Junction,151.25654,-33.89424,1,1
+Sydney,Apartment,250.0,5,Entire home/apt,Central Business District,151.20686,-33.86413,102,102
+Sydney,Apartment,108.0,2,Entire home/apt,0,151.20045,-33.88645,27,27
+Sydney,Apartment,50.0,2,Private room,0,151.07919,-33.82625,1,1
+Sydney,Apartment,90.0,2,Entire home/apt,0,151.26191,-33.8927,1,1
+Sydney,Serviced apartment,161.0,3,Entire home/apt,Pyrmont,151.20372,-33.86836,132,132
+Sydney,Cabin,100.0,3,Entire home/apt,St Peters,151.17758,-33.91258,70,70
+Sydney,House,119.0,2,Entire home/apt,Balmain/Birchgrove,151.18048,-33.85557,12,12
+Sydney,Apartment,203.0,4,Entire home/apt,Manly,151.28481,-33.79748,171,171
+Sydney,Townhouse,350.0,8,Entire home/apt,0,151.15522,-34.04533,63,63
+Sydney,Apartment,129.0,2,Entire home/apt,0,151.19855,-33.89753,30,30
+Sydney,Apartment,200.0,4,Entire home/apt,Haymarket,151.20524,-33.87528,6,6
+Sydney,House,185.0,4,Entire home/apt,Balmain/Birchgrove,151.17802,-33.85209,21,21
+Sydney,Apartment,51.0,2,Private room,Redfern,151.21552,-33.89609,2,2
+Sydney,House,249.0,8,Entire home/apt,0,151.17179,-33.75039,6,6
+Sydney,Apartment,70.0,2,Private room,0,151.13183,-33.99202,0,0
+Sydney,Apartment,70.0,2,Entire home/apt,0,151.27104,-33.88863,3,3
+Sydney,Apartment,146.0,4,Entire home/apt,Bellevue Hill,151.25774,-33.87589,61,61
+Sydney,House,280.0,5,Entire home/apt,0,151.1452,-34.08139,28,28
+Sydney,House,60.0,1,Private room,Surry Hills,151.21187,-33.88413,1,1
+Sydney,Apartment,61.0,2,Entire home/apt,Vaucluse/Watsons Bay,151.28165,-33.86357,1,1
+Sydney,Apartment,71.0,2,Private room,North Bondi,151.27372,-33.88521,1,1
+Sydney,Villa,63.0,2,Private room,0,151.12489,-33.78763,46,46
+Sydney,Loft,100.0,1,Private room,Darlinghurst,151.19911,-33.89235,0,0
+Sydney,Apartment,85.0,2,Private room,0,151.25894,-33.90539,10,10
+Sydney,House,109.0,2,Private room,Bellevue Hill,151.26394,-33.88356,19,19
+Sydney,Apartment,159.0,4,Entire home/apt,Randwick,151.23572,-33.90579,48,48
+Sydney,House,500.0,8,Entire home/apt,0,151.30139,-33.59329,60,60
+Sydney,Apartment,70.0,2,Private room,Redfern,151.21617,-33.8948,4,4
+Sydney,Cabin,70.0,2,Private room,Annandale/Leichhardt,151.16088,-33.87968,175,175
+Sydney,Apartment,350.0,7,Entire home/apt,North Bondi,151.28557,-33.8906,2,2
+Sydney,Apartment,151.0,1,Private room,Paddington,151.23079,-33.88789,0,0
+Sydney,Apartment,449.0,6,Entire home/apt,Mosman,151.29014,-33.79971,66,66
+Sydney,Apartment,85.0,2,Private room,0,151.21217,-33.8455,0,0
+Sydney,Apartment,260.0,6,Entire home/apt,Bondi Beach,151.26711,-33.88795,14,14
+Sydney,Apartment,635.0,2,Private room,0,151.13905,-33.95362,0,0
+Sydney,Townhouse,109.0,4,Entire home/apt,0,151.13553,-33.9069,74,74
+Sydney,House,115.0,4,Entire home/apt,Kingsgrove,151.1014,-33.93378,72,72
+Sydney,Apartment,188.0,4,Entire home/apt,North Bondi,151.28176,-33.88274,2,2
+Sydney,House,58.0,1,Private room,Bondi Junction,151.24273,-33.89401,25,25
+Sydney,Apartment,181.0,4,Entire home/apt,Bondi,151.27108,-33.8957,1,1
+Sydney,Apartment,97.0,2,Entire home/apt,Redfern,151.20201,-33.89304,18,18
+Sydney,Apartment,300.0,4,Entire home/apt,Palm Beach,151.31928,-33.60002,0,0
+Sydney,Apartment,181.0,2,Private room,Balmain/Birchgrove,151.18602,-33.85905,0,0
+Sydney,Apartment,135.0,4,Entire home/apt,Darlinghurst,151.19174,-33.87946,99,99
+Sydney,House,65.0,1,Private room,Newtown/Enmore,151.17845,-33.90528,3,3
+Sydney,Guest suite,70.0,3,Entire home/apt,0,150.82356,-34.04409,25,25
+Sydney,House,695.0,7,Entire home/apt,Bondi,151.26359,-33.89488,5,5
+Sydney,Condominium,129.0,2,Entire home/apt,0,151.20752,-33.90408,2,2
+Sydney,House,161.0,6,Entire home/apt,0,150.95948,-33.75052,151,151
+Sydney,House,47.0,1,Private room,0,150.92501,-33.67463,6,6
+Sydney,House,40.0,2,Private room,0,150.73077,-33.72241,29,29
+Sydney,Apartment,125.0,2,Entire home/apt,Surry Hills,151.18425,-33.8837,51,51
+Sydney,Apartment,139.0,4,Entire home/apt,Coogee,151.25463,-33.92647,1,1
+Sydney,House,80.0,2,Entire home/apt,0,151.20011,-33.79154,33,33
+Sydney,Apartment,129.0,4,Entire home/apt,Mascot,151.19107,-33.92407,28,28
+Sydney,Apartment,70.0,4,Entire home/apt,0,151.13138,-33.90947,2,2
+Sydney,Guest suite,151.0,2,Entire home/apt,0,151.32068,-33.6212,9,9
+Sydney,House,73.0,2,Private room,0,151.24997,-33.9661,16,16
+Sydney,Guest suite,300.0,2,Entire home/apt,Greenwich,151.18298,-33.82787,3,3
+Sydney,House,264.0,6,Entire home/apt,Glebe,151.18843,-33.87791,56,56
+Sydney,Apartment,141.0,4,Entire home/apt,0,151.27232,-33.88826,40,40
+Sydney,House,395.0,6,Entire home/apt,Kingsford,151.2337,-33.93401,1,1
+Sydney,House,274.0,7,Entire home/apt,Chippendale,151.19858,-33.88672,3,3
+Sydney,Apartment,145.0,4,Entire home/apt,Manly,151.21634,-33.84424,74,74
+Sydney,House,350.0,3,Entire home/apt,Paddington,151.22243,-33.88325,21,21
+Sydney,Apartment,195.0,5,Entire home/apt,Palm Beach,151.29402,-33.80149,12,12
+Sydney,Townhouse,63.0,2,Private room,Alexandria,151.19156,-33.89957,3,3
+Sydney,House,200.0,4,Entire home/apt,Central Business District,151.1542,-33.91676,24,24
+Sydney,House,75.0,2,Private room,Hurstville,151.09262,-33.97391,7,7
+Sydney,Apartment,50.0,1,Private room,Bondi Beach,151.26665,-33.89161,2,2
+Sydney,Townhouse,600.0,6,Entire home/apt,Manly,151.28998,-33.80067,2,2
+Sydney,Apartment,300.0,4,Entire home/apt,0,151.29793,-33.71992,4,4
+Sydney,Apartment,50.0,2,Private room,Woollahra,151.24043,-33.88909,1,1
+Sydney,Apartment,129.0,3,Entire home/apt,0,151.28567,-33.75922,8,8
+Sydney,Apartment,94.0,2,Entire home/apt,0,151.00892,-33.81722,0,0
+Sydney,Apartment,999.0,2,Private room,Beaconsfield,151.19946,-33.914,0,0
+Sydney,House,43.0,2,Private room,Padstow,151.03201,-33.95576,45,45
+Sydney,Apartment,168.0,4,Entire home/apt,Central Business District,151.21095,-33.90617,35,35
+Sydney,Apartment,60.0,1,Private room,0,151.25427,-33.91163,0,0
+Sydney,Apartment,115.0,2,Entire home/apt,Randwick,151.24847,-33.90849,9,9
+Sydney,Apartment,90.0,2,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.22752,-33.87478,6,6
+Sydney,Apartment,195.0,4,Entire home/apt,Surry Hills,151.20129,-33.88749,73,73
+Sydney,Apartment,550.0,2,Entire home/apt,Bronte,151.25921,-33.90432,0,0
+Sydney,House,105.0,2,Entire home/apt,0,151.31135,-33.66131,77,77
+Sydney,Townhouse,50.0,1,Private room,0,151.1859,-33.90239,0,0
+Sydney,Apartment,129.0,2,Entire home/apt,Surry Hills,151.214,-33.87941,72,72
+Sydney,Apartment,151.0,3,Entire home/apt,Manly,151.28619,-33.79257,4,4
+Sydney,Apartment,70.0,2,Private room,Waterloo,151.21444,-33.89914,15,15
+Sydney,Apartment,129.0,4,Entire home/apt,Mosman,151.23467,-33.83608,39,39
+Sydney,House,419.0,8,Entire home/apt,Coogee,151.21926,-33.87866,149,149
+Sydney,Apartment,80.0,2,Private room,0,151.2754,-33.7574,0,0
+Sydney,Apartment,290.0,4,Entire home/apt,0,151.26842,-33.89923,41,41
+Sydney,House,328.0,8,Entire home/apt,Coogee,151.25182,-33.94927,5,5
+Sydney,Apartment,60.0,2,Entire home/apt,Marrickville,151.14664,-33.91329,1,1
+Sydney,House,590.0,6,Entire home/apt,Balgowlah,151.25322,-33.78975,3,3
+Sydney,Apartment,751.0,2,Entire home/apt,Potts Point,151.22603,-33.86963,4,4
+Sydney,Apartment,119.0,2,Entire home/apt,Neutral Bay,151.21297,-33.8364,2,2
+Sydney,Apartment,250.0,6,Entire home/apt,Central Business District,151.20154,-33.8295,28,28
+Sydney,Apartment,499.0,9,Entire home/apt,Bondi,151.26689,-33.89372,2,2
+Sydney,Cabin,80.0,4,Shared room,0,150.99625,-33.79092,2,2
+Sydney,Apartment,119.0,2,Private room,0,151.24984,-33.89084,0,0
+Sydney,House,70.0,1,Private room,Darlinghurst,151.21536,-33.87614,20,20
+Sydney,House,181.0,16,Entire home/apt,0,150.8797,-33.98757,55,55
+Sydney,House,299.0,6,Entire home/apt,Sans Souci,151.13593,-33.99682,3,3
+Sydney,Apartment,300.0,6,Entire home/apt,Manly,151.28683,-33.78675,1,1
+Sydney,House,48.0,1,Private room,Erskineville,151.186,-33.90095,0,0
+Sydney,House,355.0,11,Entire home/apt,0,151.2639,-33.89884,36,36
+Sydney,Apartment,247.0,10,Entire home/apt,Ultimo,151.20178,-33.88306,76,76
+Sydney,Apartment,218.0,6,Entire home/apt,Surry Hills,151.2101,-33.88173,85,85
+Sydney,Apartment,139.0,2,Entire home/apt,Breakfast Point/Cabarita,151.07904,-33.82766,4,4
+Sydney,Apartment,118.0,2,Private room,Central Business District,151.20309,-33.87345,3,3
+Sydney,Apartment,235.0,6,Entire home/apt,Central Business District,151.20903,-33.8644,161,161
+Sydney,House,50.0,1,Private room,0,151.19701,-33.88925,3,3
+Sydney,Apartment,181.0,2,Entire home/apt,Haymarket,151.20649,-33.88406,82,82
+Sydney,Guest suite,119.0,2,Entire home/apt,0,151.26535,-33.90039,54,54
+Sydney,Apartment,135.0,4,Entire home/apt,Ultimo,151.19665,-33.88181,65,65
+Sydney,Apartment,181.0,6,Entire home/apt,Haymarket,151.20742,-33.87951,92,92
+Sydney,Apartment,60.0,2,Private room,0,151.29774,-33.71797,0,0
+Sydney,House,45.0,1,Private room,0,150.98024,-33.84736,12,12
+Sydney,Apartment,151.0,4,Entire home/apt,Haymarket,151.20899,-33.87929,62,62
+Sydney,Guest suite,118.0,3,Entire home/apt,0,151.29737,-33.75839,7,7
+Sydney,Condominium,296.0,7,Entire home/apt,Bellevue Hill,151.25416,-33.87239,9,9
+Sydney,House,499.0,7,Entire home/apt,Mosman,151.28537,-33.79054,0,0
+Sydney,Apartment,171.0,3,Entire home/apt,Newtown/Enmore,151.19355,-33.86632,24,24
+Sydney,Townhouse,145.0,4,Entire home/apt,Erskineville,151.18805,-33.89864,13,13
+Sydney,Apartment,181.0,5,Entire home/apt,0,151.24671,-33.90454,3,3
+Sydney,Townhouse,75.0,2,Private room,0,151.07197,-33.84395,0,0
+Sydney,Apartment,60.0,1,Private room,Surry Hills,151.21005,-33.88883,2,2
+Sydney,House,107.0,2,Private room,Annandale/Leichhardt,151.17142,-33.8844,4,4
+Sydney,Guest suite,171.0,3,Entire home/apt,Campsie,151.10888,-33.91235,2,2
+Sydney,Apartment,100.0,2,Private room,Artarmon,151.18731,-33.81257,11,11
+Sydney,Apartment,90.0,2,Private room,Fairlight,151.27924,-33.79599,57,57
+Sydney,Apartment,250.0,8,Entire home/apt,Zetland,151.21087,-33.90603,57,57
+Sydney,Apartment,139.0,2,Entire home/apt,Darlinghurst,151.2724,-33.89243,49,49
+Sydney,House,340.0,15,Entire home/apt,Maroubra,151.2557,-33.9455,174,174
+Sydney,Apartment,139.0,2,Entire home/apt,0,151.28347,-33.89228,1,1
+Sydney,Townhouse,45.0,1,Private room,Summer Hill,151.15874,-33.91262,25,25
+Sydney,House,849.0,9,Entire home/apt,Avalon,151.31235,-33.63588,8,8
+Sydney,Villa,33.0,1,Private room,0,151.0034,-33.72709,1,1
+Sydney,Apartment,87.0,2,Private room,Mosman,151.24256,-33.81529,0,0
+Sydney,Apartment,189.0,3,Entire home/apt,Bondi Beach,151.27321,-33.89372,43,43
+Sydney,Townhouse,60.0,1,Shared room,0,151.12352,-33.93258,0,0
+Sydney,Hostel,40.0,1,Private room,Surry Hills,151.21,-33.87893,1,1
+Sydney,Apartment,119.0,4,Entire home/apt,0,151.21345,-33.90017,2,2
+Sydney,Apartment,161.0,2,Entire home/apt,0,151.18159,-33.78727,1,1
+Sydney,Apartment,101.0,4,Entire home/apt,0,151.12125,-33.6674,54,54
+Sydney,House,60.0,2,Private room,0,151.0716,-33.78411,2,2
+Sydney,Apartment,119.0,2,Entire home/apt,Surry Hills,151.21718,-33.88653,73,73
+Sydney,House,343.0,4,Entire home/apt,Central Business District,151.2698,-33.89855,1,1
+Sydney,Guesthouse,139.0,2,Entire home/apt,0,151.20798,-33.89819,50,50
+Sydney,House,179.0,6,Entire home/apt,Bondi Beach,151.26674,-33.88897,16,16
+Sydney,Guest suite,230.0,3,Entire home/apt,Vaucluse/Watsons Bay,151.2792,-33.84018,47,47
+Sydney,Apartment,70.0,3,Private room,Strathfield,151.0915,-33.86595,3,3
+Sydney,House,95.0,3,Private room,0,151.28331,-33.76099,24,24
+Sydney,Apartment,60.0,2,Private room,Wolli Creek,151.14975,-33.93548,35,35
+Sydney,House,1100.0,8,Entire home/apt,0,151.28634,-33.76776,2,2
+Sydney,House,100.0,2,Private room,North Bondi,151.26978,-33.88233,2,2
+Sydney,House,1321.0,10,Entire home/apt,Abbotsford,151.27716,-33.85372,0,0
+Sydney,Villa,2356.0,8,Entire home/apt,0,151.3216,-33.66479,0,0
+Sydney,Serviced apartment,210.0,2,Entire home/apt,Central Business District,151.20425,-33.86297,46,46
+Sydney,House,95.0,5,Entire home/apt,0,150.65194,-33.71722,0,0
+Sydney,House,800.0,4,Entire home/apt,0,151.28069,-33.86307,0,0
+Sydney,Apartment,109.0,4,Entire home/apt,Maroubra,151.25741,-33.94568,1,1
+Sydney,Apartment,300.0,2,Private room,0,151.27776,-33.88856,0,0
+Sydney,Apartment,119.0,3,Entire home/apt,Bondi,151.26131,-33.89634,2,2
+Sydney,Apartment,70.0,1,Shared room,North Bondi,151.27945,-33.88432,0,0
+Sydney,House,63.0,2,Private room,0,151.21344,-33.88457,0,0
+Sydney,House,63.0,2,Private room,North Sydney,151.20538,-33.83904,4,4
+Sydney,Apartment,850.0,4,Entire home/apt,Darlinghurst,151.33219,-33.60514,1,1
+Sydney,Apartment,129.0,4,Entire home/apt,LB of Hammersmith & Fulham,151.27351,-33.88922,0,0
+Sydney,Apartment,419.0,6,Entire home/apt,North Bondi,151.25625,-33.91676,24,24
+Sydney,Apartment,200.0,4,Entire home/apt,Chatswood,151.20138,-33.82616,1,1
+Sydney,Guest suite,109.0,2,Entire home/apt,0,151.15151,-33.88792,157,157
+Sydney,Apartment,178.0,4,Entire home/apt,Darlinghurst,151.21446,-33.87698,54,54
+Sydney,Apartment,200.0,2,Entire home/apt,Potts Point,151.22437,-33.87561,2,2
+Sydney,Apartment,119.0,4,Entire home/apt,Rosebery,151.20894,-33.91327,116,116
+Sydney,Guest suite,65.0,2,Private room,0,151.00488,-33.73838,17,17
+Sydney,Apartment,200.0,4,Entire home/apt,0,151.23584,-33.87581,3,3
+Sydney,House,600.0,8,Entire home/apt,0,151.31783,-33.64421,2,2
+Sydney,Apartment,500.0,6,Entire home/apt,Surry Hills,151.21345,-33.8844,0,0
+Sydney,Apartment,75.0,2,Private room,0,151.21029,-33.88087,0,0
+Sydney,Townhouse,80.0,2,Private room,0,151.21229,-33.89048,0,0
+Sydney,Apartment,53.0,2,Private room,Bellevue Hill,151.25834,-33.87482,42,42
+Sydney,Apartment,151.0,4,Entire home/apt,Manly,151.2893,-33.80665,1,1
+Sydney,House,50.0,1,Private room,0,151.18283,-33.88448,1,1
+Sydney,Apartment,151.0,4,Entire home/apt,Kingsford,151.23178,-33.92575,26,26
+Sydney,Apartment,70.0,2,Private room,Mosman,151.23254,-33.82686,0,0
+Sydney,Condominium,70.0,2,Private room,0,151.08417,-33.82808,0,0
+Sydney,Apartment,142.0,2,Private room,Rhodes,151.08448,-33.8273,0,0
+Sydney,Apartment,100.0,2,Entire home/apt,Chippendale,151.19807,-33.88777,1,1
+Sydney,House,33.0,3,Private room,0,151.18438,-33.89516,2,2
+Sydney,Apartment,220.0,4,Entire home/apt,Manly,151.28704,-33.78924,3,3
+Sydney,Guest suite,70.0,4,Entire home/apt,0,150.93016,-33.74899,70,70
+Sydney,Apartment,125.0,3,Entire home/apt,0,151.20988,-33.90261,1,1
+Sydney,Apartment,97.0,2,Entire home/apt,0,151.2249,-33.87364,47,47
+Sydney,Apartment,156.0,6,Entire home/apt,0,151.23883,-33.87782,2,2
+Sydney,House,48.0,2,Private room,0,151.14834,-33.75452,0,0
+Sydney,House,119.0,12,Entire home/apt,0,150.91725,-33.74507,40,40
+Sydney,House,60.0,2,Private room,Newtown/Enmore,151.17746,-33.90751,10,10
+Sydney,Apartment,350.0,5,Entire home/apt,0,151.20811,-33.87815,32,32
+Sydney,Apartment,161.0,3,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.22582,-33.87433,36,36
+Sydney,Villa,30.0,3,Private room,0,150.99986,-33.73109,5,5
+Sydney,House,181.0,4,Entire home/apt,0,151.14545,-33.85484,7,7
+Sydney,Apartment,399.0,5,Entire home/apt,Manly,151.2874,-33.78834,16,16
+Sydney,House,51.0,2,Private room,Canterbury,151.11461,-33.91675,6,6
+Sydney,House,85.0,2,Private room,Paddington,151.22968,-33.88714,134,134
+Sydney,Villa,38.0,2,Private room,0,151.12484,-33.78679,25,25
+Sydney,Condominium,40.0,2,Private room,0,151.12269,-33.88474,0,0
+Sydney,Apartment,37.0,1,Private room,0,151.00813,-33.82046,1,1
+Sydney,Cottage,41.0,2,Private room,0,151.06331,-34.03079,39,39
+Sydney,Apartment,65.0,2,Private room,Glebe,151.18243,-33.87329,4,4
+Sydney,Apartment,190.0,4,Entire home/apt,0,151.31473,-33.67655,3,3
+Sydney,Apartment,259.0,6,Entire home/apt,Central Business District,151.20415,-33.8695,78,78
+Sydney,Boutique hotel,100.0,2,Private room,Strathfield,151.09333,-33.87208,1,1
+Sydney,Apartment,166.0,5,Entire home/apt,Rosebery,151.20801,-33.91599,2,2
+Sydney,House,200.0,3,Private room,0,151.30023,-33.7639,13,13
+Sydney,Apartment,148.0,2,Entire home/apt,Darlinghurst,151.21034,-33.86657,41,41
+Sydney,House,70.0,1,Private room,Kingsford,151.22519,-33.92301,1,1
+Sydney,House,425.0,6,Entire home/apt,0,151.24974,-33.79395,0,0
+Sydney,House,57.0,2,Private room,0,151.06361,-33.78271,53,53
+Sydney,Apartment,100.0,5,Entire home/apt,0,151.21113,-33.92506,36,36
+Sydney,House,70.0,1,Private room,Surry Hills,151.21572,-33.88531,16,16
+Sydney,House,65.0,2,Private room,0,151.11431,-33.81832,0,0
+Sydney,Loft,161.0,4,Entire home/apt,Surry Hills,151.20861,-33.88709,62,62
+Sydney,House,235.0,4,Entire home/apt,Paddington,151.22471,-33.88175,0,0
+Sydney,Townhouse,70.0,2,Private room,Forest Lodge,151.17949,-33.88057,35,35
+Sydney,Tiny house,16.0,1,Shared room,0,151.21065,-33.88225,0,0
+Sydney,Apartment,50.0,1,Private room,Glebe,151.1915,-33.87952,0,0
+Sydney,Apartment,109.0,2,Private room,Rhodes,151.08383,-33.83084,7,7
+Sydney,Apartment,246.0,4,Entire home/apt,Darlinghurst,151.22245,-33.87594,51,51
+Sydney,House,33.0,1,Private room,0,151.30397,-33.69212,0,0
+Sydney,Townhouse,451.0,6,Entire home/apt,Surry Hills,151.21391,-33.88587,2,2
+Sydney,Apartment,70.0,3,Private room,Mascot,151.19021,-33.92305,0,0
+Sydney,Apartment,200.0,4,Entire home/apt,0,151.27057,-33.88326,0,0
+Sydney,Apartment,200.0,2,Entire home/apt,Bondi,151.26902,-33.8944,2,2
+Sydney,Apartment,151.0,4,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.29191,-33.75445,1,1
+Sydney,House,45.0,2,Private room,0,151.2904,-33.77223,1,1
+Sydney,House,65.0,2,Private room,0,150.97336,-33.76091,0,0
+Sydney,Bungalow,500.0,8,Entire home/apt,Willoughby,151.19685,-33.79938,3,3
+Sydney,Condominium,159.0,5,Entire home/apt,Potts Point,151.13815,-33.85079,12,12
+Sydney,Townhouse,75.0,2,Private room,Erskineville,151.18387,-33.89885,11,11
+Sydney,Apartment,200.0,6,Entire home/apt,Ultimo,151.2027,-33.85929,11,11
+Sydney,Apartment,151.0,4,Entire home/apt,0,151.19281,-33.90587,0,0
+Sydney,Apartment,85.0,2,Entire home/apt,Potts Point,151.22298,-33.87245,47,47
+Sydney,Apartment,151.0,6,Entire home/apt,Chippendale,151.20932,-33.88036,60,60
+Sydney,Apartment,135.0,4,Entire home/apt,Zetland,151.21104,-33.90945,41,41
+Sydney,Apartment,75.0,2,Private room,0,151.22108,-33.83853,0,0
+Sydney,House,55.0,2,Private room,Redfern,151.21113,-33.89437,2,2
+Sydney,Apartment,161.0,4,Entire home/apt,Rose Bay/Dover Heights,151.27519,-33.86715,3,3
+Sydney,Guest suite,100.0,4,Entire home/apt,0,151.29039,-33.75595,17,17
+Sydney,Apartment,80.0,2,Entire home/apt,Manly,151.21632,-33.84401,31,31
+Sydney,Apartment,50.0,2,Private room,0,151.25051,-33.9208,2,2
+Sydney,Apartment,100.0,1,Private room,Elizabeth Bay/Rushcutters Bay,151.22773,-33.87439,11,11
+Sydney,Guest suite,149.0,2,Entire home/apt,Bronte,151.26521,-33.9004,51,51
+Sydney,House,151.0,6,Entire home/apt,0,151.08673,-33.94626,33,33
+Sydney,Apartment,129.0,2,Private room,Darlinghurst,151.21246,-33.87649,17,17
+Sydney,House,165.0,4,Entire home/apt,Monterey,151.15043,-33.97339,0,0
+Sydney,Apartment,100.0,2,Entire home/apt,Bondi Beach,151.27387,-33.89523,22,22
+Sydney,Loft,200.0,3,Entire home/apt,Woolloomooloo,151.21914,-33.8716,4,4
+Sydney,Apartment,119.0,4,Entire home/apt,0,151.29581,-33.7546,1,1
+Sydney,Guest suite,300.0,8,Entire home/apt,Balgowlah,151.23545,-33.82071,0,0
+Sydney,Apartment,600.0,4,Entire home/apt,Potts Point,151.2222,-33.87451,0,0
+Sydney,Townhouse,112.0,4,Entire home/apt,0,151.17826,-33.9118,6,6
+Sydney,Apartment,64.0,2,Entire home/apt,Forest Lodge,151.18108,-33.88433,7,7
+Sydney,Apartment,108.0,2,Entire home/apt,Darlinghurst,151.22345,-33.87199,20,20
+Sydney,Apartment,90.0,1,Private room,0,151.17798,-33.90252,3,3
+Sydney,Apartment,139.0,4,Entire home/apt,Central Business District,151.19699,-33.87509,48,48
+Sydney,Apartment,178.0,3,Entire home/apt,Central Business District,151.19653,-33.87332,0,0
+Sydney,House,71.0,2,Private room,Annandale/Leichhardt,151.1729,-33.88452,12,12
+Sydney,Serviced apartment,350.0,6,Entire home/apt,Chatswood,151.19258,-33.79566,0,0
+Sydney,Cabin,70.0,1,Entire home/apt,Malabar,151.24884,-33.96664,14,14
+Sydney,Condominium,70.0,1,Private room,Kingsford,151.23078,-33.92315,0,0
+Sydney,Apartment,181.0,4,Entire home/apt,Haymarket,151.19829,-33.89472,26,26
+Sydney,Apartment,37.0,1,Private room,Annandale/Leichhardt,151.14769,-33.8802,1,1
+Sydney,Apartment,250.0,7,Entire home/apt,Bondi Beach,151.25564,-33.92142,25,25
+Sydney,House,699.0,8,Entire home/apt,Palm Beach,151.32739,-33.60676,6,6
+Sydney,House,299.0,10,Entire home/apt,Haymarket,151.15249,-33.8464,20,20
+Sydney,Apartment,70.0,1,Private room,Bondi Beach,151.26985,-33.88589,1,1
+Sydney,Boutique hotel,249.0,2,Private room,0,151.21225,-33.88328,2,2
+Sydney,Apartment,119.0,2,Entire home/apt,Bellevue Hill,151.25552,-33.88687,0,0
+Sydney,Villa,85.0,3,Private room,0,151.1443,-33.76595,3,3
+Sydney,Apartment,135.0,7,Entire home/apt,0,151.07253,-33.84892,78,78
+Sydney,Bungalow,38.0,2,Private room,0,151.00277,-33.88303,3,3
+Sydney,Apartment,90.0,2,Entire home/apt,Potts Point,151.22326,-33.87602,6,6
+Sydney,Apartment,141.0,5,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.22731,-33.8704,26,26
+Sydney,Apartment,70.0,1,Private room,Bondi Beach,151.27412,-33.888,17,17
+Sydney,Apartment,95.0,2,Private room,0,151.20279,-33.90619,58,58
+Sydney,Guesthouse,139.0,4,Entire home/apt,0,151.16188,-34.03488,16,16
+Sydney,Serviced apartment,129.0,1,Private room,0,151.20298,-33.90758,1,1
+Sydney,House,50.0,2,Private room,0,151.00452,-34.05657,1,1
+Sydney,Apartment,129.0,4,Entire home/apt,North Bondi,151.28069,-33.88921,2,2
+Sydney,Guest suite,31.0,1,Private room,Strathfield,151.08827,-33.8716,0,0
+Sydney,Apartment,289.0,8,Entire home/apt,0,151.20352,-33.88076,12,12
+Sydney,Guesthouse,166.0,2,Entire home/apt,0,150.67621,-33.75425,9,9
+Sydney,House,55.0,2,Private room,Vaugirard,151.27183,-33.8927,0,0
+Sydney,Apartment,125.0,2,Entire home/apt,Annandale/Leichhardt,151.14584,-33.88548,1,1
+Sydney,Townhouse,105.0,2,Entire home/apt,Redfern,151.20395,-33.89247,36,36
+Sydney,Apartment,250.0,4,Entire home/apt,Artarmon,151.18233,-33.80882,8,8
+Sydney,House,350.0,5,Entire home/apt,0,151.14943,-33.88133,3,3
+Sydney,Apartment,100.0,2,Private room,Bondi Beach,151.27138,-33.88671,10,10
+Sydney,House,70.0,2,Private room,Strathfield,151.08994,-33.87188,1,1
+Sydney,House,264.0,4,Entire home/apt,Bellevue Hill,151.28013,-33.88427,0,0
+Sydney,Apartment,145.0,4,Entire home/apt,0,151.21378,-33.90256,15,15
+Sydney,House,571.0,9,Entire home/apt,0,151.13685,-34.05144,5,5
+Sydney,Apartment,109.0,2,Entire home/apt,Docklands,151.08224,-33.76994,4,4
+Sydney,Cabin,55.0,1,Private room,0,151.09337,-34.04228,86,86
+Sydney,Apartment,151.0,4,Entire home/apt,0,151.2947,-33.75288,3,3
+Sydney,Apartment,300.0,2,Private room,Bondi,151.26043,-33.89249,4,4
+Sydney,Apartment,151.0,2,Entire home/apt,Central Business District,151.2097,-33.87874,3,3
+Sydney,Apartment,55.0,2,Private room,0,150.98581,-33.83652,2,2
+Sydney,House,50.0,1,Private room,Silverwater/Newington,151.0535,-33.8361,33,33
+Sydney,Apartment,190.0,3,Entire home/apt,0,151.28945,-33.7549,2,2
+Sydney,House,43.0,2,Private room,0,151.08766,-33.76651,2,2
+Sydney,House,37.0,1,Private room,Kingsford,151.22797,-33.91976,0,0
+Sydney,Guest suite,132.0,2,Entire home/apt,0,151.32133,-33.65885,46,46
+Sydney,Apartment,98.0,2,Private room,0,151.27435,-33.89074,2,2
+Sydney,Condominium,60.0,2,Private room,0,151.08793,-33.82543,4,4
+Sydney,Apartment,90.0,2,Private room,Annandale/Leichhardt,151.16707,-33.87481,4,4
+Sydney,House,428.0,14,Entire home/apt,Beverly Hills,151.08088,-33.95031,7,7
+Sydney,Apartment,119.0,2,Entire home/apt,Redfern,151.20453,-33.8918,11,11
+Sydney,House,44.0,3,Private room,0,150.96517,-33.82507,1,1
+Sydney,House,85.0,3,Private room,0,151.27255,-33.79586,0,0
+Sydney,House,800.0,8,Entire home/apt,Balgowlah,151.24399,-33.78218,0,0
+Sydney,Apartment,125.0,6,Entire home/apt,Chippendale,151.20208,-33.88501,23,23
+Sydney,Apartment,200.0,4,Entire home/apt,Chippendale,151.19518,-33.88663,1,1
+Sydney,House,1500.0,10,Entire home/apt,0,151.25609,-33.8946,0,0
+Sydney,Apartment,100.0,2,Private room,Surry Hills,151.21275,-33.8788,15,15
+Sydney,House,50.0,1,Private room,0,150.78565,-33.73814,1,1
+Sydney,Apartment,210.0,2,Entire home/apt,0,151.27768,-33.88559,0,0
+Sydney,Apartment,80.0,1,Private room,Wollstonecraft/Waverton,151.19796,-33.83002,0,0
+Sydney,Apartment,40.0,2,Private room,Summer Hill,151.13403,-33.88921,4,4
+Sydney,House,70.0,2,Private room,Croydon,151.12629,-33.87494,1,1
+Sydney,House,82.0,1,Private room,Redfern,151.21059,-33.89388,1,1
+Sydney,Apartment,60.0,1,Private room,Kingsford,151.18822,-33.92113,4,4
+Sydney,Apartment,51.0,2,Private room,0,151.15606,-33.93457,1,1
+Sydney,Serviced apartment,200.0,4,Entire home/apt,0,151.2073,-33.87989,0,0
+Sydney,Guesthouse,109.0,2,Entire home/apt,Burwood,151.09827,-33.94163,1,1
+Sydney,Apartment,161.0,2,Entire home/apt,Bondi Beach,151.27668,-33.88763,1,1
+Sydney,Apartment,128.0,5,Entire home/apt,0,151.12236,-33.88839,6,6
+Sydney,Apartment,281.0,5,Entire home/apt,Ultimo,151.19737,-33.8709,16,16
+Sydney,Apartment,119.0,2,Entire home/apt,Bondi,151.26474,-33.89803,3,3
+Sydney,Bed and breakfast,154.0,2,Entire home/apt,Bronte,151.26382,-33.90056,249,249
+Sydney,House,108.0,4,Private room,Surry Hills,151.20777,-33.88444,8,8
+Sydney,House,520.0,8,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.25163,-33.91697,1,1
+Sydney,Apartment,161.0,2,Entire home/apt,Bondi Beach,151.27117,-33.8871,1,1
+Sydney,Apartment,90.0,2,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.22573,-33.87569,9,9
+Sydney,Apartment,139.0,2,Entire home/apt,Waverly,151.25503,-33.9003,2,2
+Sydney,Townhouse,151.0,2,Private room,Paddington,151.21766,-33.88191,104,104
+Sydney,Apartment,151.0,4,Entire home/apt,Ultimo,151.19699,-33.88235,3,3
+Sydney,Apartment,151.0,2,Entire home/apt,Dulwich Hill,151.14333,-33.89997,0,0
+Sydney,Villa,60.0,2,Private room,0,151.00081,-33.77811,1,1
+Sydney,Apartment,14.0,4,Entire home/apt,0,151.0048,-33.7995,5,5
+Sydney,Townhouse,60.0,2,Private room,0,151.16873,-33.87127,3,3
+Sydney,House,75.0,2,Private room,Chifley,151.24015,-33.97352,0,0
+Sydney,Apartment,109.0,2,Entire home/apt,Neutral Bay,151.21983,-33.83068,6,6
+Sydney,House,119.0,2,Private room,0,150.80185,-33.78762,0,0
+Sydney,Apartment,43.0,1,Private room,0,151.15599,-33.9577,0,0
+Sydney,Bungalow,100.0,4,Private room,0,150.81572,-33.98607,2,2
+Sydney,Apartment,266.0,7,Entire home/apt,0,151.29413,-33.7513,5,5
+Sydney,Apartment,80.0,2,Private room,0,151.26621,-33.88746,1,1
+Sydney,Apartment,50.0,2,Private room,0,151.22922,-33.9186,0,0
+Sydney,Serviced apartment,161.0,3,Entire home/apt,Pyrmont,151.20403,-33.87009,0,0
+Sydney,Townhouse,37.0,1,Private room,Ultimo,151.19765,-33.87796,4,4
+Sydney,Apartment,399.0,6,Entire home/apt,Manly,151.28526,-33.80705,1,1
+Sydney,Apartment,60.0,1,Private room,0,151.29126,-33.7529,0,0
+Sydney,Apartment,200.0,2,Private room,Darlinghurst,151.22095,-33.87525,141,141
+Sydney,Apartment,90.0,1,Private room,Pyrmont,151.18813,-33.86895,2,2
+Sydney,Apartment,151.0,2,Private room,Petersham,151.15718,-33.8971,64,64
+Sydney,House,181.0,2,Entire home/apt,0,151.31844,-33.6258,114,114
+Sydney,Guest suite,97.0,2,Entire home/apt,Camperdown,151.17503,-33.89421,171,171
+Sydney,Apartment,65.0,1,Private room,0,151.10404,-33.81454,8,8
+Sydney,Apartment,95.0,2,Entire home/apt,Bronte,151.26419,-33.9063,2,2
+Sydney,Apartment,70.0,2,Private room,Lilyfield/Rozelle,151.17121,-33.8672,87,87
+Sydney,House,751.0,10,Entire home/apt,Clovelly,151.25943,-33.91216,4,4
+Sydney,Apartment,100.0,2,Entire home/apt,Bondi,151.25919,-33.89548,0,0
+Sydney,Apartment,129.0,4,Entire home/apt,Darlington,151.19735,-33.88964,168,168
+Sydney,Apartment,129.0,4,Entire home/apt,0,151.27153,-33.87859,0,0
+Sydney,House,45.0,2,Private room,Padstow,151.03495,-33.96209,0,0
+Sydney,Apartment,300.0,3,Entire home/apt,Bondi Beach,151.27845,-33.88935,140,140
+Sydney,House,623.0,8,Entire home/apt,Bondi Beach,151.2714,-33.89096,14,14
+Sydney,House,90.0,2,Private room,0,151.27,-33.88736,88,88
+Sydney,Apartment,220.0,2,Entire home/apt,Elizabeth Bay/Rushcutters Bay,151.22854,-33.87062,47,47
+Sydney,Apartment,264.0,3,Entire home/apt,Manly,151.28582,-33.79526,24,24
+Sydney,House,75.0,3,Private room,Newtown/Enmore,151.17768,-33.90101,216,216
+Sydney,Apartment,100.0,2,Private room,Randwick,151.22421,-33.90264,60,60
+Sydney,Apartment,139.0,2,Entire home/apt,0,151.27341,-33.89185,15,15
+Sydney,Apartment,151.0,3,Entire home/apt,0,151.31998,-33.64825,10,10
+Sydney,Apartment,75.0,2,Entire home/apt,Darlinghurst,151.21498,-33.87438,23,23
+Sydney,Apartment,149.0,5,Entire home/apt,0,151.28369,-33.84986,7,7
+Sydney,Cabin,129.0,2,Entire home/apt,0,151.30595,-33.63665,124,124
+Sydney,Apartment,100.0,2,Entire home/apt,Newtown/Enmore,151.25696,-33.90026,21,21
+Sydney,Apartment,250.0,2,Entire home/apt,Bondi Beach,151.27039,-33.89401,12,12
+Sydney,Apartment,200.0,2,Entire home/apt,0,151.27983,-33.78158,5,5
+Sydney,Apartment,138.0,2,Entire home/apt,0,150.92642,-33.68862,48,48
+Sydney,Apartment,70.0,2,Private room,Bondi,151.27095,-33.89523,43,43
+Sydney,House,240.0,4,Entire home/apt,Glebe,151.18474,-33.88085,6,6
+Sydney,House,350.0,5,Entire home/apt,Mosman,151.23796,-33.82529,102,102
+Sydney,Apartment,185.0,2,Entire home/apt,Newtown/Enmore,151.17661,-33.89798,83,83
+Sydney,Apartment,119.0,3,Entire home/apt,Bondi Beach,151.27107,-33.88748,11,11
+Sydney,Apartment,100.0,4,Entire home/apt,0,151.28435,-33.77788,0,0
+Sydney,Apartment,151.0,2,Entire home/apt,Rosebery,151.19935,-33.91907,3,3
+Sydney,Loft,149.0,2,Entire home/apt,Surry Hills,151.21042,-33.88716,181,181
+Sydney,Apartment,124.0,2,Private room,0,151.2893,-33.80398,18,18
+Sydney,House,751.0,5,Entire home/apt,0,151.26439,-33.89715,3,3
+Sydney,House,395.0,4,Entire home/apt,Balmain/Birchgrove,151.1853,-33.85496,3,3
+Sydney,Apartment,115.0,1,Private room,Central Business District,151.20315,-33.86748,70,70
+Sydney,Apartment,129.0,2,Entire home/apt,Darlinghurst,151.2215,-33.8777,159,159
+Sydney,Apartment,100.0,2,Private room,Maroubra,151.23723,-33.94079,3,3
+Sydney,House,198.0,6,Entire home/apt,Balmain/Birchgrove,151.18079,-33.86093,57,57
+Sydney,Apartment,115.0,2,Entire home/apt,Coogee,151.25448,-33.92631,1,1
+Sydney,House,55.0,2,Private room,Redfern,151.20558,-33.88953,60,60
+Sydney,Guest suite,90.0,2,Entire home/apt,Avalon,151.31913,-33.62637,143,143
+Sydney,Apartment,100.0,2,Private room,0,151.22908,-33.87504,0,0
+Sydney,House,68.0,2,Private room,Marrickville,151.15615,-33.91341,2,2
+Sydney,Apartment,350.0,4,Entire home/apt,0,151.28769,-33.79078,2,2
+Sydney,Bungalow,65.0,2,Private room,Tempe/Sydenham,151.1666,-33.91717,29,29
+Sydney,Cottage,148.0,7,Entire home/apt,0,151.28737,-33.73137,3,3
+Sydney,House,80.0,2,Private room,Mosman,151.23888,-33.82662,20,20
+Sydney,Apartment,43.0,2,Private room,Monterey,151.15061,-33.96717,312,312
+Sydney,Apartment,60.0,2,Private room,0,151.13318,-33.85036,5,5
+Sydney,House,350.0,5,Entire home/apt,Erskineville,151.18168,-33.90376,0,0
+Sydney,House,80.0,2,Private room,Stanmore,151.16747,-33.88942,46,46
+Sydney,House,300.0,4,Entire home/apt,Randwick,151.2518,-33.90486,0,0
+Sydney,Apartment,139.0,2,Entire home/apt,Potts Point,151.22521,-33.87173,259,259
+Sydney,Apartment,999.0,2,Entire home/apt,0,151.23587,-33.87047,4,4
+Sydney,House,343.0,5,Entire home/apt,Lilyfield/Rozelle,151.158,-33.87012,1,1
+Sydney,Apartment,165.0,6,Entire home/apt,0,151.25694,-33.94541,37,37
+Sydney,Apartment,87.0,3,Entire home/apt,0,151.26204,-33.89108,2,2
+Sydney,House,495.0,7,Entire home/apt,Randwick,151.2503,-33.9096,3,3
+Sydney,House,300.0,6,Entire home/apt,0,151.26562,-33.75694,3,3
+Sydney,House,50.0,2,Private room,Newtown/Enmore,151.18704,-33.89415,8,8
+Sydney,House,55.0,1,Private room,0,151.04264,-33.77643,26,26
+Sydney,House,399.0,5,Entire home/apt,South Coogee,151.24601,-33.9279,1,1
+Sydney,Apartment,300.0,2,Private room,0,151.22606,-33.86858,27,27
+Sydney,Apartment,95.0,2,Private room,Surry Hills,151.21041,-33.88421,65,65
+Sydney,Apartment,360.0,4,Entire home/apt,Avalon,151.33898,-33.63278,110,110
+Sydney,Townhouse,300.0,6,Entire home/apt,Rose Bay/Dover Heights,151.27779,-33.86702,0,0
+Sydney,Apartment,149.0,2,Entire home/apt,Potts Point,151.22554,-33.8723,29,29
+Sydney,Apartment,225.0,4,Entire home/apt,Coogee,151.25046,-33.92002,12,12
+Sydney,Apartment,181.0,4,Entire home/apt,Glebe,151.18426,-33.87513,24,24
+Sydney,Apartment,195.0,2,Entire home/apt,Bondi Beach,151.27301,-33.88561,0,0
+Sydney,House,800.0,8,Entire home/apt,Bellevue Hill,151.25657,-33.89824,0,0
+Sydney,Apartment,270.0,2,Entire home/apt,Mosman,151.24583,-33.82078,4,4
+Sydney,Apartment,280.0,2,Entire home/apt,0,151.27184,-33.89345,11,11
+Sydney,Apartment,119.0,2,Private room,0,151.18563,-33.8766,28,28
+Sydney,House,330.0,5,Entire home/apt,Fairlight,151.27616,-33.79124,4,4
+Sydney,House,71.0,2,Private room,Waverly,151.25396,-33.89823,5,5
+Sydney,Apartment,109.0,4,Entire home/apt,0,151.27651,-33.75869,7,7
+Sydney,Apartment,55.0,1,Shared room,Mascot,151.1875,-33.92427,15,15
+Sydney,House,200.0,2,Private room,Palm Beach,151.32252,-33.60064,14,14
+Sydney,Apartment,200.0,4,Entire home/apt,Mosman,151.24366,-33.82489,0,0
+Sydney,House,260.0,4,Entire home/apt,Avalon,151.33275,-33.61943,0,0
+Sydney,House,200.0,6,Entire home/apt,0,151.13072,-34.0438,16,16
+Sydney,Bungalow,109.0,5,Entire home/apt,0,150.7154,-33.76477,88,88
+Sydney,Train,109.0,2,Entire home/apt,0,150.87033,-34.0259,89,89
+Sydney,Apartment,220.0,6,Entire home/apt,Phillip Bay,151.23389,-33.98121,9,9
+Sydney,House,65.0,2,Private room,Annandale/Leichhardt,151.16834,-33.8809,71,71
+Sydney,Apartment,380.0,4,Entire home/apt,0,151.29339,-33.77881,0,0
+Sydney,Apartment,200.0,2,Entire home/apt,Central Business District,151.21005,-33.87447,96,96
+Sydney,House,181.0,8,Entire home/apt,Lugarno,151.0463,-33.98796,0,0
+Sydney,Apartment,100.0,2,Entire home/apt,Potts Point,151.26407,-33.87403,7,7

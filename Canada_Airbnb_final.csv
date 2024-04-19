@@ -1,0 +1,634 @@
+city,property_type,price,accommodates,room_type,host_neighbourhood,Latitudes,Longitudes,number_of_reviews,number_of_reviews
+Montreal,Apartment,50.0,4,Entire home/apt,Mile End,-73.59111,45.51889,0,0
+Montreal,Apartment,43.0,2,Entire home/apt,0,-73.54949,45.54548,0,0
+Montreal,Apartment,140.0,6,Entire home/apt,Le Plateau,-73.57383,45.52233,0,0
+Montreal,Apartment,34.0,1,Private room,Mile End,-73.58774,45.52028,62,62
+Montreal,Apartment,30.0,2,Private room,Mile End,-73.60137,45.52517,0,0
+Montreal,Apartment,21.0,2,Private room,Downtown Montreal,-73.58595,45.49039,1,1
+Montreal,Apartment,70.0,2,Private room,Le Plateau,-73.58664,45.47348,2,2
+Montreal,Apartment,64.0,4,Entire home/apt,Ville-Marie,-73.55985,45.53481,5,5
+Montreal,Apartment,60.0,1,Private room,Gay Village,-73.55495,45.51625,0,0
+Montreal,Apartment,150.0,3,Entire home/apt,Old Rosemont,-73.5824,45.54904,1,1
+Montreal,Apartment,55.0,2,Entire home/apt,Le Plateau,-73.57179,45.51028,42,42
+Montreal,Apartment,60.0,2,Entire home/apt,0,-73.55486,45.5993,0,0
+Montreal,Condominium,35.0,2,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.60386,45.55264,2,2
+Montreal,Apartment,30.0,1,Private room,Mile End,-73.58677,45.52572,122,122
+Montreal,Apartment,79.0,3,Entire home/apt,Griffintown,-73.55863,45.49665,1,1
+Montreal,Apartment,90.0,4,Entire home/apt,Le Plateau,-73.57981,45.51702,93,93
+Montreal,Condominium,68.0,3,Entire home/apt,McGill Ghetto,-73.57711,45.5084,16,16
+Montreal,Apartment,115.0,6,Entire home/apt,0,-73.59462,45.54566,13,13
+Montreal,Apartment,75.0,4,Entire home/apt,Mile End,-73.58715,45.5221,25,25
+Montreal,Apartment,40.0,2,Private room,Gay Village,-73.55889,45.51891,4,4
+Montreal,Apartment,30.0,2,Entire home/apt,Downtown Montreal,-73.58022,45.48979,2,2
+Montreal,Apartment,42.0,2,Entire home/apt,Quartier des Spectacles,-73.56526,45.51424,18,18
+Montreal,Loft,81.0,3,Entire home/apt,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62797,45.50286,4,4
+Montreal,Apartment,90.0,2,Entire home/apt,Downtown Montreal,-73.58208,45.49165,157,157
+Montreal,Condominium,149.0,2,Entire home/apt,Downtown Toronto,-73.55591,45.50488,22,22
+Montreal,Bed and breakfast,78.0,3,Private room,Lachine,-73.69275,45.44423,1,1
+Montreal,Serviced apartment,195.0,7,Entire home/apt,Mont-Royal,-73.65637,45.5169,2,2
+Montreal,Apartment,81.0,2,Private room,Le Plateau,-73.57605,45.53617,8,8
+Montreal,Apartment,150.0,3,Entire home/apt,Downtown Montreal,-73.56223,45.52406,8,8
+Montreal,Apartment,152.0,8,Entire home/apt,Gay Village,-73.58256,45.51664,22,22
+Montreal,Apartment,35.0,3,Private room,Le Plateau,-73.58359,45.52143,7,7
+Montreal,Apartment,50.0,5,Private room,Verdun,-73.57051,45.45091,39,39
+Montreal,Apartment,20.0,2,Private room,Quartier des Spectacles,-73.56646,45.51778,7,7
+Montreal,Townhouse,208.0,7,Entire home/apt,Le Plateau,-73.56972,45.52296,3,3
+Montreal,Apartment,55.0,2,Private room,Mile End,-73.59698,45.52865,39,39
+Montreal,Apartment,90.0,4,Entire home/apt,Gay Village,-73.57803,45.50165,33,33
+Montreal,Apartment,90.0,6,Entire home/apt,Le Plateau,-73.57039,45.51664,18,18
+Montreal,Apartment,240.0,2,Entire home/apt,Lachine,-73.69114,45.44134,0,0
+Montreal,Apartment,36.0,1,Private room,Mile End,-73.6079,45.52967,0,0
+Montreal,Condominium,181.0,3,Entire home/apt,Villeray,-73.62176,45.53724,8,8
+Montreal,Apartment,177.0,6,Entire home/apt,Gay Village,-73.57517,45.51623,18,18
+Montreal,Apartment,75.0,4,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.52985,45.58603,4,4
+Montreal,Condominium,102.0,4,Entire home/apt,Verdun,-73.5702,45.46794,66,66
+Montreal,Apartment,103.0,4,Entire home/apt,0,-73.57453,45.51344,18,18
+Montreal,Apartment,60.0,2,Entire home/apt,Notre-Dame-de-Grace,-73.64172,45.46374,0,0
+Montreal,Apartment,68.0,2,Entire home/apt,Mile End,-73.59279,45.52374,2,2
+Montreal,Apartment,35.0,1,Private room,Outremont,-73.60951,45.52045,5,5
+Montreal,Apartment,62.0,3,Entire home/apt,Downtown Montreal,-73.58003,45.49826,3,3
+0,Apartment,25.0,2,Private room,Ville-Marie,-73.55997,45.52588,4,4
+Montreal,Apartment,30.0,2,Private room,0,-73.54985,45.52797,4,4
+Montreal,House,149.0,6,Entire home/apt,Mile End,-73.5851,45.52408,101,101
+Montreal,Apartment,123.0,6,Entire home/apt,Gay Village,-73.56244,45.51006,19,19
+Montreal,Apartment,60.0,2,Private room,La Petite-Patrie,-73.60352,45.53414,1,1
+Montreal,Apartment,42.0,3,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.62597,45.55088,0,0
+Montreal,Apartment,51.0,4,Entire home/apt,Villeray,-73.62993,45.54335,2,2
+Montreal,Apartment,35.0,1,Private room,Notre-Dame-de-Grace,-73.61355,45.47641,1,1
+Montreal,Apartment,40.0,1,Private room,La Petite-Patrie,-73.58889,45.54424,1,1
+Montreal,Apartment,47.0,2,Entire home/apt,Saint-Henri,-73.589,45.47116,4,4
+Montreal,Apartment,35.0,2,Entire home/apt,Ville-Marie,-73.58359,45.49633,9,9
+Montreal,Apartment,154.0,2,Private room,Le Plateau,-73.56642,45.51989,4,4
+Montreal,Apartment,38.0,2,Private room,La Petite-Patrie,-73.59906,45.54521,22,22
+Montreal,Apartment,70.0,2,Entire home/apt,0,-73.59681,45.52683,8,8
+Montreal,Apartment,79.0,2,Private room,Le Plateau,-73.5671,45.53713,81,81
+Montreal,Apartment,89.0,4,Entire home/apt,0,-73.649,45.55174,37,37
+Montreal,Apartment,32.0,2,Private room,Gay Village,-73.5571,45.51725,4,4
+Montreal,Apartment,81.0,2,Private room,0,-73.57064,45.45702,1,1
+Montreal,Apartment,114.0,2,Entire home/apt,Quartier des Spectacles,-73.57004,45.50835,18,18
+Montreal,Loft,75.0,4,Entire home/apt,0,-73.57646,45.53347,1,1
+Montreal,Apartment,64.0,2,Entire home/apt,La Petite-Patrie,-73.59448,45.54477,16,16
+Montreal,Loft,125.0,2,Entire home/apt,Quartier des Spectacles,-73.563,45.51406,27,27
+Montreal,Apartment,75.0,4,Entire home/apt,Mile End,-73.59285,45.52707,12,12
+Montreal,Apartment,85.0,4,Entire home/apt,Hochelaga-Maisonneuve,-73.55208,45.55157,150,150
+Montreal,Apartment,94.0,6,Entire home/apt,Gay Village,-73.55553,45.52006,20,20
+Montreal,Apartment,44.0,2,Private room,Le Plateau,-73.58217,45.5369,19,19
+Montreal,Apartment,25.0,1,Private room,Ville-Marie,-73.5571,45.52621,5,5
+Montreal,Apartment,60.0,2,Entire home/apt,La Petite-Patrie,-73.58808,45.54144,0,0
+Montreal,Apartment,58.0,4,Entire home/apt,Verdun,-73.57098,45.45145,97,97
+Montreal,Apartment,115.0,4,Entire home/apt,Outremont,-73.61799,45.51719,4,4
+Montreal,Apartment,81.0,2,Entire home/apt,Westmount,-73.6053,45.48849,1,1
+Montreal,Loft,137.0,3,Entire home/apt,Downtown Montreal,-73.58,45.49484,83,83
+Montreal,Apartment,46.0,2,Private room,Outremont,-73.61179,45.52445,2,2
+Montreal,Apartment,50.0,5,Entire home/apt,Downtown Montreal,-73.58133,45.4971,45,45
+Montreal,Apartment,140.0,4,Entire home/apt,Le Plateau,-73.57534,45.53431,3,3
+Montreal,Apartment,110.0,3,Entire home/apt,Downtown Montreal,-73.57844,45.49455,30,30
+Montreal,Apartment,40.0,2,Private room,La Petite-Patrie,-73.59605,45.54842,37,37
+Montreal,Apartment,39.0,2,Entire home/apt,Downtown Toronto,-73.56211,45.5301,4,4
+Montreal,Apartment,95.0,2,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61051,45.54517,5,5
+Montreal,Apartment,68.0,2,Private room,Le Plateau,-73.56963,45.51895,112,112
+Montreal,Apartment,101.0,4,Entire home/apt,Gay Village,-73.55957,45.51836,35,35
+Montreal,Serviced apartment,189.0,4,Entire home/apt,Le Plateau,-73.5699,45.49533,86,86
+Montreal,Condominium,82.0,4,Entire home/apt,Downtown Montreal,-73.57005,45.49243,119,119
+Montreal,Apartment,99.0,3,Entire home/apt,Downtown Montreal,-73.58089,45.49545,152,152
+Montreal,Apartment,75.0,3,Entire home/apt,Quartier des Spectacles,-73.55963,45.51301,2,2
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.57684,45.53454,6,6
+Montreal,Apartment,85.0,4,Entire home/apt,Gay Village,-73.59851,45.51693,16,16
+Montreal,Apartment,90.0,4,Entire home/apt,Downtown Montreal,-73.55529,45.51525,4,4
+Montreal,Apartment,27.0,1,Entire home/apt,Le Plateau,-73.591,45.53031,2,2
+Montreal,Apartment,30.0,2,Entire home/apt,Gay Village,-73.56503,45.52141,3,3
+Montreal,Apartment,81.0,4,Entire home/apt,Le Plateau,-73.57922,45.52932,0,0
+Montreal,Loft,70.0,5,Entire home/apt,Old Port,-73.55811,45.50213,261,261
+Montreal,Apartment,30.0,4,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61762,45.55405,17,17
+Montreal,Apartment,75.0,4,Entire home/apt,Le Plateau,-73.58047,45.5188,82,82
+Montreal,Apartment,85.0,2,Entire home/apt,Downtown Montreal,-73.57634,45.49135,3,3
+Montreal,Apartment,301.0,1,Entire home/apt,0,-73.61238,45.53345,0,0
+Montreal,Loft,125.0,2,Entire home/apt,Downtown Montreal,-73.58387,45.48879,0,0
+Montreal,Apartment,60.0,4,Private room,0,-73.54141,45.5447,18,18
+Montreal,Condominium,189.0,9,Entire home/apt,Montréal-Ouest,-73.65647,45.45558,2,2
+Montreal,Apartment,58.0,4,Entire home/apt,La Petite-Patrie,-73.5972,45.54964,6,6
+Montreal,Apartment,85.0,4,Entire home/apt,Le Plateau,-73.57471,45.53554,4,4
+Montreal,Apartment,60.0,4,Entire home/apt,Le Plateau,-73.58701,45.53572,132,132
+Montreal,Apartment,50.0,4,Entire home/apt,Downtown Montreal,-73.58189,45.49466,176,176
+Montreal,Apartment,169.0,5,Entire home/apt,Downtown Montreal,-73.57454,45.49617,31,31
+Montreal,Loft,250.0,4,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.55593,45.59306,0,0
+Montreal,Apartment,85.0,4,Entire home/apt,Verdun,-73.56827,45.46637,25,25
+Montreal,Apartment,60.0,2,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.54099,45.57756,87,87
+Montreal,Apartment,79.0,4,Entire home/apt,Downtown Montreal,-73.55421,45.51421,3,3
+Montreal,House,1746.0,1,Private room,0,-73.56126,45.65311,2,2
+Montreal,House,229.0,6,Entire home/apt,Le Plateau,-73.57912,45.52563,11,11
+Montreal,Apartment,50.0,3,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61084,45.55447,50,50
+Montreal,Apartment,180.0,12,Entire home/apt,Le Plateau,-73.59153,45.52026,5,5
+Montreal,House,75.0,2,Entire home/apt,La Petite-Patrie,-73.60306,45.54571,20,20
+Montreal,Apartment,140.0,4,Entire home/apt,Le Plateau,-73.58194,45.53002,4,4
+Montreal,Apartment,27.0,2,Private room,Cote-des-Neiges,-73.63598,45.48981,39,39
+Montreal,Apartment,110.0,2,Entire home/apt,Le Plateau,-73.58595,45.51881,3,3
+Montreal,Condominium,36.0,2,Private room,La Petite-Patrie,-73.58724,45.54516,24,24
+Montreal,House,199.0,4,Entire home/apt,La Petite-Patrie,-73.60038,45.53488,140,140
+Montreal,Apartment,19.0,1,Private room,0,-73.51038,45.60982,22,22
+Montreal,Apartment,44.0,2,Private room,Mile End,-73.5954,45.52042,92,92
+Montreal,Apartment,46.0,2,Entire home/apt,0,-73.57725,45.58961,0,0
+Montreal,Apartment,130.0,3,Entire home/apt,Downtown Montreal,-73.58207,45.49127,0,0
+Montreal,Loft,68.0,1,Entire home/apt,Le Plateau,-73.57373,45.52331,23,23
+Montreal,Apartment,89.0,2,Entire home/apt,Downtown Montreal,-73.59338,45.49621,0,0
+Montreal,Apartment,40.0,3,Private room,Ville-Marie,-73.54921,45.52811,15,15
+Montreal,Apartment,81.0,2,Entire home/apt,Ahuntsic-Cartierville,-73.62827,45.55369,2,2
+Montreal,Apartment,34.0,4,Entire home/apt,Downtown Montreal,-73.57464,45.49069,104,104
+Montreal,House,189.0,6,Entire home/apt,Le Plateau,-73.57801,45.53528,9,9
+Montreal,Apartment,50.0,4,Entire home/apt,Parc-Extension,-73.62719,45.52577,2,2
+Montreal,Apartment,75.0,4,Entire home/apt,Hochelaga-Maisonneuve,-73.53136,45.5558,21,21
+Montreal,Apartment,99.0,2,Entire home/apt,Verdun,-73.56593,45.46158,64,64
+Montreal,Loft,301.0,2,Entire home/apt,Le Plateau,-73.57067,45.51123,5,5
+Montreal,Apartment,40.0,3,Entire home/apt,Le Plateau,-73.57349,45.52813,18,18
+Montreal,Apartment,75.0,4,Entire home/apt,Ville-Marie,-73.55818,45.53688,111,111
+Montreal,Condominium,250.0,4,Entire home/apt,Old Port,-73.56397,45.50504,16,16
+Montreal,Condominium,94.0,4,Entire home/apt,Downtown Montreal,-73.57601,45.48985,19,19
+Montreal,Apartment,60.0,2,Entire home/apt,La Petite-Patrie,-73.60503,45.53707,33,33
+Montreal,Apartment,250.0,5,Entire home/apt,Mile End,-73.6159,45.53344,18,18
+Montreal,Apartment,60.0,2,Entire home/apt,Saint-Henri,-73.58786,45.48112,37,37
+Montreal,Apartment,23.0,2,Private room,Villeray,-73.63168,45.54549,3,3
+Montreal,Apartment,105.0,3,Entire home/apt,Downtown Montreal,-73.57264,45.49594,0,0
+Montreal,Apartment,90.0,3,Entire home/apt,Little Burgundy,-73.57727,45.483,74,74
+Montreal,Apartment,50.0,1,Private room,Hempstead,-73.63139,45.4797,9,9
+Montreal,Apartment,83.0,4,Entire home/apt,Downtown Montreal,-73.58038,45.49287,40,40
+Montreal,Apartment,81.0,6,Entire home/apt,Verdun,-73.57117,45.46199,7,7
+Montreal,Townhouse,130.0,6,Entire home/apt,Hochelaga-Maisonneuve,-73.53516,45.54855,0,0
+Montreal,House,74.0,5,Entire home/apt,Notre-Dame-de-Grace,-73.6434,45.46425,53,53
+Montreal,Apartment,107.0,4,Entire home/apt,Outremont,-73.59637,45.51833,4,4
+Montreal,Apartment,170.0,6,Entire home/apt,Ville-Marie,-73.54923,45.52764,14,14
+Montreal,Apartment,101.0,4,Entire home/apt,La Petite-Patrie,-73.59176,45.54783,37,37
+Montreal,Apartment,54.0,2,Entire home/apt,Gay Village,-73.55441,45.51722,89,89
+Montreal,Condominium,13.0,1,Private room,Mercier-Hochelaga-Maisonneuve,-73.53462,45.57883,3,3
+Montreal,Apartment,145.0,4,Entire home/apt,Ville-Marie,-73.56248,45.50384,0,0
+Montreal,Apartment,89.0,4,Entire home/apt,Gay Village,-73.55674,45.51862,59,59
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.57756,45.53345,6,6
+Montreal,Apartment,40.0,1,Private room,Le Plateau,-73.58225,45.52711,2,2
+Montreal,Apartment,50.0,4,Entire home/apt,Ville-Marie,-73.58287,45.49537,57,57
+Montreal,Apartment,119.0,8,Entire home/apt,Downtown Montreal,-73.59955,45.52706,68,68
+Montreal,Apartment,60.0,2,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.59652,45.55936,86,86
+Montreal,Condominium,95.0,4,Entire home/apt,Le Plateau,-73.59495,45.53024,16,16
+Montreal,Apartment,170.0,4,Entire home/apt,Le Plateau,-73.58929,45.53065,1,1
+Montreal,Apartment,67.0,6,Entire home/apt,Downtown Montreal,-73.58134,45.49274,107,107
+Montreal,Apartment,46.0,2,Private room,Mile End,-73.58939,45.52138,0,0
+Montreal,Apartment,156.0,6,Entire home/apt,Old Rosemont,-73.59178,45.55179,1,1
+Montreal,Apartment,600.0,13,Entire home/apt,Downtown Montreal,-73.57789,45.49943,57,57
+Montreal,Apartment,119.0,3,Entire home/apt,Mile End,-73.59591,45.52441,53,53
+Montreal,Camper/RV,70.0,3,Entire home/apt,Old Rosemont,-73.57634,45.55347,1,1
+Montreal,Apartment,114.0,3,Entire home/apt,Downtown Montreal,-73.57994,45.49181,12,12
+Montreal,Apartment,58.0,4,Entire home/apt,Villeray,-73.62093,45.54322,3,3
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.56711,45.51987,1,1
+Montreal,Apartment,25.0,1,Private room,Le Sud-Ouest,-73.59719,45.46184,12,12
+Montreal,Apartment,85.0,3,Entire home/apt,Le Plateau,-73.57404,45.51985,111,111
+Montreal,Apartment,25.0,1,Private room,0,-73.5548,45.57572,1,1
+Montreal,Condominium,81.0,2,Private room,Downtown Montreal,-73.55429,45.51681,1,1
+Montreal,Apartment,35.0,1,Private room,Le Plateau,-73.57989,45.53123,0,0
+Montreal,Apartment,35.0,1,Private room,0,-73.58201,45.52983,1,1
+Montreal,Apartment,55.0,4,Entire home/apt,Le Plateau,-73.5797,45.51668,23,23
+Montreal,Loft,66.0,4,Entire home/apt,Quartier des Spectacles,-73.56198,45.50917,46,46
+Montreal,Condominium,43.0,4,Entire home/apt,Villeray,-73.62396,45.54508,3,3
+Montreal,Apartment,89.0,4,Entire home/apt,La Petite-Patrie,-73.62015,45.54338,2,2
+Montreal,Apartment,46.0,2,Private room,Villeray,-73.61588,45.54174,6,6
+Montreal,Serviced apartment,85.0,3,Entire home/apt,McGill Ghetto,-73.5763,45.50964,2,2
+Montreal,Loft,191.0,3,Entire home/apt,Villeray,-73.63463,45.54477,6,6
+Montreal,Apartment,79.0,6,Entire home/apt,Cote-des-Neiges,-73.62886,45.50251,11,11
+Montreal,Apartment,60.0,2,Entire home/apt,Hochelaga-Maisonneuve,-73.53971,45.54737,4,4
+Montreal,Apartment,35.0,1,Entire home/apt,La Petite-Patrie,-73.60834,45.53653,1,1
+Montreal,Apartment,38.0,4,Entire home/apt,Le Plateau,-73.56798,45.51914,0,0
+Montreal,Apartment,125.0,4,Entire home/apt,Le Plateau,-73.58244,45.51972,88,88
+Montreal,Apartment,68.0,2,Entire home/apt,0,-73.60561,45.54466,11,11
+Montreal,Apartment,40.0,2,Entire home/apt,Cote-des-Neiges,-73.63793,45.48789,33,33
+Montreal,Townhouse,115.0,4,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61547,45.55368,3,3
+Montreal,Apartment,68.0,2,Private room,Hochelaga-Maisonneuve,-73.55133,45.55344,7,7
+Montreal,Apartment,110.0,4,Entire home/apt,LaSalle,-73.65649,45.42895,25,25
+Montreal,Apartment,64.0,3,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61194,45.54527,9,9
+Montreal,Apartment,301.0,16,Entire home/apt,Notre-Dame-de-Grace,-73.64578,45.47208,15,15
+Montreal,Apartment,30.0,2,Private room,La Petite-Patrie,-73.59951,45.53298,2,2
+Montreal,House,60.0,2,Private room,Pointe-Claire,-73.82578,45.42679,73,73
+Montreal,Townhouse,70.0,2,Private room,Hochelaga-Maisonneuve,-73.54584,45.55933,25,25
+Montreal,Apartment,78.0,4,Entire home/apt,Le Plateau,-73.57857,45.52617,23,23
+Montreal,House,250.0,6,Entire home/apt,0,-73.54197,45.6127,0,0
+Montreal,Apartment,30.0,1,Private room,Mile End,-73.59151,45.52503,2,2
+Montreal,House,30.0,2,Private room,Le Sud-Ouest,-73.58947,45.45504,13,13
+Montreal,Loft,70.0,3,Entire home/apt,Old Montreal,-73.55989,45.50336,35,35
+Montreal,Serviced apartment,99.0,2,Entire home/apt,Downtown Montreal,-73.55963,45.49907,0,0
+Montreal,Apartment,35.0,2,Private room,Le Plateau,-73.58029,45.52042,51,51
+Montreal,House,136.0,4,Entire home/apt,Le Plateau,-73.5677,45.53083,27,27
+Montreal,House,42.0,4,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.54044,45.5785,0,0
+Montreal,Apartment,42.0,2,Entire home/apt,Outremont,-73.62099,45.5179,24,24
+Montreal,Apartment,240.0,6,Entire home/apt,Old Rosemont,-73.57623,45.5485,0,0
+Montreal,Apartment,25.0,1,Private room,Downtown Montreal,-73.58179,45.494,1,1
+Montreal,Serviced apartment,60.0,2,Entire home/apt,Downtown Montreal,-73.5761,45.49295,1,1
+Montreal,Apartment,93.0,2,Entire home/apt,Downtown Montreal,-73.57226,45.49653,0,0
+Montreal,Apartment,30.0,2,Private room,McGill Ghetto,-73.5772,45.50893,117,117
+Montreal,Apartment,85.0,6,Entire home/apt,McGill Ghetto,-73.57589,45.5081,71,71
+Montreal,House,199.0,12,Entire home/apt,Villeray,-73.63296,45.54191,55,55
+Montreal,Condominium,178.0,5,Entire home/apt,Downtown Montreal,-73.57043,45.4968,11,11
+Montreal,Apartment,20.0,2,Private room,Le Plateau,-73.58341,45.51726,1,1
+Montreal,Apartment,60.0,4,Entire home/apt,Ville-Marie,-73.54414,45.52984,4,4
+Montreal,Apartment,75.0,4,Entire home/apt,Mile End,-73.60547,45.5326,2,2
+Montreal,Apartment,68.0,2,Entire home/apt,Downtown Montreal,-73.57906,45.49463,21,21
+Montreal,Apartment,20.0,1,Private room,Mile End,-73.60294,45.52529,1,1
+Montreal,Serviced apartment,81.0,2,Entire home/apt,Downtown Montreal,-73.56466,45.50362,0,0
+Montreal,Townhouse,75.0,2,Private room,0,-73.57365,45.53145,8,8
+Montreal,Apartment,60.0,2,Entire home/apt,Le Plateau,-73.5851,45.53195,2,2
+Montreal,Serviced apartment,140.0,4,Entire home/apt,Downtown Montreal,-73.56243,45.50377,0,0
+Montreal,Guesthouse,40.0,4,Private room,Montréal-Nord,-73.61619,45.61603,31,31
+Montreal,Loft,199.0,6,Private room,Old Port,-73.55211,45.50787,0,0
+Montreal,Loft,50.0,2,Entire home/apt,Le Plateau,-73.56745,45.53532,17,17
+Montreal,Apartment,68.0,5,Entire home/apt,Cote-des-Neiges,-73.6295,45.49771,17,17
+Montreal,Apartment,20.0,2,Private room,Parc-Extension,-73.62968,45.52952,1,1
+Montreal,Apartment,42.0,5,Entire home/apt,Le Plateau,-73.56405,45.53504,8,8
+Montreal,Serviced apartment,75.0,2,Entire home/apt,Downtown Montreal,-73.57712,45.49131,0,0
+Montreal,Apartment,75.0,4,Entire home/apt,Le Plateau,-73.57321,45.51384,0,0
+Montreal,Serviced apartment,82.0,2,Entire home/apt,Downtown Montreal,-73.56128,45.51037,2,2
+Montreal,Apartment,21.0,1,Private room,Le Plateau,-73.57893,45.51696,0,0
+Montreal,Hostel,39.0,12,Shared room,Le Plateau,-73.57165,45.53446,18,18
+Montreal,Apartment,74.0,4,Entire home/apt,Gay Village,-73.55597,45.51887,16,16
+Montreal,Apartment,40.0,2,Private room,0,-73.55033,45.53608,29,29
+Montreal,Apartment,35.0,1,Private room,0,-73.58899,45.52856,1,1
+Montreal,Apartment,82.0,2,Private room,0,-73.61068,45.47443,0,0
+Montreal,Apartment,23.0,2,Private room,Le Plateau,-73.58216,45.53643,2,2
+Montreal,Apartment,70.0,5,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.53891,45.5786,61,61
+Montreal,Hostel,31.0,2,Shared room,Le Plateau,-73.57063,45.51289,0,0
+Montreal,Loft,165.0,6,Entire home/apt,Old Port,-73.55506,45.50624,56,56
+Montreal,Condominium,90.0,8,Entire home/apt,Dollard-des-Ormeaux,-73.79539,45.49149,28,28
+Montreal,Apartment,99.0,4,Entire home/apt,Ville-Marie,-73.58467,45.49681,14,14
+Montreal,Apartment,119.0,6,Entire home/apt,Le Plateau,-73.57851,45.52997,3,3
+Montreal,Apartment,58.0,2,Entire home/apt,Mile End,-73.60385,45.52941,10,10
+Montreal,Apartment,81.0,4,Entire home/apt,Downtown Montreal,-73.55857,45.51776,4,4
+Montreal,Apartment,50.0,2,Entire home/apt,Ahuntsic-Cartierville,-73.65371,45.55593,12,12
+Montreal,Apartment,25.0,3,Entire home/apt,Ahuntsic-Cartierville,-73.6495,45.55217,0,0
+Montreal,House,35.0,2,Entire home/apt,0,-73.57604,45.50725,5,5
+Montreal,Apartment,50.0,1,Private room,Hochelaga-Maisonneuve,-73.53359,45.55214,0,0
+Montreal,Apartment,75.0,3,Entire home/apt,Ville-Marie,-73.56003,45.52542,6,6
+Montreal,Apartment,35.0,2,Private room,Le Plateau,-73.57203,45.52191,45,45
+Montreal,Apartment,85.0,12,Entire home/apt,La Petite-Patrie,-73.60455,45.53551,96,96
+Montreal,Apartment,95.0,7,Entire home/apt,Saint-Laurent,-73.67791,45.52717,13,13
+Montreal,Apartment,95.0,6,Entire home/apt,Mile End,-73.59724,45.52273,3,3
+Montreal,Townhouse,34.0,2,Private room,Saint-Henri,-73.58178,45.4846,2,2
+Montreal,Serviced apartment,85.0,2,Entire home/apt,Downtown Montreal,-73.57111,45.50664,1,1
+Montreal,Apartment,150.0,12,Entire home/apt,Mile End,-73.59295,45.52178,37,37
+Montreal,Apartment,150.0,8,Entire home/apt,Le Plateau,-73.57628,45.49798,84,84
+Montreal,Condominium,85.0,3,Entire home/apt,Downtown Montreal,-73.57121,45.49706,0,0
+Montreal,Resort,81.0,2,Shared room,Griffintown,-73.55701,45.49919,1,1
+Montreal,Apartment,150.0,7,Entire home/apt,Old Port,-73.58023,45.48032,47,47
+Montreal,Apartment,21.0,4,Private room,Villeray-Saint-Michel-Parc-Extension,-73.61791,45.54669,0,0
+Montreal,Apartment,115.0,4,Entire home/apt,Ville-Marie,-73.58017,45.50139,19,19
+Montreal,Apartment,25.0,2,Private room,Ville-Marie,-73.56303,45.52969,4,4
+Montreal,Apartment,76.0,5,Entire home/apt,Downtown Montreal,-73.5796,45.49285,27,27
+Montreal,Apartment,48.0,1,Private room,Le Plateau,-73.5784,45.5224,0,0
+Montreal,Apartment,64.0,2,Private room,Notre-Dame-de-Grace,-73.60968,45.47234,0,0
+Montreal,Other,99.0,5,Entire home/apt,Mile End,-73.60175,45.52779,30,30
+Montreal,Apartment,20.0,2,Private room,Notre-Dame-de-Grace,-73.60512,45.47588,2,2
+Montreal,Apartment,85.0,2,Entire home/apt,La Petite-Patrie,-73.59871,45.54211,13,13
+Montreal,Apartment,89.0,3,Entire home/apt,McGill Ghetto,-73.57394,45.5075,64,64
+Montreal,Apartment,64.0,2,Entire home/apt,Le Plateau,-73.58108,45.51868,22,22
+Montreal,Loft,119.0,8,Entire home/apt,0,-73.55165,45.50909,6,6
+Montreal,Apartment,68.0,4,Entire home/apt,Le Plateau,-73.55812,45.50385,53,53
+Montreal,Apartment,118.0,6,Entire home/apt,La Petite-Patrie,-73.60259,45.5461,1,1
+Montreal,House,150.0,4,Entire home/apt,Mile End,-73.60694,45.53192,16,16
+Montreal,Apartment,199.0,6,Entire home/apt,Chinatown,-73.56225,45.50526,51,51
+Montreal,Loft,1200.0,16,Entire home/apt,Old Port,-73.55329,45.50303,9,9
+Montreal,Apartment,40.0,2,Private room,Mile End,-73.59643,45.52697,1,1
+Montreal,Condominium,50.0,3,Entire home/apt,0,-73.63115,45.50941,4,4
+Montreal,Condominium,150.0,6,Entire home/apt,Ville-Marie,-73.58345,45.53049,1,1
+Montreal,Loft,66.0,4,Entire home/apt,Old Port,-73.55192,45.50945,44,44
+Montreal,House,284.0,6,Entire home/apt,Downtown Montreal,-73.56918,45.53972,0,0
+Montreal,Serviced apartment,99.0,5,Entire home/apt,Ville-Marie,-73.57948,45.49994,19,19
+Montreal,Condominium,64.0,3,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.62062,45.54563,3,3
+Montreal,Apartment,219.0,2,Entire home/apt,Mile End,-73.59243,45.52636,33,33
+Montreal,House,85.0,2,Entire home/apt,0,-73.70265,45.54136,0,0
+Montreal,Apartment,42.0,3,Entire home/apt,Verdun,-73.54677,45.45147,2,2
+Montreal,Apartment,150.0,8,Entire home/apt,Le Plateau,-73.584,45.52163,4,4
+Montreal,House,46.0,2,Private room,Le Sud-Ouest,-73.59063,45.45068,0,0
+Montreal,House,35.0,1,Private room,Le Sud-Ouest,-73.59185,45.45064,0,0
+Montreal,Apartment,145.0,4,Entire home/apt,Downtown Montreal,-73.57347,45.49718,12,12
+Montreal,Apartment,119.0,4,Entire home/apt,Hochelaga-Maisonneuve,-73.57711,45.52783,20,20
+Montreal,Apartment,301.0,6,Entire home/apt,McGill Ghetto,-73.57632,45.50792,8,8
+Montreal,Apartment,200.0,8,Entire home/apt,0,-73.66589,45.55934,0,0
+Montreal,Apartment,55.0,2,Private room,Le Plateau,-73.57334,45.51878,17,17
+Montreal,Apartment,23.0,1,Private room,Hochelaga-Maisonneuve,-73.54863,45.54561,10,10
+Montreal,Apartment,180.0,6,Entire home/apt,Le Plateau,-73.57113,45.51169,11,11
+Montreal,Apartment,20.0,1,Private room,Le Plateau,-73.57535,45.52899,0,0
+Montreal,Apartment,23.0,2,Entire home/apt,Gay Village,-73.55932,45.5173,2,2
+Montreal,Bed and breakfast,24.0,1,Private room,Old Port,-73.55881,45.50058,0,0
+Montreal,Apartment,25.0,2,Private room,Le Plateau,-73.56457,45.53236,1,1
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.58449,45.51705,6,6
+Montreal,Apartment,89.0,1,Entire home/apt,Downtown Toronto,-73.56264,45.53148,7,7
+Montreal,Apartment,25.0,2,Entire home/apt,Ville-Marie,-73.58772,45.49015,39,39
+Montreal,Apartment,191.0,4,Entire home/apt,Ville-Marie,-73.58108,45.49998,2,2
+Montreal,House,450.0,13,Entire home/apt,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62714,45.50395,3,3
+Montreal,Townhouse,199.0,5,Entire home/apt,Ahuntsic-Cartierville,-73.64632,45.5496,1,1
+Montreal,Townhouse,46.0,4,Shared room,Dollard-des-Ormeaux,-73.79282,45.49385,5,5
+Montreal,Apartment,16.0,1,Private room,Old Rosemont,-73.57309,45.54917,7,7
+Montreal,Loft,101.0,3,Entire home/apt,Old Port,-73.55863,45.50182,1,1
+Montreal,Guest suite,950.0,4,Entire home/apt,Old Port,-73.57056,45.49661,1,1
+Montreal,Bungalow,24.0,2,Private room,Rivière-des-Prairies-Pointe-aux-Trembles,-73.61068,45.63219,2,2
+Montreal,Apartment,90.0,2,Entire home/apt,Ville-Marie,-73.57849,45.50111,33,33
+Montreal,Apartment,95.0,5,Entire home/apt,La Petite-Patrie,-73.5938,45.54885,2,2
+Montreal,Apartment,81.0,2,Entire home/apt,Villeray,-73.61981,45.53843,1,1
+Montreal,Condominium,110.0,4,Entire home/apt,Downtown Montreal,-73.5848,45.52347,41,41
+Montreal,Apartment,30.0,1,Private room,Le Plateau,-73.63988,45.45644,0,0
+Montreal,Apartment,35.0,2,Private room,Le Plateau,-73.57112,45.53623,4,4
+Montreal,Condominium,85.0,3,Entire home/apt,Griffintown,-73.55964,45.49096,21,21
+Montreal,Apartment,91.0,2,Entire home/apt,Gay Village,-73.56084,45.51014,7,7
+Montreal,Apartment,119.0,2,Entire home/apt,Le Plateau,-73.57488,45.51285,58,58
+Montreal,Apartment,46.0,4,Entire home/apt,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62276,45.50528,0,0
+Montreal,Apartment,150.0,4,Entire home/apt,Ahuntsic-Cartierville,-73.66881,45.55895,9,9
+Montreal,Loft,110.0,3,Entire home/apt,Westmount,-73.58559,45.48857,2,2
+Montreal,Condominium,70.0,2,Private room,0,-73.69629,45.43375,0,0
+Montreal,Guest suite,40.0,1,Private room,Dorval,-73.76779,45.45358,11,11
+Montreal,Apartment,46.0,2,Private room,0,-73.55054,45.53739,8,8
+Montreal,Condominium,60.0,4,Entire home/apt,Old Rosemont,-73.57521,45.55707,5,5
+Montreal,Condominium,325.0,8,Entire home/apt,Mile End,-73.60518,45.52362,35,35
+Montreal,Apartment,39.0,2,Private room,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62332,45.51187,24,24
+Montreal,Townhouse,301.0,4,Entire home/apt,Le Plateau,-73.57575,45.48745,2,2
+Montreal,Cabin,39.0,2,Private room,Le Plateau,-73.58167,45.5246,6,6
+Montreal,House,23.0,3,Private room,Rivière-des-Prairies-Pointe-aux-Trembles,-73.50062,45.63482,18,18
+Montreal,Apartment,64.0,2,Private room,Outremont,-73.60989,45.52276,7,7
+Montreal,Apartment,95.0,2,Private room,0,-73.69669,45.43426,0,0
+Montreal,Apartment,400.0,8,Entire home/apt,0,-73.58082,45.50023,3,3
+Montreal,Apartment,110.0,4,Entire home/apt,Quartier des Spectacles,-73.55908,45.51239,0,0
+Montreal,Condominium,81.0,3,Entire home/apt,Downtown Montreal,-73.58246,45.48968,2,2
+Montreal,Apartment,60.0,4,Entire home/apt,Quartier des Spectacles,-73.56208,45.5122,39,39
+Montreal,Apartment,199.0,3,Entire home/apt,Le Plateau,-73.56559,45.52799,13,13
+Montreal,House,225.0,10,Entire home/apt,Cote-des-Neiges,-73.64205,45.4977,1,1
+Montreal,Apartment,169.0,4,Entire home/apt,Old Montreal,-73.56208,45.51139,19,19
+Montreal,Loft,149.0,4,Entire home/apt,Old Montreal,-73.55364,45.51031,37,37
+Montreal,Apartment,220.0,6,Entire home/apt,Le Plateau,-73.57803,45.52579,7,7
+Montreal,Apartment,79.0,6,Entire home/apt,Downtown Montreal,-73.58131,45.49394,16,16
+Montreal,Apartment,140.0,4,Entire home/apt,Le Plateau,-73.58125,45.52531,4,4
+Montreal,Apartment,35.0,2,Private room,0,-73.60055,45.54112,2,2
+Montreal,Bed and breakfast,31.0,2,Private room,Le Plateau,-73.57857,45.52293,1,1
+Montreal,Townhouse,160.0,5,Entire home/apt,Rosemont-La Petite-Patrie,-73.5769,45.56223,2,2
+Montreal,Apartment,32.0,2,Private room,Villeray,-73.62657,45.53873,2,2
+Montreal,Condominium,36.0,2,Private room,Le Plateau,-73.59447,45.52984,32,32
+Montreal,Other,55.0,4,Private room,Parc-Extension,-73.62583,45.52836,0,0
+Montreal,Loft,75.0,2,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.55022,45.57491,11,11
+Montreal,Apartment,110.0,4,Entire home/apt,0,-73.59376,45.51961,7,7
+Montreal,Apartment,40.0,2,Private room,Le Plateau,-73.58263,45.52309,2,2
+Montreal,House,46.0,2,Private room,Cote-des-Neiges,-73.63201,45.48207,1,1
+Montreal,Apartment,75.0,4,Entire home/apt,Saint-Henri,-73.5827,45.47431,18,18
+Montreal,Apartment,46.0,2,Private room,0,-73.55393,45.55324,0,0
+Montreal,Townhouse,55.0,2,Private room,Saint-Laurent,-73.67172,45.50961,0,0
+Montreal,Apartment,89.0,4,Entire home/apt,Ahuntsic-Cartierville,-73.65547,45.55272,2,2
+Montreal,Apartment,46.0,2,Private room,Downtown Montreal,-73.55906,45.5233,2,2
+Montreal,Apartment,68.0,2,Entire home/apt,Le Plateau,-73.56824,45.5203,46,46
+Montreal,Apartment,64.0,2,Private room,Le Plateau,-73.58098,45.51463,8,8
+Montreal,Condominium,90.0,4,Entire home/apt,Le Plateau,-73.57989,45.53265,15,15
+Montreal,Apartment,81.0,6,Entire home/apt,Le Sud-Ouest,-73.59039,45.45209,53,53
+Montreal,Apartment,25.0,2,Private room,Cote-des-Neiges,-73.61948,45.49549,22,22
+Montreal,Apartment,56.0,4,Entire home/apt,Hochelaga-Maisonneuve,-73.54585,45.54043,11,11
+Montreal,Apartment,110.0,4,Entire home/apt,0,-73.55715,45.4983,1,1
+Montreal,Apartment,35.0,2,Private room,0,-73.5863,45.47462,6,6
+Montreal,Serviced apartment,215.0,7,Entire home/apt,0,-73.55788,45.50017,19,19
+Montreal,Apartment,115.0,4,Entire home/apt,Gay Village,-73.55885,45.50081,8,8
+Montreal,Apartment,225.0,2,Entire home/apt,Villeray,-73.631,45.54051,12,12
+Montreal,Condominium,81.0,2,Entire home/apt,La Petite-Patrie,-73.59909,45.53924,6,6
+Montreal,Loft,212.0,7,Entire home/apt,0,-73.55619,45.50121,19,19
+Montreal,Apartment,101.0,2,Private room,Le Plateau,-73.57924,45.52197,4,4
+Montreal,Apartment,39.0,1,Private room,Villeray,-73.62164,45.54333,4,4
+Montreal,Condominium,40.0,4,Private room,0,-73.64317,45.42117,6,6
+Montreal,Apartment,78.0,2,Private room,0,-73.60443,45.53223,3,3
+Montreal,Apartment,81.0,4,Entire home/apt,0,-73.55624,45.55299,1,1
+Montreal,Apartment,30.0,2,Private room,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62595,45.51065,7,7
+Montreal,Apartment,50.0,2,Entire home/apt,0,-73.57968,45.49071,1,1
+Montreal,Apartment,150.0,4,Entire home/apt,0,-73.60877,45.52058,2,2
+Montreal,Apartment,35.0,3,Private room,Notre-Dame-de-Grace,-73.60834,45.47277,2,2
+Montreal,Apartment,81.0,8,Entire home/apt,Le Plateau,-73.57097,45.54027,54,54
+Montreal,Townhouse,48.0,4,Entire home/apt,0,-73.58404,45.55887,0,0
+Montreal,House,20.0,2,Private room,0,-73.84772,45.49473,21,21
+Montreal,Apartment,46.0,3,Private room,Notre-Dame-de-Grace,-73.61589,45.46762,4,4
+Montreal,Apartment,60.0,2,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61036,45.57433,0,0
+Montreal,Apartment,81.0,2,Private room,0,-73.55445,45.57143,6,6
+Montreal,Bed and breakfast,70.0,2,Private room,Le Sud-Ouest,-73.59733,45.45944,5,5
+Montreal,Apartment,160.0,6,Entire home/apt,Gay Village,-73.55831,45.51746,5,5
+Montreal,Apartment,39.0,2,Entire home/apt,0,-73.57736,45.46399,0,0
+Montreal,Apartment,170.0,6,Entire home/apt,Cote-des-Neiges,-73.56925,45.4967,3,3
+Montreal,Apartment,110.0,3,Private room,Le Plateau,-73.58417,45.52127,1,1
+Montreal,Apartment,600.0,8,Entire home/apt,Old Port,-73.56258,45.50299,7,7
+Montreal,Condominium,81.0,4,Entire home/apt,Cote-des-Neiges,-73.64386,45.47576,1,1
+Montreal,Condominium,64.0,4,Entire home/apt,Anjou,-73.54906,45.60612,2,2
+Montreal,Apartment,20.0,2,Entire home/apt,Hochelaga-Maisonneuve,-73.5529,45.55189,8,8
+Montreal,Apartment,250.0,6,Entire home/apt,Cote-des-Neiges,-73.56902,45.49559,1,1
+Montreal,Apartment,30.0,2,Private room,Verdun,-73.57417,45.45578,2,2
+Montreal,Apartment,64.0,2,Entire home/apt,Saint-Henri,-73.58717,45.47548,0,0
+Montreal,Apartment,60.0,2,Entire home/apt,Le Plateau,-73.56854,45.51998,1,1
+Montreal,Condominium,55.0,2,Private room,0,-73.62961,45.47053,1,1
+Montreal,Apartment,110.0,2,Entire home/apt,0,-73.55299,45.51168,3,3
+Montreal,House,70.0,2,Private room,LaSalle,-73.65987,45.42775,12,12
+Montreal,House,174.0,4,Entire home/apt,Downtown Montreal,-73.55823,45.52024,0,0
+Montreal,Guesthouse,70.0,4,Entire home/apt,Saint-Laurent,-73.68925,45.50705,6,6
+Montreal,Apartment,130.0,1,Entire home/apt,0,-73.57051,45.49718,2,2
+Montreal,Condominium,170.0,2,Entire home/apt,Mile End,-73.61563,45.53178,13,13
+Montreal,Apartment,101.0,2,Entire home/apt,Le Plateau,-73.56924,45.53074,11,11
+Montreal,Townhouse,79.0,4,Entire home/apt,Mile End,-73.591,45.5274,16,16
+Montreal,Apartment,174.0,6,Entire home/apt,Mile End,-73.59108,45.52524,13,13
+Montreal,Apartment,60.0,4,Entire home/apt,Downtown Montreal,-73.57986,45.49561,7,7
+Montreal,House,301.0,6,Entire home/apt,Le Plateau,-73.58015,45.52935,17,17
+Montreal,Aparthotel,191.0,5,Private room,Gay Village,-73.55747,45.51643,4,4
+Montreal,Condominium,119.0,2,Entire home/apt,Old Port,-73.57602,45.49784,14,14
+Montreal,House,248.0,2,Private room,0,-73.56654,45.50117,0,0
+Montreal,Apartment,24.0,1,Private room,Ahuntsic-Cartierville,-73.66502,45.55159,6,6
+Montreal,House,250.0,1,Private room,0,-73.57299,45.49683,0,0
+Montreal,Condominium,174.0,3,Entire home/apt,Old Montreal,-73.55434,45.51226,0,0
+Montreal,Apartment,81.0,6,Entire home/apt,Quartier des Spectacles,-73.56149,45.50999,34,34
+Montreal,Apartment,72.0,2,Entire home/apt,Quartier des Spectacles,-73.56184,45.50985,32,32
+Montreal,Apartment,250.0,1,Private room,0,-73.56755,45.50094,0,0
+Montreal,Apartment,46.0,6,Entire home/apt,Saint-Leonard,-73.58155,45.58735,2,2
+Montreal,House,70.0,4,Entire home/apt,0,-73.64719,45.56707,0,0
+Montreal,Apartment,70.0,4,Entire home/apt,La Petite-Patrie,-73.58578,45.54061,2,2
+Montreal,Apartment,39.0,2,Private room,Le Plateau,-73.57665,45.53438,3,3
+Montreal,House,39.0,2,Private room,Montréal-Nord,-73.65226,45.58371,13,13
+Montreal,Apartment,40.0,4,Entire home/apt,0,-73.56957,45.47688,0,0
+Montreal,Castle,127.0,1,Entire home/apt,Ville-Marie,-73.58124,45.49904,0,0
+Montreal,Condominium,75.0,2,Entire home/apt,0,-73.67601,45.53463,3,3
+Montreal,Apartment,101.0,4,Entire home/apt,Downtown Montreal,-73.5508,45.59496,0,0
+Montreal,Apartment,99.0,9,Entire home/apt,Cote-des-Neiges,-73.60746,45.49461,2,2
+Montreal,Apartment,70.0,4,Entire home/apt,0,-73.57124,45.53629,1,1
+Montreal,Apartment,150.0,12,Entire home/apt,Mile End,-73.61094,45.52144,6,6
+Montreal,Apartment,270.0,5,Entire home/apt,Quartier des Spectacles,-73.56861,45.5114,1,1
+Montreal,Apartment,21.0,2,Private room,Villeray,-73.61847,45.54062,0,0
+Montreal,Apartment,129.0,5,Entire home/apt,Mile End,-73.59001,45.52211,6,6
+Montreal,Condominium,150.0,2,Entire home/apt,Le Plateau,-73.58021,45.53822,1,1
+Montreal,Apartment,36.0,2,Entire home/apt,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62525,45.51104,21,21
+Montreal,Apartment,150.0,4,Entire home/apt,Verdun,-73.55576,45.46407,0,0
+Montreal,House,81.0,8,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.50854,45.58677,16,16
+Montreal,Apartment,20.0,6,Private room,LaSalle,-73.6332,45.43943,1,1
+Montreal,Apartment,169.0,5,Entire home/apt,Downtown Montreal,-73.57552,45.49947,0,0
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.56925,45.51481,10,10
+Montreal,House,64.0,2,Private room,Cote-des-Neiges-Notre-Dame-de-Grace,-73.62004,45.5036,3,3
+Montreal,Apartment,119.0,4,Entire home/apt,Outremont,-73.60952,45.52078,0,0
+Montreal,Condominium,130.0,4,Entire home/apt,Downtown Montreal,-73.56994,45.49691,0,0
+Montreal,Serviced apartment,129.0,6,Entire home/apt,Old Port,-73.55683,45.50405,5,5
+Montreal,House,140.0,12,Entire home/apt,L'Ile-Bizard,-73.89095,45.49271,5,5
+Montreal,Apartment,85.0,6,Entire home/apt,Le Plateau,-73.58532,45.51718,0,0
+Montreal,Apartment,90.0,6,Entire home/apt,Ville-Marie,-73.56104,45.52975,0,0
+Montreal,Apartment,30.0,2,Private room,0,-73.55042,45.54524,0,0
+Montreal,Apartment,119.0,6,Entire home/apt,La Petite-Patrie,-73.59754,45.53963,4,4
+Montreal,Apartment,170.0,8,Entire home/apt,Rivière-des-Prairies-Pointe-aux-Trembles,-73.59817,45.63314,0,0
+Montreal,Apartment,81.0,3,Entire home/apt,Downtown Montreal,-73.5792,45.49547,1,1
+Montreal,Apartment,200.0,5,Entire home/apt,Cote-des-Neiges,-73.60754,45.49448,1,1
+Montreal,Apartment,60.0,2,Entire home/apt,0,-73.62721,45.54878,1,1
+Montreal,Apartment,95.0,6,Entire home/apt,Hochelaga-Maisonneuve,-73.54302,45.53885,12,12
+Montreal,House,25.0,2,Private room,Le Sud-Ouest,-73.59726,45.45225,5,5
+Montreal,Apartment,127.0,6,Entire home/apt,Quartier des Spectacles,-73.56911,45.51214,9,9
+Montreal,Apartment,140.0,4,Entire home/apt,Villeray,-73.62501,45.54184,0,0
+Montreal,Apartment,99.0,4,Entire home/apt,Old Port,-73.56017,45.49505,6,6
+Montreal,Condominium,200.0,6,Entire home/apt,Downtown Montreal,-73.58377,45.4918,6,6
+Montreal,Apartment,70.0,3,Entire home/apt,Outremont,-73.60148,45.52134,4,4
+Montreal,Apartment,40.0,2,Private room,Mile End,-73.58686,45.52003,2,2
+Montreal,Apartment,23.0,1,Private room,Verdun,-73.56329,45.45998,4,4
+Montreal,Apartment,39.0,2,Private room,Ville-Marie,-73.57847,45.5021,6,6
+Montreal,Apartment,60.0,4,Entire home/apt,Ahuntsic-Cartierville,-73.63073,45.55683,0,0
+Montreal,Condominium,64.0,5,Private room,Rivière-des-Prairies-Pointe-aux-Trembles,-73.53738,45.66563,1,1
+Montreal,Apartment,60.0,2,Entire home/apt,Gay Village,-73.552,45.52502,0,0
+Montreal,Condominium,55.0,4,Entire home/apt,Verdun,-73.57036,45.46914,1,1
+Montreal,Apartment,76.0,4,Entire home/apt,0,-73.56654,45.48917,1,1
+Montreal,Apartment,20.0,1,Private room,Le Plateau,-73.56501,45.53088,2,2
+Montreal,Apartment,50.0,3,Entire home/apt,Mont-Royal,-73.65559,45.51793,3,3
+Montreal,Apartment,199.0,16,Entire home/apt,Le Plateau,-73.57736,45.52022,0,0
+Montreal,Apartment,81.0,4,Entire home/apt,0,-73.56794,45.48982,0,0
+Montreal,Apartment,38.0,2,Entire home/apt,Cote-des-Neiges-Notre-Dame-de-Grace,-73.63037,45.50868,7,7
+Montreal,Apartment,76.0,4,Entire home/apt,0,-73.56739,45.4876,0,0
+Montreal,Loft,350.0,4,Entire home/apt,Downtown Montreal,-73.56408,45.5028,31,31
+Montreal,Bed and breakfast,25.0,1,Private room,Saint-Laurent,-73.67188,45.50871,0,0
+Montreal,Apartment,89.0,4,Entire home/apt,Le Plateau,-73.5837,45.51921,0,0
+Montreal,Apartment,70.0,2,Private room,0,-73.54865,45.52147,0,0
+Montreal,Condominium,66.0,4,Entire home/apt,Villeray,-73.62825,45.54149,0,0
+Montreal,Apartment,23.0,1,Private room,Ville-Marie,-73.5621,45.53121,0,0
+Montreal,Apartment,85.0,2,Entire home/apt,Downtown Montreal,-73.58366,45.49229,0,0
+Montreal,Villa,55.0,2,Private room,0,-73.64385,45.52531,0,0
+Montreal,Apartment,101.0,2,Entire home/apt,Downtown Montreal,-73.56076,45.48912,0,0
+Montreal,Apartment,200.0,10,Entire home/apt,Le Plateau,-73.54999,45.52452,0,0
+Montreal,Apartment,79.0,4,Entire home/apt,Hochelaga-Maisonneuve,-73.54336,45.54017,5,5
+Montreal,Apartment,35.0,2,Private room,Le Plateau,-73.57839,45.52113,0,0
+Montreal,Apartment,75.0,4,Entire home/apt,LaSalle,-73.6746,45.50325,3,3
+Montreal,House,25.0,1,Private room,Le Plateau,-73.57216,45.51795,0,0
+Montreal,Apartment,44.0,2,Private room,La Petite-Patrie,-73.60494,45.54045,0,0
+Montreal,Apartment,35.0,1,Private room,Cote-des-Neiges,-73.62691,45.49398,1,1
+Montreal,Townhouse,60.0,6,Private room,Le Plateau,-73.58543,45.53258,0,0
+Montreal,Apartment,199.0,6,Entire home/apt,Le Plateau,-73.57141,45.51503,0,0
+Montreal,Loft,301.0,4,Entire home/apt,0,-73.56128,45.52468,0,0
+Montreal,House,50.0,1,Private room,Beaconsfield,-73.89066,45.42057,2,2
+Montreal,Condominium,31.0,2,Entire home/apt,Le Plateau,-73.58574,45.528,3,3
+Montreal,Condominium,70.0,2,Entire home/apt,Le Plateau,-73.57126,45.51387,0,0
+Montreal,Apartment,35.0,2,Private room,La Petite-Patrie,-73.58714,45.543,0,0
+Montreal,Apartment,50.0,2,Entire home/apt,Old Montreal,-73.55243,45.52154,1,1
+Montreal,House,110.0,6,Entire home/apt,Notre-Dame-de-Grace,-73.60753,45.47747,1,1
+Montreal,Apartment,160.0,14,Entire home/apt,Hochelaga-Maisonneuve,-73.54624,45.54095,0,0
+Montreal,Loft,150.0,2,Entire home/apt,0,-73.58466,45.53183,0,0
+Montreal,House,70.0,2,Private room,0,-73.57206,45.54042,0,0
+Montreal,House,150.0,6,Entire home/apt,0,-73.61182,45.47733,1,1
+Montreal,Condominium,149.0,5,Entire home/apt,Old Port,-73.60671,45.47281,0,0
+Montreal,Apartment,25.0,1,Private room,0,-73.5606,45.47889,0,0
+Montreal,Townhouse,299.0,10,Entire home/apt,Downtown Montreal,-73.57932,45.49013,1,1
+Montreal,Apartment,68.0,2,Entire home/apt,Saint-Henri,-73.58284,45.48047,0,0
+Montreal,Apartment,199.0,16,Entire home/apt,Le Plateau,-73.57981,45.49305,0,0
+Montreal,Apartment,35.0,1,Private room,Mile End,-73.59153,45.51793,0,0
+Montreal,Apartment,51.0,2,Entire home/apt,Old Montreal,-73.57461,45.5134,0,0
+Montreal,Apartment,46.0,2,Private room,Villeray,-73.62216,45.53712,0,0
+Montreal,Apartment,81.0,3,Entire home/apt,Downtown Montreal,-73.57356,45.49872,0,0
+Montreal,Loft,1190.0,6,Entire home/apt,Downtown Montreal,-73.56238,45.50351,4,4
+Montreal,Apartment,75.0,4,Entire home/apt,Mile End,-73.60301,45.52683,16,16
+Montreal,Condominium,99.0,4,Entire home/apt,Le Plateau,-73.57204,45.53785,93,93
+Montreal,Apartment,85.0,4,Entire home/apt,Old Rosemont,-73.5743,45.54794,2,2
+Montreal,Apartment,40.0,4,Entire home/apt,Villeray,-73.63559,45.54082,1,1
+Montreal,Apartment,200.0,4,Entire home/apt,Mile End,-73.58907,45.54386,9,9
+Montreal,Apartment,58.0,1,Private room,Downtown Montreal,-73.58053,45.49556,52,52
+Montreal,Apartment,74.0,5,Entire home/apt,Mile End,-73.58662,45.52098,12,12
+Montreal,Apartment,85.0,6,Entire home/apt,Le Plateau,-73.57516,45.52557,1,1
+Montreal,Loft,60.0,2,Private room,Downtown Montreal,-73.56398,45.50562,20,20
+Montreal,Apartment,70.0,2,Entire home/apt,Villeray,-73.62986,45.5462,44,44
+Montreal,Loft,83.0,4,Entire home/apt,Old Port,-73.55123,45.50898,255,255
+Montreal,Apartment,99.0,3,Entire home/apt,Quartier des Spectacles,-73.56224,45.51177,28,28
+Montreal,House,250.0,6,Entire home/apt,La Petite-Patrie,-73.59929,45.53949,2,2
+Montreal,Apartment,50.0,1,Private room,Le Plateau,-73.58044,45.52639,85,85
+Montreal,Apartment,64.0,2,Entire home/apt,Villeray,-73.63042,45.54122,10,10
+Montreal,Apartment,148.0,4,Entire home/apt,Downtown Montreal,-73.54972,45.51148,1,1
+Montreal,Apartment,165.0,5,Entire home/apt,0,-73.60561,45.53702,15,15
+Montreal,Apartment,46.0,2,Entire home/apt,Mile End,-73.61356,45.53664,18,18
+Montreal,Apartment,50.0,2,Entire home/apt,Le Plateau,-73.58116,45.53207,0,0
+Montreal,Apartment,110.0,6,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.61843,45.54413,32,32
+Montreal,Apartment,50.0,2,Private room,La Petite-Patrie,-73.6077,45.53854,34,34
+Montreal,Apartment,95.0,2,Entire home/apt,Little Burgundy,-73.80381,45.49052,0,0
+Montreal,Apartment,46.0,2,Private room,Le Plateau,-73.57354,45.53081,0,0
+Montreal,Apartment,70.0,2,Entire home/apt,Le Plateau,-73.58146,45.52104,24,24
+Montreal,Apartment,99.0,4,Entire home/apt,Cote-des-Neiges,-73.63456,45.49939,59,59
+Montreal,Apartment,101.0,5,Entire home/apt,La Petite-Patrie,-73.59822,45.53578,0,0
+Montreal,House,47.0,7,Private room,Notre-Dame-de-Grace,-73.60695,45.46834,17,17
+Montreal,Apartment,50.0,4,Private room,Rosemont-La Petite-Patrie,-73.60357,45.53253,14,14
+Montreal,Apartment,60.0,5,Entire home/apt,0,-73.56921,45.46612,18,18
+Montreal,Apartment,71.0,1,Private room,Le Plateau,-73.58346,45.53606,0,0
+Montreal,Apartment,75.0,3,Entire home/apt,Mile End,-73.59452,45.5274,4,4
+Montreal,Apartment,140.0,5,Entire home/apt,Verdun,-73.57497,45.46518,2,2
+Montreal,Apartment,101.0,2,Entire home/apt,Le Plateau,-73.5777,45.52375,88,88
+Montreal,Apartment,42.0,2,Private room,Mile End,-73.58779,45.52304,11,11
+Montreal,Serviced apartment,290.0,4,Private room,Ville-Marie,-73.74464,45.43823,1,1
+Montreal,Apartment,23.0,2,Private room,0,-73.57252,45.55383,56,56
+Montreal,Apartment,576.0,2,Shared room,Outremont,-73.61774,45.51685,0,0
+Montreal,Apartment,75.0,2,Entire home/apt,Verdun,-73.57322,45.46587,0,0
+Montreal,Apartment,30.0,2,Private room,Mile End,-73.61217,45.53679,0,0
+Montreal,Apartment,156.0,6,Entire home/apt,Le Plateau,-73.58567,45.53355,11,11
+Montreal,Apartment,50.0,2,Entire home/apt,Villeray,-73.55648,45.5222,6,6
+Montreal,Apartment,150.0,2,Entire home/apt,Downtown Montreal,-73.56358,45.50053,24,24
+Montreal,Apartment,68.0,4,Entire home/apt,Pointe-Sainte-Charles,-73.57016,45.46865,6,6
+Montreal,Loft,101.0,4,Entire home/apt,La Petite-Patrie,-73.58781,45.54516,0,0
+Montreal,House,50.0,2,Private room,Rivière-des-Prairies-Pointe-aux-Trembles,-73.55388,45.65692,6,6
+Montreal,Apartment,67.0,4,Entire home/apt,Gay Village,-73.58346,45.52199,14,14
+Montreal,Apartment,81.0,2,Entire home/apt,0,-73.61105,45.53177,0,0
+Montreal,Townhouse,119.0,6,Entire home/apt,Villeray,-73.6202,45.54,5,5
+Montreal,Apartment,21.0,2,Entire home/apt,Ville-Marie,-73.56102,45.53163,7,7
+Montreal,Apartment,40.0,2,Entire home/apt,Mercier-Hochelaga-Maisonneuve,-73.53857,45.57354,5,5
+Montreal,Apartment,60.0,2,Entire home/apt,Quartier des Spectacles,-73.56992,45.50806,38,38
+Montreal,Apartment,55.0,2,Entire home/apt,0,-73.57572,45.45667,0,0
+Montreal,Apartment,54.0,4,Entire home/apt,Le Plateau,-73.58404,45.53647,62,62
+Montreal,Apartment,98.0,2,Entire home/apt,Downtown Montreal,-73.56976,45.50811,6,6
+Montreal,Apartment,70.0,4,Entire home/apt,McGill Ghetto,-73.57445,45.50679,2,2
+Montreal,Apartment,90.0,6,Entire home/apt,Verdun,-73.58551,45.43747,56,56
+Montreal,Apartment,35.0,2,Private room,0,-73.5791,45.51757,5,5
+Montreal,Apartment,55.0,2,Private room,Le Plateau,-73.5865,45.52922,0,0
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.58056,45.52698,3,3
+Montreal,Apartment,95.0,5,Entire home/apt,Notre-Dame-de-Grace,-73.62484,45.47589,1,1
+Montreal,Apartment,68.0,2,Entire home/apt,Rosemont-La Petite-Patrie,-73.55511,45.55062,44,44
+Montreal,Apartment,93.0,4,Entire home/apt,Le Plateau,-73.57055,45.51751,110,110
+Montreal,Apartment,63.0,2,Entire home/apt,Mile End,-73.58965,45.52222,1,1
+Montreal,Condominium,82.0,2,Entire home/apt,Old Port,-73.54875,45.51108,134,134
+Montreal,Apartment,44.0,2,Entire home/apt,Villeray-Saint-Michel-Parc-Extension,-73.60023,45.5549,0,0
+Montreal,Apartment,101.0,2,Private room,Anjou,-73.58241,45.60181,0,0
+Montreal,Apartment,86.0,5,Entire home/apt,Le Plateau,-73.57326,45.52323,2,2
+Montreal,Apartment,82.0,2,Entire home/apt,0,-73.56171,45.49719,0,0
+Montreal,Apartment,129.0,6,Entire home/apt,Le Plateau,-73.57376,45.51531,1,1
+Montreal,Apartment,40.0,2,Private room,Le Plateau,-73.58644,45.5306,6,6
+Montreal,Apartment,101.0,2,Entire home/apt,Old Montreal,-73.55941,45.50367,84,84
+Montreal,Apartment,101.0,3,Entire home/apt,0,-73.57317,45.53339,1,1
+Montreal,Apartment,200.0,6,Entire home/apt,Old Rosemont,-73.57354,45.54895,0,0
+Montreal,House,380.0,1,Private room,Hochelaga-Maisonneuve,-73.54547,45.54974,0,0
+Montreal,Apartment,125.0,2,Entire home/apt,High Park North,-73.57123,45.51768,3,3
+Montreal,Apartment,90.0,4,Entire home/apt,Downtown Montreal,-73.57995,45.49057,140,140
+Montreal,Apartment,46.0,2,Private room,Le Plateau,-73.57847,45.52257,0,0
+Montreal,Apartment,89.0,2,Entire home/apt,Downtown Montreal,-73.5569,45.51323,33,33
+Montreal,Apartment,75.0,4,Entire home/apt,Le Plateau,-73.57168,45.52267,2,2
+Montreal,Apartment,75.0,5,Entire home/apt,La Petite-Patrie,-73.60524,45.54601,7,7
+Montreal,Apartment,107.0,7,Entire home/apt,Gay Village,-73.57114,45.51542,58,58
+Montreal,Apartment,60.0,6,Entire home/apt,0,-73.56749,45.53359,1,1
+Montreal,Apartment,30.0,2,Private room,Hochelaga-Maisonneuve,-73.54518,45.55946,99,99
+Montreal,Apartment,50.0,2,Private room,Le Plateau,-73.57775,45.53161,0,0
+Montreal,Apartment,90.0,3,Entire home/apt,Le Plateau,-73.57605,45.52591,0,0
+Montreal,Apartment,50.0,2,Entire home/apt,0,-73.54717,45.54224,3,3
+Montreal,Serviced apartment,64.0,2,Entire home/apt,Downtown Montreal,-73.55844,45.5049,6,6
+Montreal,Condominium,60.0,4,Entire home/apt,La Petite-Patrie,-73.60697,45.54161,6,6
+Montreal,Apartment,118.0,4,Entire home/apt,Downtown Montreal,-73.57561,45.49387,2,2
+Montreal,Serviced apartment,64.0,2,Entire home/apt,Downtown Montreal,-73.55801,45.5049,7,7
+Montreal,Apartment,43.0,4,Entire home/apt,Parc-Extension,-73.62043,45.52759,9,9
+Montreal,Apartment,113.0,3,Entire home/apt,0,-73.57858,45.5256,136,136
+Montreal,Apartment,40.0,2,Private room,Le Plateau,-73.57699,45.52994,0,0
+Montreal,Bed and breakfast,157.0,3,Private room,Little Burgundy,-73.5739,45.48749,0,0
+Montreal,Townhouse,101.0,2,Entire home/apt,Downtown Montreal,-73.55837,45.52153,120,120
+Montreal,Apartment,25.0,2,Private room,Le Plateau,-73.56897,45.53421,2,2
+Montreal,Apartment,51.0,4,Entire home/apt,Downtown Montreal,-73.56156,45.52117,6,6
+Montreal,Apartment,81.0,2,Entire home/apt,Hochelaga-Maisonneuve,-73.53937,45.55639,58,58
+Montreal,Apartment,68.0,4,Entire home/apt,La Petite-Patrie,-73.59893,45.53657,0,0
+Montreal,Apartment,25.0,2,Private room,Villeray-Saint-Michel-Parc-Extension,-73.61702,45.54432,1,1
+Montreal,Apartment,55.0,2,Entire home/apt,Hochelaga-Maisonneuve,-73.54764,45.5423,0,0
+Montreal,Serviced apartment,169.0,4,Entire home/apt,Ville-Marie,-73.57983,45.50001,39,39
